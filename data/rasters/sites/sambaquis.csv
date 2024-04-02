@@ -1,0 +1,269 @@
+id;nome;Municipio;Classificação autora;UF;decimallon;decimallat
+500;Itacoara;Joinville;Sambaqui;SC;-48.86158838;-26.40296055
+501;Sambaqui Morro do Ouro;Joinville;Sambaqui;SC;-48.827155;-26.31437118
+502;Sambaqui Forte Marechal Luz ;São Francisco do Sul;Sambaqui;SC;-48.53227547;-26.16548693
+503;Sambaqui Ilhota 2;Ilhota;Sambaqui;SC;-48.82176827;-26.87088118
+504;Sambaqui Balsinha I;Laguna;Sambaqui;SC;-48.801474;-28.359889
+505;Pantano do Sul I;Florianópolis;Sambaqui;SC;-48.51;-27.78
+506;Praia das Laranjeiras I;Balneario CamboriÃº;Sambaqui;SC;-48.593737;-26.996715
+507;SC-ARA-050;Araranguá;Sambaqui;SC;-49.36374278;-28.93405991
+508;Morro Agudo;Araranguá;Sambaqui;SC;-49.35539706;-28.9220825
+509;SC-ARA-048;Araranguá;Sambaqui;SC;-49.35301023;-28.92772947
+510;Barra do Ararangua;Araranguá;Sambaqui;SC;-49.34928177;-28.92998493
+511;Fazenda dos Búfalos;Balneário Barra do Sul;Sambaqui;SC;-48.64721126;-26.46444077
+512;Costeira;Balneário Barra do Sul;Sambaqui;SC;-48.63736933;-26.45686001
+513;Sobral 1;Balneário Barra do Sul;Sambaqui;SC;-48.611185;-26.46735305
+514;Sobral 2;Balneário Barra do Sul;Sambaqui;SC;-48.60972838;-26.46796941
+515;Lagoa de Fora II;Balneário Gaivota;Sambaqui;SC;-49.61149155;-29.12766705
+516;Picarras 1;Balneário Piçarras;Sambaqui;SC;-48.68455729;-26.76014421
+517;Rio Itapocu;Barra Velha;Sambaqui;SC;-48.72048266;-26.60170753
+518;Areias de Baixo II;Biguaçu;Sambaqui;SC;-48.605867;-27.400035
+519;Sambaqui da Rua 13;Bombinhas;Sambaqui;SC;-48.50661439;-27.14431149
+520;Ponta dos Limões I;Florianópolis;Sambaqui;SC;-48.54481321;-27.61648507
+521;Ponta do Sambaqui;Florianópolis;Sambaqui;SC;-48.53848094;-27.49085271
+522;Carianos II;Florianópolis;Sambaqui;SC;-48.53372783;-27.66547119
+523;Ponta do Lessa I;Florianópolis;Sambaqui;SC;-48.526963;-27.57237027
+524;Saco Grande I;Florianópolis;Sambaqui;SC;-48.51279694;-27.55399003
+525;Jurerê IV;Florianópolis;Sambaqui;SC;-48.50633659;-27.45850101
+526;Jurerê III;Florianópolis;Sambaqui;SC;-48.50268178;-27.4564053
+527;Ponta da Armacao I;Florianópolis;Sambaqui;SC;-48.49995487;-27.74985191
+528;Campo de Jurerê I;Florianópolis;Sambaqui;SC;-48.49664317;-27.45372528
+529;Rio Tavares IV;Florianópolis;Sambaqui;SC;-48.4876965;-27.65457574
+530;Ratones I;Florianópolis;Sambaqui;SC;-48.48298344;-27.49755608
+531;Ratones II;Florianópolis;Sambaqui;SC;-48.478919;-27.50496245
+532;Ratones V (ocorrência A);Florianópolis;Sambaqui;SC;-48.47005571;-27.50403452
+533;Ratones V (ocorrência B);Florianópolis;Sambaqui;SC;-48.46909585;-27.50352982
+534;Ratones IV;Florianópolis;Sambaqui;SC;-48.46816788;-27.49102528
+535;Ratones III;Florianópolis;Sambaqui;SC;-48.46539601;-27.50204584
+536;Canasvieiras I;Florianópolis;Sambaqui;SC;-48.46306022;-27.44282224
+537;Vargem Pequena I;Florianópolis;Sambaqui;SC;-48.45806001;-27.47914733
+538;Vargem do Bom Jesus II;Florianópolis;Sambaqui;SC;-48.43594243;-27.4447527
+539;Vargem do Bom Jesus I;Florianópolis;Sambaqui;SC;-48.43214544;-27.4458196
+540;Vargem do Bom Jesus III;Florianópolis;Sambaqui;SC;-48.42915161;-27.44670273
+541;Sao Joao do Rio Vermelho I;Florianópolis;Sambaqui;SC;-48.4242194;-27.51133143
+542;Residencial Pedra Branca II;Garopaba;Sambaqui;SC;-48.64837;-28.046638
+543;SC-DUN-002;Garopaba;Sambaqui;SC;-48.635145;-28.102533
+544;Encosta da Lagoa;Garopaba;Sambaqui;SC;-48.62900244;-28.04959836
+545;Capao de Garopaba;Garopaba;Sambaqui;SC;-48.62842706;-28.08227828
+546;Nova Bremen;Ibirama;Sambaqui;SC;-49.584022;-27.046629
+547;Sambaqui da Lagoa dos Freitas II;Içara;Sambaqui;SC;-49.219351;-28.806643
+548;Sambaqui Ilha dos Pereira;Imaruí;Sambaqui;SC;-48.73882415;-28.27090372
+549;Itaiópolis I;Itaiópolis;Sambaqui;SC;-49.81057655;-26.49655473
+550;Sambaqui Volta Velha I;Itapoá;Sambaqui;SC;-48.65256066;-26.09711221
+551;Jaguaruna V;Itapoá;Sambaqui;SC;-48.62783546;-26.15778925
+552;Rio Inferninho;Itapoá;Sambaqui;SC;-48.6227298;-26.14491682
+553;SITIO JAGUARUNA XI;Itapoá;Sambaqui;SC;-48.62265442;-26.15997811
+554;Jaguaruna XI;Itapoá;Sambaqui;SC;-48.62256205;-26.15993999
+555;JAGUARUNA XII;Itapoá;Sambaqui;SC;-48.62240068;-26.15177932
+556;Jaguaruna VI;Itapoá;Sambaqui;SC;-48.61717215;-26.18188417
+557;Morro Grande I (atualizacao CNSA SC00666);Jaguaruna;Sambaqui;SC;-49.084822;-28.697285
+558;Morro Grande II (atualizacao CNSA SC00667);Jaguaruna;Sambaqui;SC;-49.084182;-28.701508
+559;Sambaqui da Amizade;Jaguaruna;Sambaqui;SC;-49.00337422;-28.56143827
+560;Sambaqui da Amizade 2;Jaguaruna;Sambaqui;SC;-49.000468;-28.563798
+561;Jaboticabeiras V;Jaguaruna;Sambaqui;SC;-48.97576178;-28.58100055
+562;Jaboticabeira VII;Jaguaruna;Sambaqui;SC;-48.9748585;-28.58172699
+563;Garopaba do Sul I;Jaguaruna;Sambaqui;SC;-48.8929;-28.625531
+564;Ribeirao do Cubatao;Joinville;Sambaqui;SC;-48.80614857;-26.20178325
+565;Sambaqui Cabecuda 01;Laguna;Sambaqui;SC;-48.83023124;-28.38557463
+566;Ponta do Perixil;Laguna;Sambaqui;SC;-48.80138683;-28.35888185
+567;Estreito;Laguna;Sambaqui;SC;-48.75922999;-28.37423278
+568;Ponta do Maruim;Palhoça;Sambaqui;SC;-48.65722222;-27.62944444
+569;Massiambu-02;Palhoça;Sambaqui;SC;-48.64030525;-27.86682408
+570;SC Massiambu 03;Palhoça;Sambaqui;SC;-48.63599591;-27.87076553
+571;Perequê II;Porto Belo;Sambaqui;SC;-48.60612;-27.1606
+572;Sambaqui Ilha Joao da Cunha;Porto Belo;Sambaqui;SC;-48.53995905;-27.13654125
+573;Sambaqui do Portinho II;São Francisco do Sul;Sambaqui;SC;-48.61431031;-26.24266211
+574;Sambaqui do Portinho I;São Francisco do Sul;Sambaqui;SC;-48.61396043;-26.24166358
+575;Ribeira VIII;São Francisco do Sul;Sambaqui;SC;-48.70991787;-26.30665277
+576;Ribeira IX;São Francisco do Sul;Sambaqui;SC;-48.709674;-26.30632397
+577;Ribeira VII;São Francisco do Sul;Sambaqui;SC;-48.70474176;-26.30101959
+578;Praia do Pereira;São Francisco do Sul;Sambaqui;SC;-48.67901461;-26.28563305
+579;Laranjeiras VI;São Francisco do Sul;Sambaqui;SC;-48.67002786;-26.27643534
+580;Laranjeiras V;São Francisco do Sul;Sambaqui;SC;-48.66745418;-26.27898368
+581;Laranjeiras IV;São Francisco do Sul;Sambaqui;SC;-48.666835;-26.280896
+582;Ilha Araújo de Dentro;São Francisco do Sul;Sambaqui;SC;-48.66165913;-26.270433
+583;Sambaqui Morretinha;São Francisco do Sul;Sambaqui;SC;-48.659604;-26.355757
+584;Porto do Rei II;São Francisco do Sul;Sambaqui;SC;-48.61515;-26.398025
+585;Tapera IX;São Francisco do Sul;Sambaqui;SC;-48.61493765;-26.28239796
+586;Tapera VIII;São Francisco do Sul;Sambaqui;SC;-48.61456699;-26.27996415
+587;Tapera VII;São Francisco do Sul;Sambaqui;SC;-48.61452681;-26.28045984
+588;Monte de Trigo;São Francisco do Sul;Sambaqui;SC;-48.614318;-26.251487
+589;Sambaqui Praia do Ervino II;São Francisco do Sul;Sambaqui;SC;-48.59765894;-26.41615174
+590;Sambaqui Rua Sergipe;São Francisco do Sul;Sambaqui;SC;-48.597518;-26.416158
+591;Sambaqui;São Francisco do Sul;Sambaqui;SC;-48.58424581;-26.2238019
+592;Sambaqui Praia Grande S2;São Francisco do Sul;Sambaqui;SC;-48.578576;-26.373929
+593;Praia Grande III;São Francisco do Sul;Sambaqui;SC;-48.572259;-26.366034
+594;Sambaqui da Ilha da Casca;São José do Cerrito;Sambaqui;SC;-48.632295;-27.644201
+595;Sambaqui da Ponta do Cubiculo;Treze de Maio;Sambaqui;SC;-49.06265265;-28.56323857
+596;Sambaqui do Rio Cubiculo;Treze de Maio;Sambaqui;SC;-49.05340708;-28.56021866
+597;Sambaqui das Abelhas;Tubarão;Sambaqui;SC;-49.05199392;-28.54260213
+598;Sambaqui da Ponta do Simao;Tubarão;Sambaqui;SC;-49.04627467;-28.53078911
+599;SC-formigao-01;Tubarão;Sambaqui;SC;-49.04277627;-28.49723457
+600;Monte Castelo II;Tubarão;Sambaqui;SC;-49.027963;-28.514621
+601;SC TUB 32;Tubarão;Sambaqui;SC;-49.027105;-28.503946
+602;Congonhas I;Tubarão;Sambaqui;SC;-49.008501;-28.524727
+603;Congonhas IV;Tubarão;Sambaqui;SC;-48.98035873;-28.5083396
+604;Sambaqui Rio Pinheiros II;Balneário Barra do Sul;Sambaqui;SC;-48.63538242;-26.42309801
+605;Sambaqui Conquista B;Araquari;Sambaqui;SC;-48.67198375;-26.41181323
+606;Sambaqui Linguado B;Balneário Barra do Sul;Sambaqui;SC;-48.669513;-26.360574
+607;Sambaqui Linguado A;Balneário Barra do Sul;Sambaqui;SC;-48.662248;-26.365556
+608;Sambaqui Rio Comprido I;Joinville;Sambaqui;SC;-48.80717366;-26.27617809
+609;Figueirinha 5;Jaguaruna;Sambaqui;SC;-48.98819208;-28.66359661
+610;Figueirinha 3;Jaguaruna;Sambaqui;SC;-48.9738861;-28.66325692
+611;Figueirinha 2;Jaguaruna;Sambaqui;SC;-48.97106522;-28.6593978
+612;Figueirinha 1;Jaguaruna;Sambaqui;SC;-48.97062213;-28.66328022
+613;Figueirinha 4;Jaguaruna;Sambaqui;SC;-48.97040831;-28.65844952
+614;Sambaqui Guanabara II;Joinville;Sambaqui;SC;-48.82549436;-26.3180284
+615;Sambaqui Gaspar;Gaspar;Sambaqui;SC;-48.916667;-26.966667
+616;Sambaqui Rio Pereque;Balneário Barra do Sul;Sambaqui;SC;-48.63444444;-26.4525
+617;Sambaqui Jurere IV;Florianópolis;Sambaqui;SC;-48.50055556;-27.45111111
+618;Sambaqui Jurere III;Florianópolis;Sambaqui;SC;-48.50027778;-27.45083333
+619;Sambaqui Tavares III;Florianópolis;Sambaqui;SC;-48.5;-27.66
+620;Sambaqui Ratones I;Florianópolis;Sambaqui;SC;-48.47;-27.49
+621;Sambaqui Samambaia;Imaruí;Sambaqui;SC;-48.86888889;-28.3175
+622;Sambaqui Garopaba;Jaguaruna;Sambaqui;SC;-48.88472222;-28.61805556
+623;Sambaqui Palmital;Joinville;Sambaqui;SC;-48.80222222;-26.13416667
+624;Sambaqui Ponta das Almas;Florianópolis;Sambaqui;SC;-48.4593447;-27.59526699
+625;Sambaqui Espinheiros I;Joinville;Sambaqui;SC;-48.843889;-26.301389
+626;Encantada 1 (Emideo);Jaguaruna;Sambaqui;SC;-48.91567338;-28.624045
+627;Sambaqui Barra da Lagoa I;Florianópolis;Sambaqui;SC;-48.42;-27.57
+628;Sambaqui Praia Grande ;São Francisco do Sul;Sambaqui;SC;-48.42;-27.53
+629;Sambaqui Caieira;Laguna;Sambaqui;SC;-48.7675;-28.45
+630;Sambaqui Carnica I;Laguna;Sambaqui;SC;-48.80222222;-28.53444444
+631;Sambaqui Canto dos Aracas;Florianópolis;Sambaqui;SC;-48.46;-27.59
+632;Praia das Laranjeiras II;Balneario CamboriÃº;Sambaqui;SC;-48.589277;-26.997168
+633;Sambaqui Ilhota;Ilhota;Sambaqui;SC;-48.799256;-26.873637
+634;Sambaqui Cabecudas;Laguna;Sambaqui;SC;-48.8293593;-28.428339
+635;Areias Pequenhas;Araquari;Sambaqui;SC;-48.68886374;-26.36491395
+636;Sambaqui Pernambuco;Balneário Barra do Sul;Sambaqui;SC;-48.66802778;-26.38126294
+637;Sambaqui Guanabara I;Joinville;Sambaqui;SC;-48.82300218;-26.32115851
+638;Sambaqui Rio Bacuruiuma I;Joinville;Sambaqui;SC;-48.8033353;-26.14533956
+639;Sambaqui Lagoa do Saguacu;Joinville;Sambaqui;SC;-48.79548427;-26.30720883
+640;Sambaqui ilha dos Espinheiros II;Joinville;Sambaqui;SC;-48.77894972;-26.29153836
+641;Sambaqui Bupeva VII;São Francisco do Sul;Sambaqui;SC;-48.60793851;-26.44253139
+642;Sambaqui Bupeva I;São Francisco do Sul;Sambaqui;SC;-48.6057557;-26.44095163
+643;Sambqaui Rua Guaira;Joinville;Sambaqui;SC;-48.80853235;-26.25181198
+644;Sambaqui Garopaba do Sul;Jaguaruna;Sambaqui;SC;-48.892584;-28.613713
+645;Sambaqui Cubatao I;Joinville;Sambaqui;SC;-48.77206156;-26.22229729
+646;Sambaqui Tiburtius;Joinville;Sambaqui;SC;-48.79813405;-26.16776986
+647;Sanbaqui Rio das Ostras;Joinville;Sambaqui;SC;-48.80032087;-26.15996912
+648;Sambaqui Cubatao III;Joinville;Sambaqui;SC;-48.7818647;-26.20453346
+649;Sambaqui Vargem do Bom Jesus I;Florianópolis;Sambaqui;SC;-48.43209698;-27.44572848
+650;Galheta IV;Laguna;Sambaqui;SC;-48.7888;-28.5551
+651;Arroio da Cruz I;Jaguaruna;Sambaqui;SC;-49.0815;-28.7213
+652;Sambaqui Capivari I;Capivari de Baixo;Sambaqui;SC;-48.961111;-28.452587
+653;Sambaqui Canto da Lagoa II;Florianópolis;Sambaqui;SC;-49.11;-28.407
+654;Sambaqui Canto da Lagoa I;Florianópolis;Sambaqui;SC;-48.48;-27.63
+655;Ilhotinha;Gravatal;Sambaqui;SC;-48.96453303;-28.396531
+656;Sambaqui Morro Azul;Jaguaruna;Sambaqui;SC;-49.05564331;-28.610332
+657;Jaguaruna 1;Jaguaruna;Sambaqui;SC;-49.02151902;-28.603326
+658;Porto Viera 1;Jaguaruna;Sambaqui;SC;-49.00133967;-28.583105
+659;Jabuticabeira;Jaguaruna;Sambaqui;SC;-48.98266567;-28.561524
+660;Jabuticabeira II;Jaguaruna;Sambaqui;SC;-48.96030359;-28.578976
+661;Encantada 3 (Juventus);Jaguaruna;Sambaqui;SC;-48.91490772;-28.615699
+662;Santa Marta 1;Laguna;Sambaqui;SC;-48.83061686;-28.591422
+663;Santa Marta 10;Laguna;Sambaqui;SC;-48.82188545;-28.588991
+664;Galheta 3;Laguna;Sambaqui;SC;-48.79642441;-28.544683
+665;Lagoa dos Bichos I;Laguna;Sambaqui;SC;-48.79037848;-28.536693
+666;Galheta 2;Laguna;Sambaqui;SC;-48.7885533;-28.554115
+667;Lagoa dos Bichos II;Laguna;Sambaqui;SC;-48.78846628;-28.531385
+668;Lagoa dos Bichos IV;Laguna;Sambaqui;SC;-48.78794681;-28.534732
+669;Galheta 1;Laguna;Sambaqui;SC;-48.78769081;-28.553822
+670;Lagoa dos Bichos III;Laguna;Sambaqui;SC;-48.7870885;-28.530335
+671;Ribeirao Pequeno;Ribeirao Pequeno;Sambaqui;SC;-48.89167232;-28.513319
+672;Rio Caipora;São Gabriel;Sambaqui;SC;-49.0988309;-28.559512
+673;Lajeado 1;Tubarão;Sambaqui;SC;-49.07480507;-28.543045
+674;Cubiculo I;Tubarão;Sambaqui;SC;-49.0628319;-28.551777
+675;Cubiculo II;Tubarão;Sambaqui;SC;-49.05366968;-28.548724
+676;Monte Castelo;Tubarão;Sambaqui;SC;-49.02087442;-28.509391
+677;Sambaqui Congonhas;Tubarão;Sambaqui;SC;-49.00813624;-28.513697
+678;Sambaqui Congonhas 1;Tubarão;Sambaqui;SC;-49.00813624;-28.513697
+679;Sambaqui Congonhas 2;Tubarão;Sambaqui;SC;-49.00813624;-28.513697
+680;Sambaqui Congonhas 3;Tubarão;Sambaqui;SC;-49.00813624;-28.513697
+681;Morrinhos;Tubarão;Sambaqui;SC;-48.97525754;-28.502649
+682;Mato Alto 2;Tubarão;Sambaqui;SC;-48.97065944;-28.518193
+683;Mato Alto 1;Tubarão;Sambaqui;SC;-48.96874059;-28.520762
+684;Morrote;Tubarão;Sambaqui;SC;-48.96244642;-28.5362
+685;Sambaqui Enseada I;São Francisco do Sul;Sambaqui;SC;-48.49979216;-26.23390818
+686;Sambaqui Ponta do Lessa;Florianópolis;Sambaqui;SC;-48.526963;-27.57237027
+687;Sambaqui Cubataozinho;Joinville;Sambaqui;SC;-48.78244529;-26.22245792
+688;Sambaqui Cubatao IV;Joinville;Sambaqui;SC;-48.77365631;-26.21579665
+689;Sambaqui Ponta das Palmas;Joinville;Sambaqui;SC;-48.76156683;-26.20284699
+690;Sambaqui Ribeirao do Cubatao;Joinville;Sambaqui;SC;-48.80622961;-26.20173033
+691;Sambaqui Ribeirão do Cubatao;Joinville;Sambaqui;SC;-48.80622961;-26.20173033
+692;Sambaqui Pereque de Praia Grande;São Francisco do Sul;Sambaqui;SC;-48.6066307;-26.40345127
+693;Sambaqui Bupeva VIII;São Francisco do Sul;Sambaqui;SC;-48.60521094;-26.44014834
+694;Sambaqui Praia Grande I;São Francisco do Sul;Sambaqui;SC;-48.59805613;-26.40810855
+695;Sambaqui Praia do Ervino I;São Francisco do Sul;Sambaqui;SC;-48.59747274;-26.41449712
+696;Sambaqui Praia Grande XI (S2);São Francisco do Sul;Sambaqui;SC;-48.57860338;-26.37404699
+697;Sambaqui Praia Grande II;São Francisco do Sul;Sambaqui;SC;-48.573079;-26.36657139
+698;Sambaqui Praia Grande II/III;São Francisco do Sul;Sambaqui;SC;-48.57277401;-26.36630451
+699;Sambaqui Praia Grande III;São Francisco do Sul;Sambaqui;SC;-48.57226931;-26.36600717
+700;Sambaqui Praia Grande V;São Francisco do Sul;Sambaqui;SC;-48.56490441;-26.34696684
+701;Sambaqui Praia Grande VI;São Francisco do Sul;Sambaqui;SC;-48.56290346;-26.33060757
+702;Sambaqui Praia Grande VIII;São Francisco do Sul;Sambaqui;SC;-48.56231049;-26.31780079
+703;Sambaqui Praia Grande IV;São Francisco do Sul;Sambaqui;SC;-48.56175889;-26.33361128
+704;Sambaqui Praia Grande VII;São Francisco do Sul;Sambaqui;SC;-48.56050343;-26.31419635
+705;Sambaqui Praia Grande IX;São Francisco do Sul;Sambaqui;SC;-48.55823069;-26.32134112
+706;Sambaqui Lagoa do Acarai I;São Francisco do Sul;Sambaqui;SC;-48.54667638;-26.28940489
+707;Sambaqui Lagoa do Acarai IV (S10);São Francisco do Sul;Sambaqui;SC;-48.54667638;-26.28940489
+708;Sambaqui Lagoa do Acarai III (S12);São Francisco do Sul;Sambaqui;SC;-48.54280847;-26.28340061
+709;Sambaqui Lagoa do Acarai VII (S13);São Francisco do Sul;Sambaqui;SC;-48.5427425;-26.28510509
+710;Sambaqui Lagoa do Acarai V (S11);São Francisco do Sul;Sambaqui;SC;-48.54137927;-26.28139075
+711;Sambaqui Bupeva III;São Francisco do Sul;Sambaqui;SC;-48.60429765;-26.44068352
+712;Sambqaui Casa de Pedra;São Francisco do Sul;Sambaqui;SC;-48.5651196;-26.33764823
+713;Sambaqui Bupeva II;São Francisco do Sul;Sambaqui;SC;-48.60125374;-26.44728349
+714;Santa Marta 6;Laguna;Sambaqui;SC;-48.83751812;-28.584894
+715;Santa Marta 5;Laguna;Sambaqui;SC;-48.83679667;-28.582186
+716;Santa Marta 4;Laguna;Sambaqui;SC;-48.8361577;-28.583438
+717;Santa Marta 3;Laguna;Sambaqui;SC;-48.82275466;-28.584017
+718;Sambaqui Costeira;Balneário Barra do Sul;Sambaqui;SC;-48.63090127;-26.4388169
+719;Sambaqui Espinheiros II;Joinville;Sambaqui;SC;-48.79277994;-26.28398099
+720;Sambaqui Figueirinha 3;Jaguaruna;Sambaqui;SC;-48.9738861;-28.66325692
+721;Sambaqui Porto do Rio Vermelho I;Florianópolis;Sambaqui;SC;-48.42;-27.52
+722;Sambaqui Porto do Rio Vermelho II;Florianópolis;Sambaqui;SC;-48.42;-27.52
+1682;Sambaqui Sereia do Mar;Arroio do Sal;Sambaqui;RS;-49.90921107;-29.57763655
+1683;Sambaqui do Camping;Capão da Canoa;Sambaqui;RS;-49.95205549;-29.63155931
+1684;Sambaqui Itapeva;Torres;Sambaqui;RS;-49.75973789;-29.38414462
+1685;Sambaqui da Dorva;Três Cachoeiras;Sambaqui;RS;-49.8791484;-29.424919
+1686;RS-LN-315: Marambaia 4;Arroio do Sal;Sambaqui;RS;-49.91121108;-29.57874111
+1687;RS-LN-314: Marambaia 3;Arroio do Sal;Sambaqui;RS;-49.9104036;-29.57798547
+1688;RS-LN-313: Marambaia 2;Arroio do Sal;Sambaqui;RS;-49.90912587;-29.57295744
+1689;Camboim 2;Arroio do Sal;Sambaqui;RS;-49.87884431;-29.51993093
+1690;Camboim 3;Arroio do Sal;Sambaqui;RS;-49.87348648;-29.52018344
+1691;Rondinha;Arroio do Sal;Sambaqui;RS;-49.86744044;-29.5258302
+1692;Jardim Olivia 2;Arroio do Sal;Sambaqui;RS;-49.86239093;-29.51129022
+1693;RS-LN-304: Santa Rosa 2;Arroio do Sal;Sambaqui;RS;-49.858845;-29.505457
+1694;Arroio Seco 15;Arroio do Sal;Sambaqui;RS;-49.83352597;-29.46349462
+1695;Arroio Seco 8;Arroio do Sal;Sambaqui;RS;-49.83278285;-29.46703997
+1696;Arroio Seco 5;Arroio do Sal;Sambaqui;RS;-49.82887;-29.46293561
+1697;Arroio Seco 6;Arroio do Sal;Sambaqui;RS;-49.82617445;-29.46329089
+1698;Arroio Seco 7;Arroio do Sal;Sambaqui;RS;-49.82552984;-29.46285203
+1699;Arroio Seco 4;Arroio do Sal;Sambaqui;RS;-49.82522665;-29.46231692
+1700;Arroio Seco 3;Arroio do Sal;Sambaqui;RS;-49.82414732;-29.4611252
+1701;Arroio Seco 2;Arroio do Sal;Sambaqui;RS;-49.82345316;-29.46051443
+1702;Arroio Seco 1;Arroio do Sal;Sambaqui;RS;-49.82308666;-29.45921169
+1703;Torres Sul 1;Arroio do Sal;Sambaqui;RS;-49.82053271;-29.44376645
+1704;Serra Azul 3;Arroio do Sal;Sambaqui;RS;-49.81819788;-29.45218352
+1705;Serra Azul 1;Arroio do Sal;Sambaqui;RS;-49.81775711;-29.45106961
+1706;Sitio arqueológico Vento Frio;Capão da Canoa;Sambaqui;RS;-50.04272509;-29.65374096
+1707;RS - LC - 95;Palmares do Sul;Sambaqui;RS;-50.35583333;-30.4185
+1708;RS - LC - 93;Palmares do Sul;Sambaqui;RS;-50.355;-30.41583333
+1709;RS - LC - 91;Palmares do Sul;Sambaqui;RS;-50.35166667;-30.39733333
+1710;RS - LC - 87;Palmares do Sul;Sambaqui;RS;-50.34916667;-30.3615
+1711;RS - LC - 86;Palmares do Sul;Sambaqui;RS;-50.3485;-30.36183333
+1712;RS-LC-14 Capao da Marca A;Tavares;Sambaqui;RS;-51.1678958;-31.33076285
+1713;RS-LC-15 Capao da Marca B;Tavares;Sambaqui;RS;-51.16611941;-31.32518395
+1714;RS-LC-17 Farol da Marca B;Tavares;Sambaqui;RS;-51.16353814;-31.31671605
+1715;RS-LC-16 Farol da Marca A;Tavares;Sambaqui;RS;-51.16318753;-31.31698606
+1716;RS-LC-20 Campo da Honra B;Tavares;Sambaqui;RS;-51.16057892;-31.30341244
+1717;RS - LN - 012;Torres;Sambaqui;RS;-49.74916667;-29.36866667
+1718;Balneario Atlantico;Arroio do Sal;Sambaqui;RS;-49.84380431;-29.48101941
+1719;Serra Azul 2;Arroio do Sal;Sambaqui;RS;-49.81761852;-29.45057204
+1720;RS-LN-312: Marambaia 1;Arroio do Sal;Sambaqui;RS;-49.9089544;-29.57354262
+1721;Sambaqui do Recreio;Torres;Sambaqui;RS;-49.7862024;-29.4115967
+3148;SC-ARA-063;(copiado);Sambaqui;SC;-49.41968997;-28.91657172
+3149;SC-ARA-049;(copiado);Sambaqui;SC;-49.36438453;-28.9395724
+3150;SC-ARA-031 - Barra do Ararangua;(copiado);Sambaqui;SC;-49.349282;-28.929985
+3151;SC-ARA-047;(copiado);Sambaqui;SC;-49.34264987;-28.92516581
+3152;Ponta do Sambaqui;(copiado);Sambaqui;(copiado);-48.53848094;-27.49085271

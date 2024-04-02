@@ -1,0 +1,600 @@
+id;nome;Municipio;Classificação autora;UF;decimallon;decimallat
+99;El Arbolito;Colonia del Sacramento;Guarani;URG;-58.26;-34.127
+100;Isla Vizcaino;Río Negro;Guarani;URG;-58.38041;-33.40143
+101;Yaguareté;(copiado);Guarani;URG;-58.27454;-33.12453
+102;Punta Negra Este;Río Negro;Guarani;URG;-58.23621;-33.10343
+1410;Itapiranga;Itapiranga;Guarani;SC;-53.75;-27.183333
+1411;Sao Carlos;Águas de Chapecó;Guarani;SC;-53.016667;-27.1
+1412;Barra escondida 1;Mondaí;Guarani;SC;-53.433333;-27.133333
+1413;Joao A. Guarantier;Volta Grande;Guarani;SC;-53.033333;-27.083333
+1414;Linha Lampari;Águas de Chapecó;Guarani;SC;-53.0401163;-27.12965604
+1415;Antônio Ceccon;Águas de Chapecó;Guarani;SC;-53.03858399;-27.12692566
+1416;Linha Policial 5 ACH LP 5;Águas de Chapecó;Guarani;SC;-53.036909;-27.12466663
+1417;Linha Policial 2 ACH LP 2;Águas de Chapecó;Guarani;SC;-53.03522247;-27.12956463
+1418;Linha Policial 4 ACH LP 4;Águas de Chapecó;Guarani;SC;-53.03371616;-27.12714969
+1419;Linha Policia 6 ACH LP 6;Águas de Chapecó;Guarani;SC;-53.03140784;-27.11942153
+1420;ACH-LP-8;Águas de Chapecó;Guarani;SC;-53.01662244;-27.10653013
+1421;Armindo Pohlmann;Alto Bela Vista;Guarani;SC;-51.97608378;-27.39429036
+1422;Andre Davidiuk Malazkiewicz II;Alto Bela Vista;Guarani;SC;-51.96599797;-27.36957145
+1423;Paulino Merib;Alto Bela Vista;Guarani;SC;-51.95460141;-27.47064759
+1424;Andre Davidiuk Malazkiewicz;Alto Bela Vista;Guarani;SC;-51.94101067;-27.46605494
+1425;Gaudêncio Machado;Alto Bela Vista;Guarani;SC;-51.93985515;-27.45032816
+1426;Olipio Lohmann;Alto Bela Vista;Guarani;SC;-51.93391098;-27.44380527
+1427;Antonio Dilson Castro;Alto Bela Vista;Guarani;SC;-51.92753821;-27.44643868
+1428;Adalicio Fischer I;Alto Bela Vista;Guarani;SC;-51.89944958;-27.48392387
+1429;Victor Paulino Rech;Alto Bela Vista;Guarani;SC;-51.89899975;-27.44345714
+1430;Rui Sargafredo;Alto Bela Vista;Guarani;SC;-51.89799864;-27.49971299
+1431;Homero Gettert;Alto Bela Vista;Guarani;SC;-51.89504147;-27.44070219
+1432;U-381: Batista Recttor;Alto Bela Vista;Guarani;SC;-51.89055393;-27.42997028
+1433;Marlene Maria Rodrigues;Alto Bela Vista;Guarani;SC;-51.88653898;-27.51868065
+1434;Romildo Alexandri;Alto Bela Vista;Guarani;SC;-51.8855337;-27.42970436
+1435;Sirio Lohamann;Alto Bela Vista;Guarani;SC;-50.86911767;-27.52221199
+1436;Barranca do rio Parati 2;Araquari;Guarani;SC;-48.70878597;-26.35843833
+1437;SC-ARA-058;Araranguá;Guarani;SC;-49.46070881;-28.90738185
+1438;SC-ARA-060;Araranguá;Guarani;SC;-49.45090289;-28.91230498
+1439;SC-ARA-061;Araranguá;Guarani;SC;-49.42105045;-28.91816692
+1440;Aldeia Levandoski;Araranguá;Guarani;SC;-49.38194667;-28.90990578
+1441;Aldeia da Balsa;Araranguá;Guarani;SC;-49.37534774;-28.92663829
+1442;SC-ARA-049;Araranguá;Guarani;SC;-49.36438453;-28.9395724
+1443;SC-ARA-057;Araranguá;Guarani;SC;-49.36052868;-28.93296498
+1444;SC-ARA-055;Araranguá;Guarani;SC;-49.35444948;-28.91908396
+1445;Campo Mae Luiza 008;Araranguá;Guarani;SC;-49.35359663;-28.89580039
+1446;Campo Mae Luiza 009;Araranguá;Guarani;SC;-49.35225329;-28.89450254
+1447;SC-ARA-056;Araranguá;Guarani;SC;-49.35211516;-28.91687158
+1448;SC-ARA-031 - Barra do Ararangua;Araranguá;Guarani;SC;-49.349282;-28.929985
+1449;Campo Mae Luiza 010;Araranguá;Guarani;SC;-49.34865661;-28.89110153
+1450;Campo Mae Luiza 011;Araranguá;Guarani;SC;-49.34526804;-28.88946269
+1451;SC-ARA-047;Araranguá;Guarani;SC;-49.34264987;-28.92516581
+1452;Ilha do Linguado 2;Balneário Barra do Sul;Guarani;SC;-48.66332466;-26.36342531
+1453;Santo Antônio;Balneário Piçarras;Guarani;SC;-48.685818;-26.748839
+1454;Landim;Caibi;Guarani;SC;-53.30516509;-27.1206896
+1455;Comunidade Beira Rio;Caibi;Guarani;SC;-53.295514;-27.11971972
+1456;Joao Barufaldi;Caibi;Guarani;SC;-53.28718724;-27.11989172
+1457;SC-CH-119;Chapecó;Guarani;SC;-52.76080263;-27.24257822
+1458;SC-CH-170;Chapecó;Guarani;SC;-52.75927426;-27.23400488
+1459;SC-CH-173;Chapecó;Guarani;SC;-52.75800537;-27.22779301
+1460;SC-CH-176;Chapecó;Guarani;SC;-52.75559294;-27.22268758
+1461;SC-CH-183;Chapecó;Guarani;SC;-52.75190946;-27.23891701
+1462;SC-CH-184;Chapecó;Guarani;SC;-52.75120803;-27.23732821
+1463;SC-CH-134;Chapecó;Guarani;SC;-52.74669874;-27.25764752
+1464;SC-CH-165;Chapecó;Guarani;SC;-52.73780992;-27.23671891
+1465;SC-CH-194;Chapecó;Guarani;SC;-52.72068631;-27.23400886
+1466;SC-CH-158;Chapecó;Guarani;SC;-52.70415111;-27.25312662
+1467;SC-CH-142;Chapecó;Guarani;SC;-52.69368026;-27.28191111
+1468;SC-CH-67;Chapecó;Guarani;SC;-52.68992688;-27.28154132
+1469;SC-CH-68;Chapecó;Guarani;SC;-52.68743056;-27.28012731
+1470;Guilherme Jaeger C (Reducao de Candelaria);Chapecó;Guarani;SC;-52.61519843;-27.10045517
+1471;Navilho Zucchi;Concórdia;Guarani;SC;-52.24683464;-27.27935353
+1472;Edvino Thome;Concórdia;Guarani;SC;-52.23526568;-27.27467185
+1473;Darci Fernandes da Silva;Concórdia;Guarani;SC;-52.2304634;-27.2637707
+1474;Santo Alberti;Concórdia;Guarani;SC;-52.21519242;-27.32709336
+1475;Pedro Talkovsky;Concórdia;Guarani;SC;-52.09260392;-27.34545863
+1476;Arlindo Schneider IV;Concórdia;Guarani;SC;-52.0126216;-27.35840823
+1477;Leopoldo Holhn;Concórdia;Guarani;SC;-52.00095058;-27.37205396
+1478;Arlindo Schneider II;Concórdia;Guarani;SC;-52.01974255;-27.35655094
+1479;Dallagnoll;Cunha Porã;Guarani;SC;-53.16733685;-26.89102982
+1480;Costeira de Pirajubae;Florianópolis;Guarani;SC;-48.52025034;-27.64607632
+1481;sao Joao do Rio Vermelho IV;Florianópolis;Guarani;SC;-48.40526784;-27.48580593
+1482;Fazenda Garopaba 1;Garopaba;Guarani;SC;-48.6615519;-28.06914114
+1483;Garopaba 06;Garopaba;Guarani;SC;-48.644085;-28.023466
+1484;SC-ARA-001 - Zulemar Maria de Souza;Içara;Guarani;SC;-49.2965521;-28.83719911
+1485;Lombas Pedreira I;Içara;Guarani;SC;-49.24898512;-28.81063105
+1486;Balsinha 6;Imaruí;Guarani;SC;-48.81501358;-28.34839942
+1487;Balsinha 5;Imaruí;Guarani;SC;-48.75734405;-28.13424624
+1488;SC-IMB-01;Imbituba;Guarani;SC;-48.72144757;-28.17930185
+1489;Imbituba VIII;Imbituba;Guarani;SC;-48.71287366;-28.18168528
+1490;Baixo Rio D' Una I;Imbituba;Guarani;SC;-48.70792664;-28.18922697
+1491;Dunas da Guaiúba;Imbitubakj;Guarani;SC;-48.713878;-28.30069
+1492;SC NB 06;Imbitubakj;Guarani;SC;-48.713596;-28.182212
+1493;Pedro Lopes Vargas;Ipira;Guarani;SC;-51.87807171;-27.43793944
+1494;Selvino Scheochet;Ipira;Guarani;SC;-51.87766254;-27.43481853
+1495;Joao Salaminka;Ipira;Guarani;SC;-51.84655734;-27.4635106
+1496;Silvino Prediger;Itá;Guarani;SC;-52.40727902;-27.27691704
+1497;Valdemar Stentzeler;Itá;Guarani;SC;-52.39086531;-27.25032606
+1498;Martin Aigner;Itá;Guarani;SC;-52.3844477;-27.25406356
+1499;Otto Aigner I;Itá;Guarani;SC;-52.38045087;-27.25674787
+1500;Kolbow;Itá;Guarani;SC;-52.37945547;-27.26120786
+1501;Eric Guisel I;Itá;Guarani;SC;-52.37318584;-27.25076238
+1502;Sao Pedro Canisio III;Itapiranga;Guarani;SC;-53.82694333;-27.17097661
+1503;Cidade dos Bugres;Itapiranga;Guarani;SC;-53.82312784;-27.17247898
+1504;Corredeira Dourado;Itapiranga;Guarani;SC;-53.81765318;-27.15893889
+1505;Wilson Buss;Itapiranga;Guarani;SC;-53.81061205;-27.15245805
+1506;Corredeira Fortaleza II;Itapiranga;Guarani;SC;-53.80620876;-27.15463934
+1507;Lucas Queiroz;Itapiranga;Guarani;SC;-53.79158205;-27.15374037
+1508;Arroio Fortaleza III;Itapiranga;Guarani;SC;-53.78831114;-27.15320998
+1509;Rio Macaco Branco;Itapiranga;Guarani;SC;-53.76149498;-27.14960842
+1510;Arroio Santa Fe I;Itapiranga;Guarani;SC;-53.76039571;-27.15248109
+1511;Carlos Nunes;Itapiranga;Guarani;SC;-53.75991228;-27.15332967
+1512;Jose Emilio Welter;Itapiranga;Guarani;SC;-53.75596206;-27.13868301
+1513;Corredeira Capela II;Itapiranga;Guarani;SC;-53.75550376;-27.16273636
+1514;Linha Glória II;Itapiranga;Guarani;SC;-53.7541786;-27.16956518
+1515;Wilibaldo Wolfart;Itapiranga;Guarani;SC;-53.75411357;-27.16897099
+1516;Lajeado Baú;Itapiranga;Guarani;SC;-53.74900065;-27.18753993
+1517;Tarcisio Ternus;Itapiranga;Guarani;SC;-53.73946313;-27.18946803
+1518;Maria Goretti;Itapiranga;Guarani;SC;-53.706896;-27.050117
+1519;Arroio Santa Fe II;Itapiranga;Guarani;SC;-53.69745059;-27.15968786
+1520;Lote Colonial I;Itapiranga;Guarani;SC;-53.69304403;-27.15176054
+1521;Arroio Terezinha;Itapiranga;Guarani;SC;-53.69086984;-27.15615114
+1522;Posto AgroPecuario;Itapiranga;Guarani;SC;-53.68678677;-27.15960387
+1523;Orlando Pils;Itapiranga;Guarani;SC;-53.67515659;-27.15748938
+1524;Arroio Vitória II;Itapiranga;Guarani;SC;-53.64921891;-27.17480916
+1525;JBS;Itapiranga;Guarani;SC;-53.64790226;-27.21258499
+1526;Volta do Rio;Itapiranga;Guarani;SC;-53.6471631;-27.17832174
+1527;Neis;Itapiranga;Guarani;SC;-53.646986;-27.215661
+1528;Nelson Fagundes;Itapiranga;Guarani;SC;-53.646986;-27.215661
+1529;Arselio Mossmann;Itapiranga;Guarani;SC;-53.64627615;-27.20527126
+1530;Linha Glória VIII;Itapiranga;Guarani;SC;-53.64530386;-27.1679356
+1531;Arroio Lajeado;Itapiranga;Guarani;SC;-53.64437461;-27.18969789
+1532;Helio Klein;Itapiranga;Guarani;SC;-53.64427954;-27.19763967
+1533;Corredeira Capela III;Itapiranga;Guarani;SC;-53.64426053;-27.19042186
+1534;Sao Pedro Canisio I;Itapiranga;Guarani;SC;-53.64342741;-27.21582747
+1535;Corredeira Capela IV;Itapiranga;Guarani;SC;-53.64339106;-27.19034804
+1536;Sao Pedro Canisio II;Itapiranga;Guarani;SC;-53.63261175;-27.19536012
+1537;Corredeira Capela V;Itapiranga;Guarani;SC;-53.63187654;-27.19756646
+1538;Audt;Itapiranga;Guarani;SC;-53.63144481;-27.20753569
+1539;Silvio Theisen;Itapiranga;Guarani;SC;-53.61748963;-27.1842747
+1540;Linha Baú;Itapiranga;Guarani;SC;-53.61721465;-27.17725104
+1541;Lote Colonial 33;Itapiranga;Guarani;SC;-53.61443008;-27.17681577
+1542;Linha Glória IV;Itapiranga;Guarani;SC;-53.61348753;-27.18355538
+1543;Euclides Ritter;Itapiranga;Guarani;SC;-53.61160521;-27.18417695
+1544;Linha Chapeu;Itapiranga;Guarani;SC;-53.60903728;-27.18482029
+1545;Linha Glória VI;Itapiranga;Guarani;SC;-53.60709083;-27.18528962
+1546;Lote Colonial 6;Itapiranga;Guarani;SC;-53.5879944;-27.17319189
+1547;Linha Glória VII;Itapiranga;Guarani;SC;-53.58772807;-27.1817596
+1548;Arroio Baú;Itapiranga;Guarani;SC;-53.58581471;-27.18147912
+1549;Adalibio Ritter;Itapiranga;Guarani;SC;-53.57489576;-27.16688239
+1550;Arroio Fortaleza II;Itapiranga;Guarani;SC;-53.78720427;-27.15250119
+1551;Anselmo Maldaner;Itapiranga;Guarani;SC;-53.68722945;-27.1603984
+1552;Aloisio Deves;Itapiranga;Guarani;SC;-53.68607186;-27.16007772
+1553;Aloisio Deves II;Itapiranga;Guarani;SC;-53.64613543;-27.2048679
+1554;Olho D' agua XI;Jaguaruna;Guarani;SC;-49.183346;-28.7465335
+1555;Jaboticabeira VI;Jaguaruna;Guarani;SC;-48.97519674;-28.58061313
+1556;riacho dos francisco II;Jaguaruna;Guarani;SC;-48.9453479;-28.61316257
+1557;Aldeia do Tuquarucu;Laguna;Guarani;SC;-48.90163522;-28.4331188
+1558;Corredeira das Antas;Mondaí;Guarani;SC;-53.54591644;-27.17371879
+1559;Nelson Kuffel;Mondaí;Guarani;SC;-53.53590721;-27.18348283
+1560;Joao Fritzen;Mondaí;Guarani;SC;-53.5290325;-27.19092486
+1561;Odemar Krein;Mondaí;Guarani;SC;-53.50196233;-27.20143571
+1562;Mondai I;Mondaí;Guarani;SC;-53.50143395;-27.2012737
+1563;Helio Gabriel;Mondaí;Guarani;SC;-53.49896153;-27.17367038
+1564;Leandro Meier;Mondaí;Guarani;SC;-53.49626197;-27.17567654
+1565;Terra Nova;Mondaí;Guarani;SC;-53.45868866;-27.11622589
+1566;Paul Ramminger;Mondaí;Guarani;SC;-53.45232579;-27.10744895
+1567;Catres;Mondaí;Guarani;SC;-53.42700531;-27.1284087
+1568;Egon Ulrich;Mondaí;Guarani;SC;-53.40257808;-27.12083393
+1569;Bottega;Mondaí;Guarani;SC;-53.36144867;-27.09376516
+1570;Alcides Moratelli;Nova Itaberaba;Guarani;SC;-52.91979775;-26.92945135
+1571;Espuma;Nova Itaberaba;Guarani;SC;-52.91963413;-26.93108723
+1572;Jose Costenaro;Nova Itaberaba;Guarani;SC;-52.9178347;-26.92114734
+1573;Areal I;Palhoça;Guarani;SC;-48.6710254;-27.8907257
+1574;Pinheira;Palhoça;Guarani;SC;-48.66409093;-27.90331289
+1575;Praia da Pinheira 2;Palhoça;Guarani;SC;-48.58813932;-27.88546486
+1576;Dorival Santos;Palmitos;Guarani;SC;-53.31879314;-27.20236741
+1577;enio e Ermes Kaiper;Palmitos;Guarani;SC;-53.31859674;-27.20653072
+1578;Emilio Gramms;Palmitos;Guarani;SC;-53.3183686;-27.20769859
+1579;Ernesto Biedermann;Palmitos;Guarani;SC;-53.31724853;-27.19746585
+1580;Claus R. Papke e Curt F. Geib;Palmitos;Guarani;SC;-53.31583291;-27.21685478
+1581;Goj Vêso II;Palmitos;Guarani;SC;-53.315533;-27.21603
+1582;Orlando Knoll;Palmitos;Guarani;SC;-53.31355438;-27.19255466
+1583;Lauro Santos;Palmitos;Guarani;SC;-53.29796845;-27.16328423
+1584;Edelvira Silva;Palmitos;Guarani;SC;-53.29374097;-27.19385497
+1585;Natalino Felkiker e Celio Felkiker;Palmitos;Guarani;SC;-53.19679236;-27.18842342
+1586;Antônio Manoel da Silva;Palmitos;Guarani;SC;-53.19642135;-27.19008974
+1587;Lourival Hoffmann;Palmitos;Guarani;SC;-53.18499606;-27.18794903
+1588;Esidio Capellari;Palmitos;Guarani;SC;-53.18278458;-27.18528516
+1589;Ricardo Bertoldi;Palmitos;Guarani;SC;-53.18088996;-27.18178607
+1590;Joao Felkiker;Palmitos;Guarani;SC;-53.15134676;-27.1404043
+1591;Helio Rodrigues da Silva;Palmitos;Guarani;SC;-53.08865556;-27.16281257
+1592;Bruno Jose Hippler;Palmitos;Guarani;SC;-53.07234571;-27.13959872
+1593;Danielle Guse;Palmitos;Guarani;SC;-52.91963413;-26.93108723
+1594;Alcides Isidoro Silva;Palmitos;Guarani;SC;-53.31856293;-27.20587253
+1595;Arnoldo Renner;Palmitos;Guarani;SC;-53.31126394;-27.2160459
+1596;Albino Pessatto;Palmitos;Guarani;SC;-53.14338934;-27.11404755
+1597;Andre Ilustre de Souza;Palmitos;Guarani;SC;-53.10995282;-27.16752962
+1598;Alderico Pedersine;Palmitos;Guarani;SC;-53.08625271;-27.16218952
+1599;Balsinha 7;Paulo Lopes;Guarani;SC;-48.78712685;-28.09117469
+1600;U-389: Roberto Chaves;Piratuba;Guarani;SC;-51.85239874;-27.51634837
+1601;U-390 - Gaudêncio Machado;Piratuba;Guarani;SC;-51.84224762;-27.49831032
+1602;Ervino Koller III;Piratuba;Guarani;SC;-51.8386161;-27.52137915
+1603;Gaudêncio Machado II;Piratuba;Guarani;SC;-51.83834314;-27.52143496
+1604;U-388: Celso Machado;Piratuba;Guarani;SC;-51.83826568;-27.45372987
+1605;U-462;Piratuba;Guarani;SC;-51.81600277;-27.51352949
+1606;Juraci Baches;Piratuba;Guarani;SC;-51.81531453;-27.51416941
+1607;Familia Bortolazzi;Piratuba;Guarani;SC;-51.81516943;-27.51297393
+1608;Alvicio Martinazzo;Piratuba;Guarani;SC;-51.80905831;-27.51964063
+1609;U-392: Altair Borges do Nascimento;Piratuba;Guarani;SC;-51.80516937;-27.5138073
+1610;Arlindo Bortolini;Piratuba;Guarani;SC;-51.80378044;-27.50575173
+1611;Osni de Moraes;Piratuba;Guarani;SC;-51.80239162;-27.525474
+1612;U - 478;Piratuba;Guarani;SC;-51.79581272;-27.48893906
+1613;Moises de Souza;Piratuba;Guarani;SC;-51.79461375;-27.51408511
+1614;U-459;Piratuba;Guarani;SC;-51.79044707;-27.51769624
+1615;U- 479;Piratuba;Guarani;SC;-51.74803582;-27.48928528
+1616;Altamir Luiz da Silva;Piratuba;Guarani;SC;-51.84541047;-27.50284996
+1617;SC-URG-01;São Carlos;Guarani;SC;-53.04592934;-27.07214487
+1618;SC-URG-003;São Carlos;Guarani;SC;-53.034923;-27.067287
+1619;Sitio Guarani;São Francisco do Sul;Guarani;SC;-48.58332713;-26.22467989
+1620;Enseada I;São Francisco do Sul;Guarani;SC;-48.49983918;-26.23392696
+1621;Rio Uruguai;Itapiranga;Guarani;SC;-53.73;-27.17
+1622;Joaquim Bosquero ;Machadinho;Guarani;SC;-51.75;-27.498
+1623;Arroio Corrente V;Jaguaruna;Guarani;SC;-49.0358;-28.6852
+1624;Olho D'agua I ;Jaguaruna;Guarani;SC;-49.1972;-28.7917
+1625;Sibelco;Jaguaruna;Guarani;SC;-48.9991;-28.6213
+1626;Morro Bonito II ;Jaguaruna;Guarani;SC;-48.9918;-28.6129
+1627;Morro Bonito I ;Jaguaruna;Guarani;SC;-48.9639;-28.6063
+1628;Laranjal I ;Jaguaruna;Guarani;SC;-48.9379;-28.6201
+1629;Morro Bonito III;Jaguaruna;Guarani;SC;-48.9918;-28.6129
+1630;Sitio Linha Policial 7;Águas de Chapecó;Guarani;SC;-53.0398;-27.12995
+1631;Aldeia da Lagoa Mae Luzia;Araranguá;Guarani;SC;-49.3231;-28.8659
+1632;Aldeia do Cemiterio Lagoa dos Esteves;Imbituba;Guarani;SC;-49.2956;-28.8412
+1633;Ita ;Itá;Guarani;SC;-52.508333;-27.270833
+1634;Poco Grande;Araquari;Guarani;SC;-48.8438;-26.4446
+1635;Aldeia da ZPE;Imbituba;Guarani;SC;-48.6967;-28.2166
+1636;Saltinho do Rio Uruguai 03;Águas de Chapecó;Guarani;SC;-53.03912945;-27.12919205
+1637;Saltinho do Rio Uruguai 02;Águas de Chapecó;Guarani;SC;-53.03573748;-27.14573911
+1638;Linha Policial 3 ACH LP 3;Águas de Chapecó;Guarani;SC;-53.03905503;-27.128426
+1639;Saltinho do Rio Uruguai 01;Águas de Chapecó;Guarani;SC;-53.03733974;-27.14786382
+2676;Linha_Uruguai_Sul;Porto Lucena;Guarani;RS;-55.05;-27.816667
+2677;Abrigo do Canhembora 7;Nova Palma;Guarani;RS;-53.25;-29.416667
+2678;Ilha Comandai;Porto Lucena;Guarani;RS;-55.064927;-27.802887
+2679;Pedra Grande 7;São Pedro do Sul;Guarani;RS;-54.112058;-29.652223
+2680;RS-VZ-45: Parizinho 3;Tenente Portela;Guarani;RS;-53.73333333;-27.31555555
+2681;Barro do Turvo 3;Três Passos;Guarani;RS;-54.100193;-27.304807
+2682;Elias dal Pra;Paraíso do Sul;Guarani;RS;-53.05;-29.689167
+2683;Parizinho-2;Salto, São Paulo;Guarani;RS;-53.75;-28.3
+2684;Parizinho-1;Salto, São Paulo;Guarani;RS;-53.733333;-28.3
+2685;Pedra Grande 4;São Pedro do Sul;Guarani;RS;-54.112058;-29.652223
+2686;Bassani 1;Maquiné;Guarani;RS;-50.12421003;-29.75536037
+2687;Palmeira 2;Parobé;Guarani;RS;-50.916667;-29.666667
+2688;Passo Fundo;Osório;Guarani;RS;-50.216667;-29.933333
+2689;Ilha Chico Manoel;Porto Alegre;Guarani;RS;-51.16321841;-30.26534867
+2690;RS-T-132;Pouso Novo;Guarani;RS;-52.2;-29.17
+2691;Wilmoth Ropke ;Ibirama;Guarani;RS;-53.27;-29.44
+2692;Panambi 3;Alecrim;Guarani;RS;-54.901;-27.692
+2693;RS-T-117;Bom Retiro do Sul;Guarani;RS;-51.9456;-29.6111
+2694;RS-03;Muçum;Guarani;RS;-51.7418;-29.1361
+2695;Lagoa da Porteira 02;Palmares do Sul;Guarani;RS;-50.3315;-30.38366667
+2696;Edi Mundt;Agudo;Guarani;RS;-53.26490985;-29.44967608
+2697;RS-URG-09;Alpestre;Guarani;RS;-53.06607484;-27.09973756
+2698;RS-URG-02;Alpestre;Guarani;RS;-53.03153451;-27.11136027
+2699;RS-URG-05;Alpestre;Guarani;RS;-53.02948979;-27.08522597
+2700;RS-URG-03;Alpestre;Guarani;RS;-53.0292844;-27.10906432
+2701;RS-URG-04;Alpestre;Guarani;RS;-53.02617025;-27.08566196
+2702;PROFESSORA IVONE;Alpestre;Guarani;RS;-53.02319255;-27.09782565
+2703;ALCIDES DUTRA;Alpestre;Guarani;RS;-53.01797353;-27.15594138
+2704;OLiVIO PEDROSO.;Alpestre;Guarani;RS;-53.00606327;-27.19009181
+2705;SiTIO DO PORTINHO;Alpestre;Guarani;RS;-53.00064581;-27.21169413
+2706;RS-T-113;Arroio do Meio;Guarani;RS;-51.90836724;-29.39310959
+2707;Tupancy;Arroio do Sal;Guarani;RS;-49.84672563;-29.49070611
+2708;Itapeva 3;Arroio do Sal;Guarani;RS;-49.83969608;-29.43226626
+2709;Itapeva 5;Arroio do Sal;Guarani;RS;-49.83611393;-29.43179281
+2710;Itapeva 4;Arroio do Sal;Guarani;RS;-49.83472937;-29.43206948
+2711;Itapeva 1;Arroio do Sal;Guarani;RS;-49.81967342;-29.41465518
+2712;Varcelino Ferri;Bento Gonçalves;Guarani;RS;-51.67527778;-29.06361111
+2713;Walter F. Wachholz;Cachoeira do Sul;Guarani;RS;-53.09333959;-29.86657692
+2714;Atalibio L. Carvalho;Cachoeira do Sul;Guarani;RS;-53.07440978;-29.83265615
+2715;Ary Carvalho Bernardes;Cachoeira do Sul;Guarani;RS;-53.06217988;-29.91670551
+2716;Quido P. Stringhini;Cachoeira do Sul;Guarani;RS;-53.05244647;-29.91021738
+2717;BR 153;Cachoeira do Sul;Guarani;RS;-52.96969318;-29.90021121
+2718;Herminio Bonnel;Cachoeira do Sul;Guarani;RS;-52.89276513;-30.03298937
+2719;Capane 1;Cachoeira do Sul;Guarani;RS;-52.88038764;-30.07814207
+2720;Capane 3;Cachoeira do Sul;Guarani;RS;-52.87703695;-30.08583167
+2721;Evaldo Katzer;Cachoeira do Sul;Guarani;RS;-49.7355845;-29.35584305
+2722;Ataide Rodrigues Lucas - 1 e 2;Camaquã;Guarani;RS;-52.01123135;-30.85840977
+2723;Dejalmo Martins Ribeiro;Camaquã;Guarani;RS;-51.98165955;-30.85998176
+2724;Zeferino Nunes;Camaquã;Guarani;RS;-51.97793639;-30.8538203
+2725;Jose G. Kenne;Camaquã;Guarani;RS;-51.9746852;-30.85912315
+2726;Bolicho Manuel Santana;Camaquã;Guarani;RS;-51.96860936;-30.84567062
+2727;Amarante Rodrigues;Camaquã;Guarani;RS;-51.80431718;-30.84889759
+2728;Alarico Meireles;Camaquã;Guarani;RS;-51.78922753;-30.76975875
+2729;Raul Silveira;Camaquã;Guarani;RS;-51.78141066;-30.92192551
+2730;Emilio Alves Farias;Camaquã;Guarani;RS;-51.75551407;-30.73183653
+2731;Fausto Crespo;Camaquã;Guarani;RS;-51.74599697;-31.10657962
+2732;Wladislau Schmievski 1;Camaquã;Guarani;RS;-51.7426285;-30.72963705
+2733;Wladislau Schmievski 2;Camaquã;Guarani;RS;-51.74241123;-30.72990899
+2734;Wladislau Schmivievski;Camaquã;Guarani;RS;-51.73798985;-30.73773028
+2735;Arroio Molha Grande;Candelária;Guarani;RS;-52.794849;-29.64863893
+2736;Candelaria 1;Candelária;Guarani;RS;-52.76716915;-29.66840902
+2737;Jose Melz;Candelária;Guarani;RS;-52.76275561;-29.55972337
+2738;Sem Indicacao;Canguçu;Guarani;RS;-52.67879001;-31.39648343
+2739;Dante Aldrighi;Canguçu;Guarani;RS;-52.67825531;-31.39598526
+2740;ALDEIA GUARANI RST 471;Canguçu;Guarani;RS;-52.65043392;-30.94325491
+2741;Idiciano K. Borges;Canguçu;Guarani;RS;-52.52699006;-31.14350128
+2742;Rio dos Sinos 2;Caraá;Guarani;RS;-50.4144394;-29.76509455
+2743;Rio dos Sinos 1;Caraá;Guarani;RS;-50.40962391;-29.76252818
+2744;RST 108;Colinas;Guarani;RS;-51.87264986;-29.38363741
+2745;RST 105;Colinas;Guarani;RS;-51.86871727;-29.38893364
+2746;Honorino Domingos Gava;Cotiporã;Guarani;RS;-51.66888889;-29.06444444
+2747;Gava II;Cotiporã;Guarani;RS;-51.66192805;-29.06273527
+2748;Torre 19;Dois Irmãos;Guarani;RS;-51.12135025;-29.60523817
+2749;Torre 24;Dois Irmãos;Guarani;RS;-51.11255754;-29.59245728
+2750;Sitio da Casa Azul;Dom Feliciano;Guarani;RS;-52.09858134;-30.70205585
+2751;Sitio do Armazem;Dom Feliciano;Guarani;RS;-52.08525062;-30.70141905
+2752;RS-119;Eldorado do Sul;Guarani;RS;-51.30501539;-30.00372258
+2753;Ponte do Jacui;Eldorado do Sul;Guarani;RS;-51.27272082;-29.99371301
+2754;RS CA 02 - Antero Prestes - km 54;Encruzilhada do Sul;Guarani;RS;-52.64518999;-30.93936542
+2755;RS-EG-07;Erval Grande;Guarani;RS;-52.6876085;-27.28454787
+2756;Torre 3;Estância Velha;Guarani;RS;-51.15167595;-29.64905996
+2757;RS-FA-24;Faxinalzinho;Guarani;RS;-52.71120401;-27.31334247
+2758;RS-FA-18;Faxinalzinho;Guarani;RS;-52.7109308;-27.31134208
+2759;RS-FA-15;Faxinalzinho;Guarani;RS;-52.70071269;-27.29991367
+2760;RS-FA-55;Faxinalzinho;Guarani;RS;-52.67887183;-27.29674781
+2761;GOODYEAR;Glorinha;Guarani;RS;-50.79944444;-29.9075
+2762;Santa Rita;Guaíba;Guarani;RS;-51.31864155;-30.0853077
+2763;Sitio Arqueológico Arroio do Conde;Guaíba;Guarani;RS;-51.30967261;-30.05432113
+2764;Albino Glazel  A;Ibarama;Guarani;RS;-53.28574963;-29.43853893
+2765;Valderi Scapini;Ibarama;Guarani;RS;-53.28435696;-29.44078216
+2766;Edson Halberstat;Ibarama;Guarani;RS;-53.2829723;-29.44522652
+2767;Vilmoth Röpke  A e B;Ibarama;Guarani;RS;-53.27741258;-29.4455022
+2768;Ilvo Menegassi;Ibarama;Guarani;RS;-53.27685724;-29.42939903
+2769;Armando Hall     A e B;Ibarama;Guarani;RS;-53.25546551;-29.42439522
+2770;Deobaldo Ulrich;Ibarama;Guarani;RS;-53.25098552;-29.39928226
+2771;Aristides Ferreira;Ibarama;Guarani;RS;-53.24602175;-29.42467214
+2772;Leander Hall;Ibarama;Guarani;RS;-53.2418582;-29.41856238
+2773;Elisio Giacomelli;Ibarama;Guarani;RS;-53.24130019;-29.41661405
+2774;Rejane Puntell;Ibarama;Guarani;RS;-53.22740927;-29.35939584
+2775;Lajeadinho;Igrejinha;Guarani;RS;-50.75065728;-29.58430681
+2776;RST 107;Lajeado Grande;Guarani;RS;-52.02268922;-29.40689244
+2777;RST 102;Lajeado Grande;Guarani;RS;-51.95474284;-29.44392874
+2778;U - 470;Machadinho;Guarani;RS;-51.80196025;-27.4991409
+2779;U-455;Machadinho;Guarani;RS;-51.79944444;-27.49361111
+2780;U - 486;Machadinho;Guarani;RS;-51.79808025;-27.50578935
+2781;U-454;Machadinho;Guarani;RS;-51.79805556;-27.50694444
+2782;U-453;Machadinho;Guarani;RS;-51.79388889;-27.51027778
+2783;U-452;Machadinho;Guarani;RS;-51.78888889;-27.50638889
+2784;Amancio Rodrigues Pimentel;Machadinho;Guarani;RS;-51.77166667;-27.52888889
+2785;U - 487;Machadinho;Guarani;RS;-51.77080489;-27.49116515
+2786;U-450;Machadinho;Guarani;RS;-51.76333333;-27.52555555
+2787;Jazida de Areia Walter Medeiros;Maquiné;Guarani;RS;-50.1615666;-29.74281986
+2788;Ramalhete 2;Maquiné;Guarani;RS;-50.12776041;-29.75502285
+2789;Bassani 2;Maquiné;Guarani;RS;-50.12352136;-29.74179211
+2790;Ireno Petrini;Marques de Souza;Guarani;RS;-52.15737974;-29.25403365
+2791;RST 110;Marques de Souza;Guarani;RS;-52.15169861;-29.23469771
+2792;Fredolin Chütz 2;Mata;Guarani;RS;-54.44116667;-29.52816667
+2793;Joana M Oliveira;Mato Queimado;Guarani;RS;-54.67146517;-28.26763336
+2794;U-447;Maximiliano de Almeida;Guarani;RS;-51.82861111;-27.51555555
+2795;U - 466;Maximiliano de Almeida;Guarani;RS;-51.8236148;-27.51548039
+2796;U - 467;Maximiliano de Almeida;Guarani;RS;-51.82179383;-27.51432663
+2797;U-448;Maximiliano de Almeida;Guarani;RS;-51.80388889;-27.52888889
+2798;U-367: Jose Sudback;Maximiliano de Almeida;Guarani;RS;-51.78472222;-27.52055555
+2799;U-464;Maximiliano de Almeida;Guarani;RS;-51.78307811;-27.51464928
+2800;U-366: Miguel Rodrigues da Silva;Maximiliano de Almeida;Guarani;RS;-51.78277778;-27.52027778
+2801;Bacupari;Mostardas;Guarani;RS;-50.38335715;-30.50153281
+2802;RS-3: Viuva Pedro Marobim;Muçum;Guarani;RS;-51.74176388;-29.13606484
+2803;RS-NO-185;Nonoai;Guarani;RS;-52.80034024;-27.20641481
+2804;RS-NO-184;Nonoai;Guarani;RS;-52.79683343;-27.2055392
+2805;RS-NO-179;Nonoai;Guarani;RS;-52.78508578;-27.21013003
+2806;RS-NO-182;Nonoai;Guarani;RS;-52.78139546;-27.20850723
+2807;RS-NO-169;Nonoai;Guarani;RS;-52.78048803;-27.21302263
+2808;RS-NO-165;Nonoai;Guarani;RS;-52.77493565;-27.21684781
+2809;RS-NO-126;Nonoai;Guarani;RS;-52.77193448;-27.25556121
+2810;RS-NO-147;Nonoai;Guarani;RS;-52.77069352;-27.23905978
+2811;RS-NO-161;Nonoai;Guarani;RS;-52.76785477;-27.21468993
+2812;RS-NO-159;Nonoai;Guarani;RS;-52.76665229;-27.2114197
+2813;RS-NO-152;Nonoai;Guarani;RS;-52.76599537;-27.22545408
+2814;RS-NO-141;Nonoai;Guarani;RS;-52.76461015;-27.23621223
+2815;RS-NO-67;Nonoai;Guarani;RS;-52.72869791;-27.23886539
+2816;RS-NO-32;Nonoai;Guarani;RS;-52.68598789;-27.29429738
+2817;RS-NO-33;Nonoai;Guarani;RS;-52.68536203;-27.29433201
+2818;Romildo Petermann A;Nova Palma;Guarani;RS;-53.26681246;-29.43186195
+2819;Verno Manske;Nova Palma;Guarani;RS;-53.25324315;-29.40541498
+2820;Sitio do Chapeu;Novo Hamburgo;Guarani;RS;-51.00369027;-29.74384232
+2821;Sitio Bier Scharlau;Novo Hamburgo;Guarani;RS;-50.98864525;-29.72269638
+2822;Torre 135 / Torre 136;Osório;Guarani;RS;-50.33486831;-29.88028669
+2823;drink shampoo;Osório;Guarani;RS;-50.252792;-29.87017839
+2824;Lauro Rodrigues;Osório;Guarani;RS;-50.25225625;-29.85037581
+2825;Areal Moro;Osório;Guarani;RS;-50.23171746;-29.88277274
+2826;Capao da Areia;Osório;Guarani;RS;-50.16666667;-29.98333333
+2827;RS - LC - 96;Palmares do Sul;Guarani;RS;-50.47816667;-30.369
+2828;Leonardo Boeira;Palmares do Sul;Guarani;RS;-50.38304639;-30.4483637
+2829;Fazenda Joao Terra;Palmares do Sul;Guarani;RS;-50.3555;-30.41716667
+2830;RS-LC-89;Palmares do Sul;Guarani;RS;-50.35255978;-30.35232935
+2831;RS-LC-92;Palmares do Sul;Guarani;RS;-50.35245206;-30.3986751
+2832;RS - LC - 90;Palmares do Sul;Guarani;RS;-50.35033333;-30.39816667
+2833;RS-LC-85;Palmares do Sul;Guarani;RS;-50.34656483;-30.36667448
+2834;Lagoa da Porteira 3;Palmares do Sul;Guarani;RS;-50.33235668;-30.38554361
+2835;Arnaldo Quinot;Palmitos;Guarani;RS;-53.06682564;-27.14661129
+2836;RS-SIN-005;Parobé;Guarani;RS;-50.90445992;-29.66951797
+2837;RS-SIN-004;Parobé;Guarani;RS;-50.89897582;-29.68681492
+2838;Las Acacias;Pelotas;Guarani;RS;-52.26566786;-31.76808742
+2839;Campo de Tiro;Pelotas;Guarani;RS;-52.26470246;-31.76727226
+2840;Jose Hillal/ Hospital;Pelotas;Guarani;RS;-52.23605796;-31.75319171
+2841;Toto;Pelotas;Guarani;RS;-52.19542019;-31.7232087
+2842;Arroio Sujo;Pelotas;Guarani;RS;-52.16431427;-31.70311342
+2843;Lagoinha;Pelotas;Guarani;RS;-52.04948727;-31.60817847
+2844;Soteia;Pelotas;Guarani;RS;-52.01611246;-31.63146268
+2845;Adelar Konrad;Pinhal Grande;Guarani;RS;-53.23988555;-29.41178412
+2846;Sirilo Larsch;Pinhal Grande;Guarani;RS;-53.23351762;-29.40801167
+2847;Pedro Osório Stieler;Pinhal Grande;Guarani;RS;-53.22953396;-29.39072038
+2848;Praca da Alfandega;Porto Alegre;Guarani;RS;-51.23109483;-30.02948478
+2849;Sr. Romeu;Porto Alegre;Guarani;RS;-51.15547686;-30.26098134
+2850;Vila Restinga;Porto Alegre;Guarani;RS;-51.13285397;-30.15116227
+2851;Sitio Guarani Paina l (RS-PA-01;Quevedos;Guarani;RS;-54.03319383;-29.38876327
+2852;Sitio Guarani Paina ll (RS-PA-02);Quevedos;Guarani;RS;-54.02935415;-29.40357725
+2853;VEREADOR NELSON ELLI.;Rio dos Índios;Guarani;RS;-52.96144107;-27.17435155
+2854;DELCIR MUSELINI;Rio dos Índios;Guarani;RS;-52.95650049;-27.17111732
+2855;ALBINO CAVASATTO;Rio dos Índios;Guarani;RS;-52.85474094;-27.17109216
+2856;JOaO BIDIN;Rio dos Índios;Guarani;RS;-52.85303792;-27.17062729
+2857;RS-RI-103;Rio dos Índios;Guarani;RS;-52.83940713;-27.21260439
+2858;Tarso Malacarne;Rio dos Índios;Guarani;RS;-52.8346338;-27.21819063
+2859;RS-RI-55;Rio dos Índios;Guarani;RS;-52.82399298;-27.20771546
+2860;RS-RI-53;Rio dos Índios;Guarani;RS;-52.80439198;-27.20414236
+2861;RS-RI-54;Rio dos Índios;Guarani;RS;-52.80372597;-27.20603731
+2862;Quiterio Pereira;Rio Grande;Guarani;RS;-52.55225888;-32.53929298
+2863;Roger Llopart/Mario Rodrigues;Rio Grande;Guarani;RS;-52.50417717;-32.51727397
+2864;Floriano Fonseca Peixoto;Rio Grande;Guarani;RS;-52.44217462;-32.28313706
+2865;Palma;Rio Grande;Guarani;RS;-52.33027184;-32.04706299
+2866;Edmar Mendes da Costa;Rio Grande;Guarani;RS;-52.29765604;-31.86911305
+2867;Oscar Abreu (Ulisses Miranda???);Rio Grande;Guarani;RS;-52.29597072;-31.86047912
+2868;Marcelino do Amaral Brancao;Rio Grande;Guarani;RS;-52.28437834;-32.03025254
+2869;Valpirio Mendes Borges;Rio Grande;Guarani;RS;-52.27510578;-31.85893998
+2870;Fernando Lopes;Rio Grande;Guarani;RS;-52.27461673;-31.99215694
+2871;Levi Magalhaes;Rio Grande;Guarani;RS;-52.26579153;-31.85799562
+2872;Valdir Texeira Machado;Rio Grande;Guarani;RS;-52.25798818;-31.86011181
+2873;Pedro Ferreira;Rio Grande;Guarani;RS;-52.25515526;-32.04603392
+2874;alvaro Bastos;Rio Grande;Guarani;RS;-52.24836133;-31.88772085
+2875;Carlos Costa Amaral;Rio Grande;Guarani;RS;-52.2464449;-31.98940581
+2876;Joao Branco Faria;Rio Grande;Guarani;RS;-52.24637412;-31.98651982
+2877;Jose Figueiredo dos Santos B;Rio Grande;Guarani;RS;-52.24514485;-31.99424474
+2878;Nair Vieira;Rio Grande;Guarani;RS;-52.24481949;-31.98504663
+2879;Jose dos Santos Figueiredo;Rio Grande;Guarani;RS;-52.24462075;-31.99305913
+2880;Lacides Antunes Goncalves;Rio Grande;Guarani;RS;-52.24373988;-32.00465057
+2881;Quiteria Barreira 3 - 04;Rio Grande;Guarani;RS;-52.24354668;-32.01466563
+2882;Pedro Barros;Rio Grande;Guarani;RS;-52.24342754;-31.98229086
+2883;Fazenda Soares;Rio Grande;Guarani;RS;-52.2426911;-31.9126744
+2884;Quiteria Barreira 3 - 03;Rio Grande;Guarani;RS;-52.2422099;-32.01367741
+2885;Fazenda Jose Lerchmann;Rio Grande;Guarani;RS;-52.23899867;-31.92834384
+2886;Povo Novo;Rio Grande;Guarani;RS;-52.22470691;-31.92106718
+2887;Sitio Mujica;Rio Grande;Guarani;RS;-52.21710625;-32.15000262
+2888;Justiniano Nunes;Rio Grande;Guarani;RS;-52.21088382;-32.0387878
+2889;Nelson Reis de Oliveira;Rio Grande;Guarani;RS;-52.20321045;-32.08122278
+2890;Rosalvo Costa;Rio Grande;Guarani;RS;-52.17796099;-31.91226265
+2891;alvaro dos Santos Silva / Antônio Cruz;Rio Grande;Guarani;RS;-52.1682149;-32.11210395
+2892;Familia Zogbi;Rio Grande;Guarani;RS;-52.15704421;-32.10543186
+2893;Campos da Hidraulica;Rio Grande;Guarani;RS;-52.12709389;-32.05192817
+2894;Alberto Tavares Pereira;Rio Grande;Guarani;RS;-52.10706028;-32.03488362
+2895;Aldeia da Quaresma;Rolador;Guarani;RS;-54.91825294;-28.20020471
+2896;Estancia Velha 1;Santa Maria;Guarani;RS;-54.0150595;-29.68923765
+2897;Manuel E. Casanego;Santa Maria;Guarani;RS;-54.00566116;-29.65193131
+2898;Iva Teixeira Galvao;Santa Maria;Guarani;RS;-53.99242214;-29.72207719
+2899;Cabeceira do Raimundo;Santa Maria;Guarani;RS;-53.99218585;-29.72421095
+2900;Eugênio Luiz de avila;Santa Maria;Guarani;RS;-53.9568918;-29.74647849
+2901;Jorge Henrique Pedro Rech;Santa Maria do Herval;Guarani;RS;-53.85916789;-29.71651046
+2902;Seminario Sao jose;Santa Maria do Herval;Guarani;RS;-53.80485557;-29.71636524
+2903;Marino Lopes e Seminario Sao Jose;Santa Maria do Herval;Guarani;RS;-53.79641216;-29.71630947
+2904;Rodolfo Gomes da Silva;Santa Maria do Herval;Guarani;RS;-53.79591953;-29.70785959
+2905;Francisco Barrachini;Santa Maria do Herval;Guarani;RS;-53.78505895;-29.69956513
+2906;Rincao dos Flores;Santa Maria do Herval;Guarani;RS;-53.81495262;-29.68681959
+2907;Morro da Flecha 2;São Francisco de Paula;Guarani;RS;-50.38701338;-29.48088575
+2908;Goiabeira 2;São Francisco de Paula;Guarani;RS;-50.37417766;-29.48324471
+2909;RS LC 73;São José do Norte;Guarani;RS;-52.01981057;-31.9730265
+2910;Patricia;São Luiz Gonzaga;Guarani;RS;-54.98972548;-28.26878145
+2911;Antônio Halmenschlager;São Luiz Gonzaga;Guarani;RS;-54.88580105;-28.33646767
+2912;Sao Lourenco Martir;São Luiz Gonzaga;Guarani;RS;-54.70915557;-28.46262254
+2913;Reducao de Sao Miguel Arcanjo;São Miguel das Missões;Guarani;RS;-54.55586675;-28.54805452
+2914;Sitio Litico de Cacadores Coletores de Floresta com Insercao Ceramica;São Miguel das Missões;Guarani;RS;-54.55083333;-28.59722222
+2915;Sr. Solon;Sentinela do Sul;Guarani;RS;-51.58616119;-30.61071478
+2916;Bibico Curtinaz Pacheco;Sentinela do Sul;Guarani;RS;-51.54128078;-30.54131009
+2917;Jose Curtinaz Pacheco;Sentinela do Sul;Guarani;RS;-51.53688112;-30.5431601
+2918;PARNA V;Tavares;Guarani;RS;-51.15361111;-31.41611111
+2919;Estelvadino Luis Rodrigues II;Tavares;Guarani;RS;-51.14944444;-31.44638889
+2920;Napoleao Araújo Brum;Tavares;Guarani;RS;-51.13027778;-31.38694444
+2921;Capororoca I;Tavares;Guarani;RS;-51.04805556;-31.28444444
+2922;Parizinho 4;Tenente Portela;Guarani;RS;-53.73535115;-27.34285421
+2923;Familia Nunes;Terra de Areia;Guarani;RS;-50.0950486;-29.61400863
+2924;Sanga Funda;Terra de Areia;Guarani;RS;-50.08114961;-29.62299562
+2925;Sitio Lima;Terra de Areia;Guarani;RS;-50.04664988;-29.57471989
+2926;Mars;Terra de Areia;Guarani;RS;-50.04590638;-29.6231439
+2927;Sitio Do Manoel Joao;Terra de Areia;Guarani;RS;-50.04296188;-29.56731129
+2928;Sitio do Onildo Aguiar;Terra de Areia;Guarani;RS;-50.03777492;-29.57979084
+2929;Sitio do Areal 2;Terra de Areia;Guarani;RS;-50.02484864;-29.58196168
+2930;Sitio arqueológico Trovoada;Terra de Areia;Guarani;RS;-50.01496314;-29.69087143
+2931;Fazenda Santo Antônio (Irma da Giza);Terra de Areia;Guarani;RS;-49.99655976;-29.59874775
+2932;Familia Machado;Torres;Guarani;RS;-49.77757545;-29.32181162
+2933;RS LN - 021;Torres;Guarani;RS;-49.77661667;-29.40068333
+2934;RS-204;Torres;Guarani;RS;-49.77221464;-29.3971108
+2935;Balneario de Itapeva;Torres;Guarani;RS;-49.77034225;-29.391706
+2936;Caixa dagua;Torres;Guarani;RS;-49.76866667;-29.38743333
+2937;RS - LN - 06;Torres;Guarani;RS;-49.76476667;-29.38568333
+2938;Sambaqui da Itapeva 1;Torres;Guarani;RS;-49.75911691;-29.3843464
+2939;RS - LN - 017;Torres;Guarani;RS;-49.75821667;-29.3806
+2940;RS - LN - 08;Torres;Guarani;RS;-49.75733333;-29.37663333
+2941;RS - LN - 016;Torres;Guarani;RS;-49.75506667;-29.3656
+2942;RS - LN - 015;Torres;Guarani;RS;-49.75493333;-29.37155
+2943;RS - LN - 10;Torres;Guarani;RS;-49.75478333;-29.36783333
+2944;RS - LN - 09;Torres;Guarani;RS;-49.75411667;-29.37416667
+2945;Camping Itapeva;Torres;Guarani;RS;-49.7511472;-29.36700841
+2946;RS - LN - 019;Torres;Guarani;RS;-49.74893333;-29.35336667
+2947;RS - LN - 011;Torres;Guarani;RS;-49.74785;-29.36425
+2948;RS - LN - 020;Torres;Guarani;RS;-49.74511667;-29.348
+2949;JAZIDA DE AREIA 5;Três Cachoeiras;Guarani;RS;-49.93032434;-29.46180802
+2950;Chimarrao;Três Cachoeiras;Guarani;RS;-49.97827509;-29.49777391
+2951;Arroio Itaparú 1;Três Coroas;Guarani;RS;-50.7936011;-29.49364491
+2952;Três Coroas;Três Coroas;Guarani;RS;-50.77917319;-29.5153004
+2953;Rodeio Bonito 1;Três Coroas;Guarani;RS;-50.70982868;-29.48784777
+2954;Rodeio Bonito 2;Três Coroas;Guarani;RS;-50.70955167;-29.4909338
+2955;RS-BJC-002;Triunfo;Guarani;RS;-51.43692064;-29.87239543
+2956;Vitelio Martini;Uruguaiana;Guarani;RS;-57.08585281;-29.76191347
+2957;RS-343;Uruguaiana;Guarani;RS;-57.04478482;-29.70757634
+2958;RS-342;Uruguaiana;Guarani;RS;-57.03797045;-29.70348111
+2959;Fagundes;Uruguaiana;Guarani;RS;-56.99527809;-29.65142997
+2960;Balneario S. Marcos;Uruguaiana;Guarani;RS;-56.84587536;-29.50630601
+2961;Colônia Rizicola 1;Uruguaiana;Guarani;RS;-56.84476129;-29.50615128
+2962;RS-Q-1: Colônia Rizicola;Uruguaiana;Guarani;RS;-56.8;-29.53333333
+2963;Valdir Goettems;Venâncio Aires;Guarani;RS;-52.31810008;-29.51000531
+2964;Sergio Roesler;Venâncio Aires;Guarani;RS;-52.29908205;-29.54759712
+2965;Arno Kistemacher;Venâncio Aires;Guarani;RS;-52.2928419;-29.61673655
+2966;Helmuth Bergmann;Venâncio Aires;Guarani;RS;-52.27674474;-29.5522174
+2967;Valerno Konrad;Venâncio Aires;Guarani;RS;-52.22824181;-29.53135064
+2968;Jose Armindo da Rosa;Venâncio Aires;Guarani;RS;-52.20204269;-29.64986042
+2969;Alvicio Böhm;Venâncio Aires;Guarani;RS;-52.09724356;-29.66509963
+2970;"Arquilau Vargas \""B\""";Venâncio Aires;Guarani;RS;-52.09288003;-29.60881642
+2971;"Arquilau Vargas \""A\""";Venâncio Aires;Guarani;RS;-52.09140395;-29.60600396
+2972;Adao Lopes;Venâncio Aires;Guarani;RS;-52.09059129;-29.66477668
+2973;"Jose Armindo Roia \""A\""";Venâncio Aires;Guarani;RS;-52.07883201;-29.62455138
+2974;"Paulo Deorr  \""B\""";Venâncio Aires;Guarani;RS;-52.0787888;-29.6819742
+2975;"Elmar Henckes \""A\""";Venâncio Aires;Guarani;RS;-52.07864718;-29.62659237
+2976;Osvaldo Henckes;Venâncio Aires;Guarani;RS;-52.07843633;-29.61985402
+2977;"Elmar Henckes \""B\""";Venâncio Aires;Guarani;RS;-52.07831995;-29.62496164
+2978;"Paulo Deorr  \""A\""";Venâncio Aires;Guarani;RS;-52.07820467;-29.68198679
+2979;"Jose Armindo Roia \""C\""";Venâncio Aires;Guarani;RS;-52.07745407;-29.62124164
+2980;"Jose Armindo Roia \""B\""";Venâncio Aires;Guarani;RS;-52.07721749;-29.6217861
+2981;Libório Wilms;Venâncio Aires;Guarani;RS;-52.07248265;-29.649185
+2982;"Manoel Israel de Freitas \""A\""";Venâncio Aires;Guarani;RS;-52.06398848;-29.62738759
+2983;"Joao Ornelio dos Santos \""B\""";Venâncio Aires;Guarani;RS;-52.05251465;-29.62655865
+2984;Joao Orlando Fischer;Venâncio Aires;Guarani;RS;-52.17924109;-29.46581789
+2985;Laureano Holdenburg;Vera Cruz;Guarani;RS;-52.58732067;-29.66611873
+2986;Ilha do Junco;Viamão;Guarani;RS;-51.06555481;-30.35477337
+2987;Novo Lar de Menores;Viamão;Guarani;RS;-51.05095414;-30.08936608
+2988;Praia da Pedreira;Viamão;Guarani;RS;-51.05035313;-30.35631421
+2989;Lagoa Negra 1;Viamão;Guarani;RS;-50.98983345;-30.35811931
+2990;Nei Bueno;Viamão;Guarani;RS;-50.92395563;-30.32888646
+2991;RS-IJU-016;Vitória das Missões;Guarani;RS;-54.51389491;-28.3989974
+2992;Bento Prestes;Encruzilhada do Sul;Guarani;RS;-52.892;-30.845
+2993;Reinaldo Kappel ;Candelária;Guarani;RS;-52.681;-29.729
+2994;RS-RP-86;Santa Cruz do Sul;Guarani;RS;-52.463029;-29.685423
+2995;Bom Jardim Velho;Paverama;Guarani;RS;-51.744271;-29.526978
+2996;Maximiliano de Almeida;Maximiliano de Almeida;Guarani;RS;-51.81;-27.53
+2997;SC-U-470;Machadinho;Guarani;RS;-51.67;-27.56
+2998;Saudade;Uruguaiana;Guarani;RS;-57.075626;-29.737054
+2999;Carumbe;Uruguaiana;Guarani;RS;-57.128498;-29.779675
+3000;Jaboticaba;Itapiranga;Guarani;RS;-53.733333;-27.166667
+3001;Totó;Pelotas;Guarani;RS;-52.195;-31.711
+3002;Camping;Pelotas;Guarani;RS;-52.17478191;-31.71114057
+3003;Ribes;Pelotas;Guarani;RS;-52.405;-31.503
+3004;Mondai;Vicente Dutra;Guarani;RS;-53.416667;-27.2
+3005;RS-T-114;Marques de Souza;Guarani;RS;-52.12836852;-29.28116622
+3006;Posto Fiscal;Pinhal da Serra;Guarani;RS;-51.1854;-27.8342
+3007;Santa Rita ;Charqueadas;Guarani;RS;-51.533;-29.981
+3008;Fazenda Soares ;Rio Grande;Guarani;RS;-52.222;-31.847
+3009;Lincoln Steuernagel ;Pinhal Grande;Guarani;RS;-53.332;-29.417
+3010;Joao Cantarelli;Restinga Seca;Guarani;RS;-53.383;-29.824
+3011;Jeronimo Rodrigues ;Agudo;Guarani;RS;-53.249;-29.761
+3012;Arnildo Drew;Santa Maria do Herval;Guarani;RS;-53.644;-29.678
+3013;Capane;Restinga Seca;Guarani;RS;-53.17;-29.836
+3014;Eri Rampellotto;Faxinal Soturno;Guarani;RS;-53.536;-29.532
+3015;Albino Mazzari;Ivorá;Guarani;RS;-53.6;-29.48
+3016;Emilio Kieffer;Paraíso do Sul;Guarani;RS;-53.555;-29.659
+3017;Geronimo Rodrigues;Agudo;Guarani;RS;-53.08137219;-29.82759361
+3018;Aurelio C. Bernardes ;Candelária;Guarani;RS;-52.681;-29.729
+3019;Adolfo Schenkel;Alto Bela Vista;Guarani;RS;-51.565;-29.372
+3020;Barra do Santo Cristo 1;Porto Mauá;Guarani;RS;-54.72;-27.568
+3021;Itajuba 1;Porto Mauá;Guarani;RS;-54.668;-27.544
+3022;Tres Bocas 2;Porto Mauá;Guarani;RS;-54.656;-27.529
+3023;Maria Soares;Rio Grande;Guarani;RS;-52.22283566;-31.9195336
+3024;Oscar Mendes;Rio Grande;Guarani;RS;-52.42805;-32.575655
+3162;SC-CHA-02;(copiado);Guarani;(copiado);-53.05296388;-27.0016644
+3163;SC-CHA-01;(copiado);Guarani;(copiado);-53.04815075;-26.99793488
+3164;RS-URG-01;(copiado);Guarani;(copiado);-53.04429428;-27.1236658
+3165;SC-CHA-03;(copiado);Guarani;(copiado);-53.03471044;-26.97833735
+3166;RS-MSG-117;(copiado);Guarani;(copiado);-52.57967577;-32.5209574
+3167;Armando Vortmann;(copiado);Guarani;(copiado);-52.39771919;-27.25001407
+3168;RS-23: Valpirio Mendes Borges;(copiado);Guarani;(copiado);-52.27808333;-31.86477778
+3169;Quiteria Barreira 3 - 02;(copiado);Guarani;(copiado);-52.24263881;-32.01172471
+3170;Quiteria Barreira 3 - 01;(copiado);Guarani;(copiado);-52.19536336;-32.00985167
+3171;RS - LC - 88;(copiado);Guarani;(copiado);-50.3635;-30.35533333
+3172;Lagoa da Porteira 04;(copiado);Guarani;(copiado);-50.3315;-30.38366667
+3173;Lagoa da Porteira 01;(copiado);Guarani;(copiado);-50.33116667;-30.3825
+3174;Saudade;(copiado);Guarani;(copiado);-57.075626;-29.737054
+3175;Carumbe;(copiado);Guarani;(copiado);-57.128498;-29.779675
+3176;Sitio Linha Policial 7;(copiado);Guarani;(copiado);-53.0398;-27.12995
+3177;Tapera;(copiado);Guarani;(copiado);-48.57;-27.69

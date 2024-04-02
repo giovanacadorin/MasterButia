@@ -1,0 +1,1807 @@
+"id","nome","Municipio","Classificação.autora","UF","decimallon","decimallat"
+"1","Fenda do Tigre","Rio do Oeste","Abrigo_sobrocha","SC",-49.77750627, -27.21944536
+"2","SC-P-1: Luizinho 1","São Joaquim","Abrigo_sobrocha","SC",-49.83755579, -28.46906299
+"3","Capao dos Ossinhos","Urupema","Abrigo_sobrocha","SC",-49.94944811, -28.03161964
+"4","Ponto Suarez e Cardillo (2019 9","Artigas","Aceramico","URG",-57.76661, -30.64977
+"5","Ponto Suarez e Cardillo (2019 7","Artigas","Aceramico","URG",-57.6734, -30.42707
+"6","Ponto Suarez e Cardillo (2019 5","Artigas","Aceramico","URG",-57.63285, -30.31892
+"7","Ponto Suarez e Cardillo (2019 3","Artigas","Aceramico","URG",-57.6236, -30.21006
+"8","Ponto Suarez e Cardillo (2019 6","Artigas","Aceramico","URG",-57.54889, -30.42849
+"9","Ponto Suarez e Cardillo (2019 2","Artigas","Aceramico","URG",-57.45284, -30.26058
+"10","Ponto Suarez e Cardillo (2019 1","Artigas","Aceramico","URG",-57.32903, -30.25666
+"11","Ponto Suarez e Cardillo (2019 23","Canelones","Aceramico","URG",-55.76797, -34.25145
+"12","Ponto Suarez e Cardillo (2019 28","Canelones","Aceramico","URG",-55.59579, -34.69401
+"13","Ponto Suarez e Cardillo (2019 16","Cerro Largo","Aceramico","URG",-54.45808, -32.04292
+"14","Ponto Suarez e Cardillo (2019 20","Colonia del Sacramento","Aceramico","URG",-57.38097, -33.95831
+"15","Ponto Suarez e Cardillo (2019 80","Durazno","Aceramico","URG",-56.99258, -33.04708
+"16","Ponto Suarez e Cardillo (2019 84","Durazno","Aceramico","URG",-56.86806, -32.82785
+"17","Ponto Suarez e Cardillo (2019 79","Durazno","Aceramico","URG",-56.71464, -32.87098
+"18","Ponto Suarez e Cardillo (2019 78","Durazno","Aceramico","URG",-56.65683, -32.89766
+"19","Ponto Suarez e Cardillo (2019 77","Durazno","Aceramico","URG",-56.58924, -32.95014
+"20","Ponto Suarez e Cardillo (2019 76","Durazno","Aceramico","URG",-56.55811, -32.86654
+"21","Ponto Suarez e Cardillo (2019 75","Durazno","Aceramico","URG",-56.48518, -32.92079
+"22","Ponto Suarez e Cardillo (2019 74","Durazno","Aceramico","URG",-56.34821, -32.87009
+"23","Ponto Suarez e Cardillo (2019 96","Durazno","Aceramico","URG",-56.20858, -32.66464
+"24","Ponto Suarez e Cardillo (2019 71","Durazno","Aceramico","URG",-56.09474, -32.77582
+"25","Ponto Suarez e Cardillo (2019 68","Durazno","Aceramico","URG",-56.03604, -32.54724
+"26","Ponto Suarez e Cardillo (2019 72","Durazno","Aceramico","URG",-55.99779, -32.80517
+"27","Ponto Suarez e Cardillo (2019 73","Durazno","Aceramico","URG",-55.8795, -32.80428
+"28","Ponto Suarez e Cardillo (2019 63","Durazno","Aceramico","URG",-55.65893, -32.56236
+"29","Ponto Suarez e Cardillo (2019 62","Durazno","Aceramico","URG",-55.52375, -32.52768
+"30","Ponto Suarez e Cardillo (2019 61","Durazno","Aceramico","URG",-55.42058, -32.51167
+"31","Ponto Suarez e Cardillo (2019 18","Florida","Aceramico","URG",-56.32366, -33.41044
+"32","Ponto Suarez e Cardillo (2019 17","Florida","Aceramico","URG",-55.63492, -33.29945
+"33","Ponto Suarez e Cardillo (2019 24","Lavalleja","Aceramico","URG",-55.62282, -34.24007
+"34","Ponto Suarez e Cardillo (2019 26","Lavalleja","Aceramico","URG",-55.55737, -34.58728
+"35","Ponto Suarez e Cardillo (2019 25","Lavalleja","Aceramico","URG",-55.52321, -34.41652
+"36","Ponto Suarez e Cardillo (2019 27","Lavalleja","Aceramico","URG",-55.42787, -34.59725
+"37","Ponto Suarez e Cardillo (2019 29","Maldonado","Aceramico","URG",-55.46487, -34.70824
+"38","Ponto Suarez e Cardillo (2019 30","Maldonado","Aceramico","URG",-55.37949, -34.66697
+"39","Ponto Suarez e Cardillo (2019 31","Maldonado","Aceramico","URG",-55.35103, -34.76659
+"40","Ponto Suarez e Cardillo (2019 32","Maldonado","Aceramico","URG",-55.26991, -34.71536
+"41","Ponto Suarez e Cardillo (2019 33","Maldonado","Aceramico","URG",-54.91416, -34.88185
+"42","Ponto Suarez e Cardillo (2019 12","Paysandú","Aceramico","URG",-57.89326, -31.53347
+"43","Ponto Suarez e Cardillo (2019 13","Paysandú","Aceramico","URG",-57.87761, -31.64589
+"44","Ponto Suarez e Cardillo (2019 81","Río Negro","Aceramico","URG",-57.19269, -33.01017
+"45","Ponto Suarez e Cardillo (2019 82","Río Negro","Aceramico","URG",-57.12776, -32.90167
+"46","Ponto Suarez e Cardillo (2019 83","Río Negro","Aceramico","URG",-57.00236, -32.8741
+"47","Ponto Suarez e Cardillo (2019 85","Río Negro","Aceramico","URG",-56.97568, -32.62773
+"48","Ponto Suarez e Cardillo (2019 86","Río Negro","Aceramico","URG",-56.84938, -32.63396
+"49","Ponto Suarez e Cardillo (2019 95","Río Negro","Aceramico","URG",-56.81203, -32.39649
+"50","Ponto Suarez e Cardillo (2019 87","Río Negro","Aceramico","URG",-56.71864, -32.64019
+"51","Ponto Suarez e Cardillo (2019 94","Río Negro","Aceramico","URG",-56.68751, -32.40005
+"52","Ponto Suarez e Cardillo (2019 15","Rivera","Aceramico","URG",-55.55665, -31.727
+"53","Ponto Suarez e Cardillo (2019 48","Rivera","Aceramico","URG",-53.6562, -33.14149
+"54","Ponto Suarez e Cardillo (2019 34","Rocha","Aceramico","URG",-54.43744, -34.6499
+"55","Ponto Suarez e Cardillo (2019 35","Rocha","Aceramico","URG",-54.23822, -34.60578
+"56","Ponto Suarez e Cardillo (2019 36","Rocha","Aceramico","URG",-54.076, -34.38095
+"57","Ponto Suarez e Cardillo (2019 37","Rocha","Aceramico","URG",-53.965, -34.40656
+"58","Ponto Suarez e Cardillo (2019 39","Rocha","Aceramico","URG",-53.86681, -34.29556
+"59","Ponto Suarez e Cardillo (2019 40","Rocha","Aceramico","URG",-53.85685, -34.03373
+"60","Ponto Suarez e Cardillo (2019 38","Rocha","Aceramico","URG",-53.84547, -34.39945
+"61","Ponto Suarez e Cardillo (2019 44","Rocha","Aceramico","URG",-53.71739, -33.89
+"62","Ponto Suarez e Cardillo (2019 47","Rocha","Aceramico","URG",-53.63913, -33.25249
+"63","Ponto Suarez e Cardillo (2019 43","Rocha","Aceramico","URG",-53.62917, -33.94835
+"64","Ponto Suarez e Cardillo (2019 46","Rocha","Aceramico","URG",-53.62205, -33.4204
+"65","Ponto Suarez e Cardillo (2019 41","Rocha","Aceramico","URG",-53.60497, -34.09776
+"66","Ponto Suarez e Cardillo (2019 42","Rocha","Aceramico","URG",-53.57651, -34.00242
+"67","Ponto Suarez e Cardillo (2019 11","Salto, São Paulo","Aceramico","URG",-57.77444, -31.04822
+"68","Ponto Suarez e Cardillo (2019 10","Salto, São Paulo","Aceramico","URG",-57.74598, -30.849
+"69","Ponto Suarez e Cardillo (2019 21","San Jose, California","Aceramico","URG",-57.12056, -33.94265
+"70","Ponto Suarez e Cardillo (2019 22","San Jose, California","Aceramico","URG",-56.73776, -34.11911
+"71","Ponto Suarez e Cardillo (2019 19","Soriano","Aceramico","URG",-57.34682, -33.75055
+"72","Ponto Suarez e Cardillo (2019 88","Tacuarembó","Aceramico","URG",-56.58968, -32.71756
+"73","Ponto Suarez e Cardillo (2019 93","Tacuarembó","Aceramico","URG",-56.58701, -32.60995
+"74","Ponto Suarez e Cardillo (2019 89","Tacuarembó","Aceramico","URG",-56.48918, -32.70689
+"75","Ponto Suarez e Cardillo (2019 90","Tacuarembó","Aceramico","URG",-56.45716, -32.61261
+"76","Ponto Suarez e Cardillo (2019 91","Tacuarembó","Aceramico","URG",-56.44026, -32.52723
+"77","Ponto Suarez e Cardillo (2019 69","Tacuarembó","Aceramico","URG",-56.21036, -32.56147
+"78","Ponto Suarez e Cardillo (2019 67","Tacuarembó","Aceramico","URG",-56.08317, -32.47609
+"79","Ponto Suarez e Cardillo (2019 66","Tacuarembó","Aceramico","URG",-55.98712, -32.4752
+"80","Ponto Suarez e Cardillo (2019 65","Tacuarembó","Aceramico","URG",-55.83859, -32.42362
+"81","Ponto Suarez e Cardillo (2019 64","Tacuarembó","Aceramico","URG",-55.71497, -32.40494
+"82","Ponto Suarez e Cardillo (2019 70","Tacuarembó","Aceramico","URG",-55.66916, -31.9618
+"83","Ponto Suarez e Cardillo (2019 55","Tacuarembó","Aceramico","URG",-55.64559, -32.07053
+"84","Ponto Suarez e Cardillo (2019 57","Tacuarembó","Aceramico","URG",-55.59845, -32.14257
+"85","Ponto Suarez e Cardillo (2019 60","Tacuarembó","Aceramico","URG",-55.56021, -32.3747
+"86","Ponto Suarez e Cardillo (2019 56","Tacuarembó","Aceramico","URG",-55.54331, -32.08031
+"87","Ponto Suarez e Cardillo (2019 53","Tacuarembó","Aceramico","URG",-55.54287, -31.9638
+"88","Ponto Suarez e Cardillo (2019 54","Tacuarembó","Aceramico","URG",-55.5024, -32.02339
+"89","Ponto Suarez e Cardillo (2019 58","Tacuarembó","Aceramico","URG",-55.49173, -32.24841
+"90","Ponto Suarez e Cardillo (2019 45","Treinta y Tres","Aceramico","URG",-54.16849, -33.39194
+"91","Ponto Suarez e Cardillo (2019 50","Treinta y Tres","Aceramico","URG",-53.57153, -32.94725
+"92","Ponto Suarez e Cardillo (2019 51","Treinta y Tres","Aceramico","URG",-53.35096, -32.80139
+"93","Laguna Canosa","Artigas","Aceramico","URG",-57.5805, -30.2993
+"95","CalpicalD03","Artigas","Aceramico","URG",-57.366, -30.4167
+"96","Mt Site","Canelones","Aceramico","URG",-55.546523, -34.782504
+"97","Tres Pinos","Colonia del Sacramento","Aceramico","URG",-57.784608, -34.396503
+"98","M8","Colonia del Sacramento","Aceramico","URG",-57.625306, -34.369303
+"99","Minas de Callorda","Durazno","Aceramico","URG",-56.425, -32.883333
+"100","Urupez II","Maldonado","Aceramico","URG",-55.147024, -34.703165
+"101","Puerto La Tuna","Montevideo","Aceramico","URG",-56.331491, -34.772634
+"102","Lago Castillos","Rocha","Aceramico","URG",-54.505697, -34.698649
+"103","Craneo Marcado","Rocha","Aceramico","URG",-53.977772, -34.293654
+"104","Guardia del Monte","Rocha","Aceramico","URG",-53.884732, -34.291101
+"105","Cabo Polonio","Rocha","Aceramico","URG",-53.793375, -34.401629
+"106","Isla Larga","Rocha","Aceramico","URG",-53.646822, -33.599425
+"107","La Esmeralda","Rocha","Aceramico","URG",-53.593937, -34.081508
+"108","Tigre (K87","Treinta y Tres","Aceramico","URG",-54.583, -33.3
+"109","Nené Montesdeoca","Río Negro","Aceramico","URG",-58.35163, -33.16715
+"110","Invernada dos Negros I I","Abdon Batista","Aceramico","SC",-51.06189726, -27.56787773
+"111","SC-CHA-028","Águas Frias","Aceramico","SC",-52.86296485, -26.89448884
+"112","Nelito Hang","Angelina","Aceramico","SC",-49.18204556, -27.54031942
+"113","Três Riachos I","Biguaçu","Aceramico","SC",-48.75179891, -27.47241855
+"114","Santa Terezinha I","Biguaçu","Aceramico","SC",-48.71645061, -27.49247152
+"115","Rússia I","Biguaçu","Aceramico","SC",-48.70687411, -27.50486606
+"117","Encruzilhada I","Campos Novos","Aceramico","SC",-51.41329391, -27.54421086
+"118","Encruzilhada II","Campos Novos","Aceramico","SC",-51.39957555, -27.54847597
+"119","Isidro Manfroi","Campos Novos","Aceramico","SC",-51.29050313, -27.55326065
+"120","Sebastiao Becker","Campos Novos","Aceramico","SC",-51.14246212, -27.55785172
+"121","Augustinho Wilpert","Campos Novos","Aceramico","SC",-51.13232318, -27.55846661
+"122","Sitio Santa Teresinha","Canoinhas","Aceramico","SC",-50.5036621, -26.03668124
+"123","SC-CHA-027","Coronel Freitas","Aceramico","SC",-52.85839571, -26.90685134
+"124","Sitio do Platô","Curitibanos","Aceramico","SC",-50.5224183, -27.46082301
+"125","Doutor Pedrinho II","Doutor Pedrinho","Aceramico","SC",-49.52052574, -26.67715997
+"126","Doutor Pedrinho III","Doutor Pedrinho","Aceramico","SC",-49.49396769, -26.70466629
+"127","SC-PIX-01","Ibicaré","Aceramico","SC",-51.35129134, -27.09250761
+"128","mirim doce 2","Mirim Doce","Aceramico","SC",-50.21639876, -27.19935008
+"129","Mirim doce","Mirim Doce","Aceramico","SC",-50.18641987, -27.19694039
+"130","SC-CHA-012","Nova Erechim","Aceramico","SC",-52.89504352, -26.85325629
+"132","SC-CHA-014","Nova Erechim","Aceramico","SC",-52.88927358, -26.87239611
+"135","SC-CHA-013","Nova Erechim","Aceramico","SC",-52.88037574, -26.87964523
+"136","SC-CHA-017","Nova Erechim","Aceramico","SC",-52.87583745, -26.86446988
+"137","Pedra Branca 01","Palhoça","Aceramico","SC",-48.697708, -27.627933
+"138","Aririú I","Palhoça","Aceramico","SC",-48.69471879, -27.67721497
+"139","Santa Terezinha IV","Passos Maia","Aceramico","SC",-51.978375, -26.572326
+"140","SC-CHA-07","Pinhalzinho","Aceramico","SC",-53.02387682, -26.83925006
+"141","Santa Rosa de Lima 2","Santa Rosa, Paraguay","Aceramico","SC",-49.14780339, -28.08755891
+"144","SC-CHA-02","São Carlos","Aceramico","SC",-53.05296388, -27.0016644
+"146","SC-URG-02","São Carlos","Aceramico","SC",-53.04240789, -27.04806288
+"147","SC-CHA-03","São Carlos","Aceramico","SC",-53.03471044, -26.97833735
+"148","Alto das Palmeiras","Taió","Aceramico","SC",-50.15783246, -27.06264769
+"149","Fazenda Piazera","Taió","Aceramico","SC",-50.15686725, -27.09460972
+"150","HCR-HIMASA","Taió","Aceramico","SC",-50.13858686, -27.10026766
+"152","Passo Manso","Taió","Aceramico","SC",-50.10988999, -27.05154611
+"153","Arno Zangheilini","Taió","Aceramico","SC",-50.09917083, -27.08825729
+"154","Orli Nardelli","Taió","Aceramico","SC",-50.09491264, -27.05960271
+"155","Claudenir Cardoso","Taió","Aceramico","SC",-50.09279932, -27.02926151
+"156","Barragem Taió 1","Taió","Aceramico","SC",-50.05390282, -27.09585625
+"157","Laudelino Lückmann","Taió","Aceramico","SC",-50.03387819, -27.12758164
+"158","Artur Melchert","Taió","Aceramico","SC",-50.03363386, -27.05177862
+"159","Cohab I","Taió","Aceramico","SC",-49.99680213, -27.12834178
+"160","Ribeirao dos Lobos 2","Taió","Aceramico","SC",-49.99072129, -27.19085013
+"162","SC-ARA-063 - Poco da Lontra","Turvo","Aceramico","SC",-49.608245, -28.904809
+"163","SC-IRA-001","Xanxerê","Aceramico","SC",-52.37873003, -26.96923062
+"165","Joao Roque Vingla I","Anita Garibaldi","Aceramico","SC",-51.1814059, -27.76636648
+"166","Sitio oficina litica santa catarina","Anita Garibaldi","Aceramico","SC",-51.01046563, -27.78947646
+"167","Laranjeiras III","Balneario CamboriÃº","Aceramico","SC",-48.58839197, -26.99668304
+"168","Estaleiro I","Balneario CamboriÃº","Aceramico","SC",-48.57821792, -27.02345354
+"169","Oficina Litica Ponta dos Naufragos","Barra Velha","Aceramico","SC",-48.68176668, -26.64009802
+"170","Oficina Litica Praia da Lagoinha","Bombinhas","Aceramico","SC",-48.4826564, -27.14759221
+"171","SPC.UHE.SR.02","Brunópolis","Aceramico","SC",-50.75581456, -27.41989243
+"172","Joao Batista Carneiro","Campos Novos","Aceramico","SC",-51.45973126, -27.53929839
+"173","Naufragados I","Florianópolis","Aceramico","SC",-48.560094, -27.835185
+"174","Oficina Litica das Orquideas","Florianópolis","Aceramico","SC",-48.54667786, -27.61327221
+"175","Ilha Irma do Meio I","Florianópolis","Aceramico","SC",-48.520823, -27.834801
+"176","Matadeiro I","Florianópolis","Aceramico","SC",-48.4955464, -27.75766912
+"177","Vera Muccillo","Florianópolis","Aceramico","SC",-48.47553142, -27.42765572
+"178","Sitio Arqueológico Pedra da Guincha","Florianópolis","Aceramico","SC",-48.466805, -27.69302
+"181","Ingleses III","Florianópolis","Aceramico","SC",-48.40373057, -27.41414018
+"182","Santinho III","Florianópolis","Aceramico","SC",-48.37020915, -27.44976134
+"183","Oficina litica da Vigia I","Garopaba","Aceramico","SC",-48.61040622, -28.01945539
+"185","Oficina Litica Ponta da Guaiúba","Imbitubakj","Aceramico","SC",-48.72115155, -28.28971966
+"186","Rio Bonito","Ituporanga","Aceramico","SC",-49.44413262, -27.54099159
+"187","Barragem Norte 2","José Boiteux","Aceramico","SC",-49.679137, -26.895029
+"188","Fazenda Pai Querê III","Lages","Aceramico","SC",-50.64783602, -28.32256587
+"189","Praia de Seixos da Barra I","Lages","Aceramico","SC",-50.42535138, -28.43271962
+"190","Praia de Seixos do Praiao","Lages","Aceramico","SC",-50.40850039, -28.42392788
+"191","Passo do Ira I","Lages","Aceramico","SC",-50.40032744, -28.39028652
+"192","Praia de Seixos da Invernada Velha","Lages","Aceramico","SC",-50.39094383, -28.38546988
+"193","Guarda do Embaú III","Palhoça","Aceramico","SC",-48.58409971, -27.90467807
+"194","Ilha do Papagaio I","Palhoça","Aceramico","SC",-48.580606, -27.855334
+"195","Oficina litica Praia Grande","Penha","Aceramico","SC",-48.59680412, -26.78129251
+"196","Enseada das Garoupas","Porto Belo","Aceramico","SC",-48.549659, -27.156981
+"198","Alto Palmeiras 1","Rio dos Cedros","Aceramico","SC",-49.369139, -26.546824
+"199","Laranjeiras VII","São Francisco do Sul","Aceramico","SC",-48.6711476, -26.2755059
+"200","Praia de Seixos do Cachoeirao II","São Joaquim","Aceramico","SC",-50.40626587, -28.39984452
+"201","Praia de Seixos da Serraria","São Joaquim","Aceramico","SC",-50.3908532, -28.44056705
+"203","Praia de Seixos da Ponte I","São Joaquim","Aceramico","SC",-50.29237179, -28.45073271
+"204","Praia de Seixos da Volta da Couve","São Joaquim","Aceramico","SC",-50.25298503, -28.44861764
+"205","Barragem Taió 03","Taió","Aceramico","SC",-50.09265488, -27.06853179
+"206","Cachoeira do Escorpiao","Timbé do Sul","Aceramico","SC",-49.89509954, -28.76826173
+"207","Arthur Piassoli II","Timbé do Sul","Aceramico","SC",-49.85815628, -28.82151053
+"208","Arthur Piassoli I","Timbé do Sul","Aceramico","SC",-49.84442176, -28.82817154
+"209","Oficina litica do rio Sao Francisco","Urubici","Aceramico","SC",-49.63393112, -27.95914859
+"210","Base Aerea II","Florianópolis","Aceramico","SC",-48.57174385, -27.67399435
+"211","RS-I-50: Lageado dos Fósseis","Alegrete","Aceramico","RS",-55.7, -29.583333
+"212","Pedra Grande 8","São Pedro do Sul","Aceramico","RS",-54.112058, -29.652223
+"213","Porto das Laranjeiras","Itaqui","Aceramico","RS",-56.305224, -28.950467
+"214","Schmitz","Bom Princípio","Aceramico","RS",-51.404167, -29.568056
+"215","RS-IBI-038","Alegrete","Aceramico","RS",-56.03341373, -29.416354
+"216","RS-IBI-051","Alegrete","Aceramico","RS",-56.02752179, -29.4299926
+"217","RS-IBI-039","Alegrete","Aceramico","RS",-56.02282313, -29.44374794
+"218","RS-IBI-053","Alegrete","Aceramico","RS",-56.01468192, -29.47213366
+"219","RS-IBI-052","Alegrete","Aceramico","RS",-56.00782852, -29.46102756
+"220","RS-IBI-047","Alegrete","Aceramico","RS",-55.99462844, -29.53104948
+"221","RS-IBI-040","Alegrete","Aceramico","RS",-55.97745614, -29.59980219
+"222","RS-IBI-042","Alegrete","Aceramico","RS",-55.9733116, -29.67247046
+"223","RS-IBI-041","Alegrete","Aceramico","RS",-55.97015702, -29.63723303
+"225","RS-IBI-046","Alegrete","Aceramico","RS",-55.96442628, -29.68642507
+"227","RS-IBI-045","Alegrete","Aceramico","RS",-55.95932267, -29.72132698
+"228","RS-IBI-085","Alegrete","Aceramico","RS",-55.95554508, -29.76461337
+"229","RS-IBI-043","Alegrete","Aceramico","RS",-55.95541715, -29.70610844
+"231","RS-IBI-060","Alegrete","Aceramico","RS",-55.95063003, -29.89258098
+"232","RS-IBI-059","Alegrete","Aceramico","RS",-55.94410427, -29.94374883
+"233","RS-IBI-081","Alegrete","Aceramico","RS",-55.94263504, -29.90042214
+"234","RS-IBI-080","Alegrete","Aceramico","RS",-55.94015008, -29.9912278
+"235","RS-IBI-079","Alegrete","Aceramico","RS",-55.93989851, -30.02366642
+"236","RS-IBI-030","Alegrete","Aceramico","RS",-55.84641129, -30.14018655
+"237","RS-IBI-029","Alegrete","Aceramico","RS",-55.83503613, -30.09391275
+"239","RS-IBI-027","Alegrete","Aceramico","RS",-55.83331806, -30.06877591
+"241","RS-IBI-026","Alegrete","Aceramico","RS",-55.8240295, -30.03747155
+"242","RS-IBI-025","Alegrete","Aceramico","RS",-55.81590558, -29.99586295
+"243","RS-IBI-024","Alegrete","Aceramico","RS",-55.80606839, -29.95419309
+"244","RS-IBI-064","Alegrete","Aceramico","RS",-55.7389757, -29.87088456
+"246","RS-IBI-061","Alegrete","Aceramico","RS",-55.7205023, -29.7792876
+"247","RS I 15 - edson dos Anjos","Alegrete","Aceramico","RS",-55.72023831, -29.8159167
+"248","Arroio Jararaca","Alegrete","Aceramico","RS",-55.71611111, -29.79805555
+"251","RS-IBI-062","Alegrete","Aceramico","RS",-55.70472528, -29.80917394
+"252","RS-IBI-023","Alegrete","Aceramico","RS",-55.69736094, -29.83209385
+"253","RS-URG-01","Alpestre","Aceramico","RS",-53.04429428, -27.1236658
+"254","RS-URG-11","Alpestre","Aceramico","RS",-53.03908958, -27.10419315
+"255","Sitio dos Polidores","Antônio Prado","Aceramico","RS",-51.45948309, -28.89274886
+"257","Morrinhos RS J 33C","Barão","Aceramico","RS",-51.85871147, -30.32056311
+"258","Morrinhos RS J33A","Barão do Triunfo","Aceramico","RS",-51.85080319, -30.31390535
+"260","RS-BJC-001","Barão do Triunfo","Aceramico","RS",-51.70117003, -30.42650712
+"261","RS - P - 74","Bom Jesus","Aceramico","RS",-50.70665172, -28.32317703
+"262","RS - P - 47","Bom Jesus","Aceramico","RS",-50.67183259, -28.33403819
+"264","RS - P - 53","Bom Jesus","Aceramico","RS",-50.67031115, -28.34437918
+"270","RS - P - 58","Bom Jesus","Aceramico","RS",-50.65989094, -28.3452653
+"271","RS - P - 76","Bom Jesus","Aceramico","RS",-50.51708077, -28.43686958
+"272","RS - P - 69","Bom Jesus","Aceramico","RS",-50.24873716, -28.43244873
+"274","RS-BIC-013","Bossoroca","Aceramico","RS",-55.19789088, -28.71342099
+"275","RS-BIC-005","Bossoroca","Aceramico","RS",-55.11998836, -28.67601281
+"277","RS-BIC-003","Bossoroca","Aceramico","RS",-55.10498753, -28.66296284
+"278","RS-BIC-001","Bossoroca","Aceramico","RS",-55.07676887, -28.65522867
+"279","Ferramenta","Bossoroca","Aceramico","RS",-55.06156936, -28.6823354
+"281","Menghin","Bossoroca","Aceramico","RS",-55.05132646, -28.67404903
+"284","Timbaúva","Bossoroca","Aceramico","RS",-54.97936159, -28.61191441
+"285","RS-PIR-010","Bossoroca","Aceramico","RS",-54.96910989, -28.60264754
+"286","RS-PIR-008","Bossoroca","Aceramico","RS",-54.95092864, -28.59221363
+"288","RS-PIR-005","Bossoroca","Aceramico","RS",-54.90727724, -28.57814741
+"289","Sitio Barranco","Caxias do Sul","Aceramico","RS",-51.03063284, -29.12639844
+"291","RS-MSG-102 AREIAL I","Chuí","Aceramico","RS",-53.39933658, -33.74131516
+"295","RS CA 04 - Agropecuaria Tapera","Encruzilhada do Sul","Aceramico","RS",-52.60598054, -30.89599679
+"296","RS CA 01 - Elso dos Santos Leite - km 44","Encruzilhada do Sul","Aceramico","RS",-52.57685589, -30.87214335
+"297","RS CA 05 - Hilda Prestes","Encruzilhada do Sul","Aceramico","RS",-52.57255354, -30.83053045
+"298","Sitio do Vinhedo","Fagundes Varela","Aceramico","RS",-51.79035238, -28.93052093
+"299","NIENTE","Giruá","Aceramico","RS",-54.36690056, -28.16349367
+"300","Elemar Mundt","Ibarama","Aceramico","RS",-53.24880412, -29.42467028
+"301","Euclides Leal","Ibarama","Aceramico","RS",-53.22464242, -29.37423795
+"302","Casa de Maquinas","Ijuí","Aceramico","RS",-53.88194662, -28.30290994
+"304","PICA-PAU","Itacurubi","Aceramico","RS",-55.13030314, -28.74502496
+"306","RS-I-71: Barbosa","Itaqui","Aceramico","RS",-56.7275, -29.37027778
+"307","RS-IJ-67:Pessegueiro","Itaqui","Aceramico","RS",-56.39722222, -28.9975
+"308","RS-IBI-008","Itaqui","Aceramico","RS",-55.9966108, -29.15449642
+"309","RS-IBI-005","Itaqui","Aceramico","RS",-55.97233474, -29.1536265
+"311","RS-BIC-030","Maçambara","Aceramico","RS",-55.78766929, -29.07874764
+"313","RS-BIC-028","Maçambara","Aceramico","RS",-55.76949627, -29.07781511
+"314","RS-BIC-027","Maçambara","Aceramico","RS",-55.69414471, -29.04659065
+"315","Alcides Drescher","Nova Palma","Aceramico","RS",-53.2840833, -29.43132317
+"316","RS-IBI-078","Quaraí","Aceramico","RS",-55.93721178, -30.08688322
+"317","RS-IBI-058","Quaraí","Aceramico","RS",-55.93693058, -30.12478946
+"318","RS-IBI-077","Quaraí","Aceramico","RS",-55.93574186, -30.10398929
+"319","RS-IBI-056","Quaraí","Aceramico","RS",-55.93513585, -30.28198331
+"320","RS-IBI-071","Quaraí","Aceramico","RS",-55.93432143, -30.27268252
+"321","RS-IBI-076","Quaraí","Aceramico","RS",-55.93088886, -30.15467181
+"322","RS-IBI-075","Quaraí","Aceramico","RS",-55.92972244, -30.17421644
+"323","RS-IBI-068","Quaraí","Aceramico","RS",-55.92850133, -30.38050053
+"325","RS-IBI-070","Quaraí","Aceramico","RS",-55.92679221, -30.30634158
+"326","RS-IBI-074","Quaraí","Aceramico","RS",-55.92674171, -30.21348967
+"327","RS-IBI-073","Quaraí","Aceramico","RS",-55.92576334, -30.25283315
+"328","RS-IBI-054","Quaraí","Aceramico","RS",-55.92445192, -30.41098401
+"329","RS-IBI-057","Quaraí","Aceramico","RS",-55.92063419, -30.23046689
+"330","RS-IBI-055","Quaraí","Aceramico","RS",-55.91555327, -30.27299764
+"331","RS-IBI-084","Quaraí","Aceramico","RS",-55.91377045, -30.40630275
+"332","RS-IBI-083","Quaraí","Aceramico","RS",-55.89018205, -30.36387561
+"333","RS-IBI-082","Quaraí","Aceramico","RS",-55.88494004, -30.3058382
+"334","RS-IBI-037","Quaraí","Aceramico","RS",-55.86420502, -30.23801173
+"335","RS-IBI-034","Quaraí","Aceramico","RS",-55.86229126, -30.22280873
+"337","RS-IBI-067","Quaraí","Aceramico","RS",-55.86021242, -30.17418134
+"338","RS-IBI-032","Quaraí","Aceramico","RS",-55.85688293, -30.19450028
+"339","RS-IBI-066","Quaraí","Aceramico","RS",-55.85177856, -30.16350521
+"340","RS-SAM-004","Rosário do Sul","Aceramico","RS",-55.02439549, -30.38561851
+"341","RS-SAM-006","Rosário do Sul","Aceramico","RS",-54.96301394, -30.34189656
+"342","RS-SAM-008","Rosário do Sul","Aceramico","RS",-54.88730373, -30.31393809
+"343","RS-SAM-009","Rosário do Sul","Aceramico","RS",-54.86304619, -30.29859602
+"344","RS-SAM-007","Rosário do Sul","Aceramico","RS",-54.80325421, -30.2764425
+"345","Linha Salto 3","Santa Rosa, Paraguay","Aceramico","RS",-54.59462092, -27.84698212
+"346","Torre 50","Santa Rosa, Paraguay","Aceramico","RS",-54.59158449, -27.83127012
+"347","Torre 51","Santa Rosa, Paraguay","Aceramico","RS",-54.56938033, -27.82975287
+"350","Almeida 1","Santa Rosa, Paraguay","Aceramico","RS",-54.56112011, -27.89737271
+"351","Camargo 1","Santa Rosa, Paraguay","Aceramico","RS",-54.56073303, -27.86254683
+"352","Cascatao Santo Cristo 2","Santa Rosa, Paraguay","Aceramico","RS",-54.55958863, -27.83976196
+"355","Torre 48","Santa Rosa, Paraguay","Aceramico","RS",-54.55312839, -27.83032277
+"356","Balneario Silva 1","Santa Rosa, Paraguay","Aceramico","RS",-54.54286711, -27.79803237
+"357","Hermann 1","Santa Rosa, Paraguay","Aceramico","RS",-54.53784535, -27.93850811
+"358","Silo 1","Santa Rosa, Paraguay","Aceramico","RS",-54.52737521, -27.78810144
+"359","Arlindo 1","Santa Rosa, Paraguay","Aceramico","RS",-54.52710931, -27.92813809
+"360","Gunilde 1","Santa Rosa, Paraguay","Aceramico","RS",-54.52255755, -27.85997133
+"361","Manchinha 1","Santa Rosa, Paraguay","Aceramico","RS",-54.51949925, -27.80163869
+"362","Torre 33","Santa Rosa, Paraguay","Aceramico","RS",-54.49514333, -27.82730625
+"363","RS-MSG-100 BARRANCA DA BARRA","Santa Vitória do Palmar","Aceramico","RS",-53.38264781, -33.74391062
+"365","RS-MSG-109 PRAIA III","Santa Vitória do Palmar","Aceramico","RS",-53.33237386, -33.71237589
+"368","RS-MSG-090 arroio da carqueja","Santa Vitória do Palmar","Aceramico","RS",-53.23494427, -33.60591396
+"369","RS-MSG-086 - BARRANCO DAS LASCAS","Santa Vitória do Palmar","Aceramico","RS",-53.20586536, -33.57481383
+"373","RS-QUA-002","Santana do Livramento","Aceramico","RS",-55.92622978, -30.45016852
+"374","RS-QUA-027","Santana do Livramento","Aceramico","RS",-55.92075275, -30.47463032
+"375","RS-QUA-026","Santana do Livramento","Aceramico","RS",-55.91518342, -30.48554725
+"377","RS-QUA-024","Santana do Livramento","Aceramico","RS",-55.91046945, -30.49906971
+"378","RS-QUA-023","Santana do Livramento","Aceramico","RS",-55.90250166, -30.51639039
+"379","RS-QUA-022","Santana do Livramento","Aceramico","RS",-55.89349745, -30.53752747
+"380","RS-QUA-019","Santana do Livramento","Aceramico","RS",-55.87846587, -30.57380673
+"382","RS-QUA-017","Santana do Livramento","Aceramico","RS",-55.87491064, -30.58368326
+"387","RS-QUA-010","Santana do Livramento","Aceramico","RS",-55.86930389, -30.59411933
+"389","RS-QUA-011","Santana do Livramento","Aceramico","RS",-55.85728758, -30.62440348
+"391","RS-QUA-008","Santana do Livramento","Aceramico","RS",-55.85269265, -30.6344957
+"392","RS-QUA-007","Santana do Livramento","Aceramico","RS",-55.84794741, -30.64750077
+"393","RS-QUA-005","Santana do Livramento","Aceramico","RS",-55.82669172, -30.69916448
+"395","RS-QUA-003","Santana do Livramento","Aceramico","RS",-55.79573852, -30.7609208
+"396","RS-IBI-095","Santana do Livramento","Aceramico","RS",-55.70036491, -30.77540149
+"402","RS-IBI-092","Santana do Livramento","Aceramico","RS",-55.6909118, -30.765887
+"404","RS-IBI-086","Santana do Livramento","Aceramico","RS",-55.68997472, -30.77798561
+"407","RS-IBI-093","Santana do Livramento","Aceramico","RS",-55.67832118, -30.77663127
+"408","RS-IBI-104","Santana do Livramento","Aceramico","RS",-55.67763852, -30.76695231
+"410","RS-IBI-106","Santana do Livramento","Aceramico","RS",-55.66323311, -30.76146337
+"416","RS-IBI-102","Santana do Livramento","Aceramico","RS",-55.6489893, -30.75948424
+"417","RS-IBI-017","Santana do Livramento","Aceramico","RS",-55.61021615, -30.74587495
+"419","RS-IBI-014","Santana do Livramento","Aceramico","RS",-55.6006963, -30.74974242
+"420","RS-IBI-016","Santana do Livramento","Aceramico","RS",-55.59276838, -30.74322378
+"425","RS-IBI-010","Santana do Livramento","Aceramico","RS",-55.57231207, -30.73783054
+"426","RS-IBI-011","Santana do Livramento","Aceramico","RS",-55.54625906, -30.72554172
+"427","RS-SAM-002","Santana do Livramento","Aceramico","RS",-55.39876856, -30.67808255
+"428","RS-IJU-006","Santo Ângelo","Aceramico","RS",-54.39300631, -28.33037301
+"429","RS-IJU-007","Santo Ângelo","Aceramico","RS",-54.38671413, -28.33833598
+"431","RS-IJU-002","Santo Ângelo","Aceramico","RS",-54.38008385, -28.33054033
+"432","RS-IJU-001","Santo Ângelo","Aceramico","RS",-54.33766985, -28.30882504
+"433","RS-S-264: Toca do Sino","Santo Antônio da Patrulha","Aceramico","RS",-50.56666667, -29.76666667
+"434","RS-S-328: Caipora","Santo Antônio da Patrulha","Aceramico","RS",-50.5, -29.46666667
+"435","Linha Rolando 2","Santo Cristo","Aceramico","RS",-54.60773101, -27.8301115
+"436","Linha Rolando 1","Santo Cristo","Aceramico","RS",-54.60578094, -27.79085446
+"437","NANDUVAi 3","São Borja","Aceramico","RS",-55.7041315, -28.98621279
+"440","RS-BIC-022","São Borja","Aceramico","RS",-55.59947932, -28.99533403
+"441","Arroio Arara","São Francisco de Assis","Aceramico","RS",-55.34333333, -29.59611111
+"442","Arroio Inhacunda 3","São Francisco de Assis","Aceramico","RS",-55.26388889, -29.57777778
+"443","Arroio Inhacunda 1","São Francisco de Assis","Aceramico","RS",-55.23472222, -29.59111111
+"444","Jaguari Mirim","São Francisco de Assis","Aceramico","RS",-55.08468418, -29.5336246
+"445","RS-PIR-001","São Luiz Gonzaga","Aceramico","RS",-54.70898644, -28.49040967
+"446","RS-IJU-024","São Miguel das Missões","Aceramico","RS",-54.55248472, -28.42822481
+"448","RS-IJU-018","São Miguel das Missões","Aceramico","RS",-54.53867167, -28.41649946
+"449","Pedro de Almeida","Sertão","Aceramico","RS",-52.12166017, -27.96653897
+"450","BICA","Uruguaiana","Aceramico","RS",-56.99024606, -29.76002768
+"451","RS-I-69: Laranjito","Uruguaiana","Aceramico","RS",-56.94333333, -29.57833333
+"452","VARIANTE 1","Uruguaiana","Aceramico","RS",-56.93566604, -29.73955284
+"453","VARIANTE 2","Uruguaiana","Aceramico","RS",-56.93485182, -29.75129391
+"454","RS-I-72: Palmito 1","Uruguaiana","Aceramico","RS",-56.90972222, -29.54638889
+"456","CASA DE PEDRA","Uruguaiana","Aceramico","RS",-56.9051658, -29.71019428
+"457","RS-I-73: Sanchuri 1","Uruguaiana","Aceramico","RS",-56.90055556, -29.53888889
+"458","MENEZES","Uruguaiana","Aceramico","RS",-56.88064029, -29.67760316
+"459","RS-I-67: Touro Passo 1","Uruguaiana","Aceramico","RS",-56.87222222, -29.67
+"460","RS-I-68: Ribeiro","Uruguaiana","Aceramico","RS",-56.85694444, -29.67611111
+"462","SERVO DE PEDRA","Uruguaiana","Aceramico","RS",-56.7628811, -29.62542439
+"463","Ernani Schmidt","Venâncio Aires","Aceramico","RS",-52.31281918, -29.49250579
+"464","Roni Kramer","Venâncio Aires","Aceramico","RS",-52.30241214, -29.47723105
+"465","Armandio da Silva","Venâncio Aires","Aceramico","RS",-52.30170471, -29.42990642
+"466","Arthur Schwin","Venâncio Aires","Aceramico","RS",-52.26151216, -29.53355763
+"467","Tereza da Costa","Venâncio Aires","Aceramico","RS",-52.19857405, -29.64484737
+"468","Alberto Vogel","Venâncio Aires","Aceramico","RS",-52.13153014, -29.68193014
+"469","Joao Olimpio dos Santos","Venâncio Aires","Aceramico","RS",-52.05583729, -29.63812848
+"470","Eduardo L. Guedes","Venâncio Aires","Aceramico","RS",-52.03467203, -29.69982292
+"471","Sitio Voese","Vera Cruz","Aceramico","RS",-52.62502099, -29.65259619
+"472","Joao Baumgarten","Vera Cruz","Aceramico","RS",-52.57066337, -29.68458036
+"475","Humaitá 2","Vitória das Missões","Aceramico","RS",-54.45242848, -28.36629364
+"476","Humaitá 3","Vitória das Missões","Aceramico","RS",-54.44201016, -28.36307612
+"478","Humaitá","Vitória das Missões","Aceramico","RS",-54.42095329, -28.35486633
+"479","RS-IJU-010","Vitória das Missões","Aceramico","RS",-54.40145129, -28.34408483
+"480","RS-S-359: Aterrado","Santo Antônio da Patrulha","Aceramico","RS",-50.5, -29.7333
+"481","Pessegueiro","Itaqui","Aceramico","RS",-56.39, -29.083056
+"482","Touro Passo I","Uruguaiana","Aceramico","RS",-57.075556, -29.789167
+"483","RS-I-70: Imbaa","Uruguaiana","Aceramico","RS",-56.96666667, -29.64333333
+"484","Laranjito","Uruguaiana","Aceramico","RS",-56.93, -29.613333
+"485","Palmito 2","Uruguaiana","Aceramico","RS",-56.865, -29.532222
+"486","Milton Almeida","Uruguaiana","Aceramico","RS",-56.663889, -29.718056
+"487","RS-IJ-68","São Borja","Aceramico","RS",-56.004939, -28.611719
+"488","RS-I-99","Uruguaiana","Aceramico","RS",-56.558939, -29.286989
+"489","Rio Grande do Sul (OSO-1","Maquiné","Aceramico","RS",-50.2875, -29.616667
+"491","Garivaldino","Montenegro","Aceramico","RS",-51.640667, -29.584389
+"492","Marimbondo","Santo Antônio da Patrulha","Aceramico","RS",-50.55445806, -29.76171449
+"493","Pilger","Paverama","Aceramico","RS",-51.727792, -29.512638
+"494","Monjolo","Triunfo","Aceramico","RS",-51.584969, -29.803822
+"495","ALMERI NICOLAU DUTRA","Alpestre","Aceramico","RS",-53.01465422, -27.15144946
+"497","Praia de seixos do Rio Morto II","Bom Jesus","Aceramico","RS",-50.38102493, -28.44655235
+"499","SiTIO DO DEPRIMIDO","Bom Princípio","Aceramico","RS",-51.354899, -29.439658
+"500","Sanga Felisbino","Braga","Aceramico","RS",-53.74655864, -27.54075479
+"502","U J w 03","Caibaté","Aceramico","RS",-54.62551878, -28.26486999
+"503","OFICINA LiTICA RST 471","Canguçu","Aceramico","RS",-52.79895008, -31.10136136
+"504","U J z  04","Catuípe","Aceramico","RS",-54.01832497, -28.13571886
+"505","U V g 01","Cerro Grande","Aceramico","RS",-53.15678281, -27.62962894
+"508","U V b 04","Cerro Grande","Aceramico","RS",-53.12771945, -27.6152512
+"509","Sao Bras 01","Chuvisca","Aceramico","RS",-51.92448684, -30.75587199
+"510","U U h  01","Erval Grande","Aceramico","RS",-52.56004778, -27.34036385
+"511","Praia 3","Faxinalzinho","Aceramico","RS",-52.72356005, -27.38699433
+"512","UUU 126","Garruchos","Aceramico","RS",-55.71082228, -28.24542599
+"513","Rio dos indios","GetÃºlio Vargas","Aceramico","RS",-52.14357797, -27.87085049
+"514","Arroio dos Ferreiros","Gravataí","Aceramico","RS",-50.97817819, -29.93658779
+"515","U J J 06","Guarani das Missões","Aceramico","RS",-54.55284775, -28.26479258
+"516","U U h  03","Itatiba do Sul","Aceramico","RS",-52.5054478, -27.31876725
+"517","U V c  02","Liberato Salzano","Aceramico","RS",-53.08383151, -27.58951215
+"518","U V k  02","Liberato Salzano","Aceramico","RS",-53.0641381, -27.56283227
+"519","DIQUE 1","Maximiliano de Almeida","Aceramico","RS",-51.77804795, -27.52942598
+"520","SiTIO DOS VETERINaRIOS","Maximiliano de Almeida","Aceramico","RS",-51.77672819, -27.56601804
+"522","Lajeado do Tigre","Miraguaí","Aceramico","RS",-53.77839373, -27.44916443
+"524","Bordinhao","Miraguaí","Aceramico","RS",-53.76695148, -27.46659852
+"525","Sanga agua Fria 2","Miraguaí","Aceramico","RS",-53.75992458, -27.49018391
+"526","RST124","Muçum","Aceramico","RS",-51.84132251, -29.14839202
+"527","JARDIM 01","Muitos Capões","Aceramico","RS",-51.4025219, -28.55639759
+"528","Praia 1","Nonoai","Aceramico","RS",-52.73528007, -27.33520385
+"530","Praia 4","Nonoai","Aceramico","RS",-52.71460791, -27.39134676
+"531","QUARAi - RST 377","Quaraí","Aceramico","RS",-56.50583333, -30.24725
+"533","GEORGINA CORREA","Rio dos Índios","Aceramico","RS",-52.85719087, -27.17156516
+"534","rs  msg 110 praia IV","Santa Vitória do Palmar","Aceramico","RS",-53.34973131, -33.71151477
+"535","U J c 05","Santo Ângelo","Aceramico","RS",-54.49715467, -28.27029195
+"536","U J J 08","Santo Ângelo","Aceramico","RS",-54.47734372, -28.27246261
+"537","U J J 09","Santo Ângelo","Aceramico","RS",-54.4548137, -28.2710972
+"539","U J b  02","Santo Ângelo","Aceramico","RS",-54.39392845, -28.27599333
+"541","U J t 01","Santo Ângelo","Aceramico","RS",-54.35200221, -28.27852458
+"542","La de Ovelha - ST18","São Borja","Aceramico","RS",-55.62005074, -28.89235274
+"544","U M t 02","São Luiz Gonzaga","Aceramico","RS",-55.00123932, -28.26811479
+"546","Sitio V8 - Oficina Litica","São Martinho da Serra","Aceramico","RS",-53.91673049, -29.55916967
+"547","Dalabrida","Tenente Portela","Aceramico","RS",-53.78897316, -27.41516175
+"548","U V t  02","Trindade do Sul","Aceramico","RS",-52.94073362, -27.49867546
+"549","SeRGIO LUIS BAARS","Ubiretama","Aceramico","RS",-54.68233333, -28.055
+"550","Sitio  da BR - 290","Uruguaiana","Aceramico","RS",-57.00154257, -29.81250018
+"551","URUGUAIANA RST 377","Uruguaiana","Aceramico","RS",-56.43305, -30.05701667
+"552","Sitio do Areal 1","(copiado","Aceramico","(copiado",-56.2230338, -30.45960065
+"553","Romildo Petermann A","(copiado","Aceramico","(copiado",-53.26681246, -29.43186195
+"555","RS-EG-02","(copiado","Aceramico","(copiado",-52.66418091, -27.30143645
+"556","Valdir Goettems","(copiado","Aceramico","(copiado",-52.31810008, -29.51000531
+"558","RS-SIN-004","(copiado","Aceramico","(copiado",-50.89897582, -29.68681492
+"559","Idiarte","Flores","Arte_Rupestre","URG",-56.6424, -33.5491
+"560","La de la “X”","Flores","Arte_Rupestre","URG",-56.617, -33.5309
+"566","La Flecha","Flores","Arte_Rupestre","URG",-56.6121, -33.5201
+"567","La del “8”","Flores","Arte_Rupestre","URG",-56.6118, -33.5712
+"568","POCH3A","Flores","Arte_Rupestre","URG",-56.6113, -33.5602
+"571","La Reja","Flores","Arte_Rupestre","URG",-56.6005, -33.4924
+"572","Roca Sola","Flores","Arte_Rupestre","URG",-56.5989, -33.5147
+"578","Grabado fino (quemada","Flores","Arte_Rupestre","URG",-56.5893, -33.5617
+"580","La Picada","Flores","Arte_Rupestre","URG",-56.5867, -33.5285
+"581","Campanitas","Flores","Arte_Rupestre","URG",-56.582, -33.6165
+"583","El Ángulo","Flores","Arte_Rupestre","URG",-56.5776, -33.6288
+"584","La del “2”","Flores","Arte_Rupestre","URG",-56.5741, -33.5812
+"587","Cantera de Singer","Flores","Arte_Rupestre","URG",-56.5693, -33.5135
+"588","Iruleguy","Flores","Arte_Rupestre","URG",-56.5677, -33.5573
+"591","La entrada de Boccardi","Flores","Arte_Rupestre","URG",-56.5643, -33.5323
+"592","De Souza","Florida","Arte_Rupestre","URG",-56.5307, -33.5284
+"593","Ponto Cabrera Perez (2013 8","Artigas","Arte_Rupestre","URG",-57.38784, -30.58773
+"594","Ponto Cabrera Perez (2013 7","Artigas","Arte_Rupestre","URG",-57.32019, -30.47395
+"595","Ponto Cabrera Perez (2013 1","Artigas","Arte_Rupestre","URG",-57.23504, -30.41232
+"596","Ponto Cabrera Perez (2013 6","Artigas","Arte_Rupestre","URG",-57.1838, -30.31495
+"597","Ponto Cabrera Perez (2013 14","Paysandú","Arte_Rupestre","URG",-57.91936, -31.4471
+"598","Ponto Cabrera Perez (2013 20","Paysandú","Arte_Rupestre","URG",-56.92852, -32.09186
+"599","Ponto Cabrera Perez (2013 21","Paysandú","Arte_Rupestre","URG",-56.87893, -32.09624
+"600","Ponto Cabrera Perez (2013 13","Salto","Arte_Rupestre","URG",-57.57948, -31.09701
+"601","Ponto Cabrera Perez (2013 12","Salto","Arte_Rupestre","URG",-57.51748, -31.05398
+"602","Ponto Cabrera Perez (2013 10","Salto","Arte_Rupestre","URG",-57.50363, -30.92634
+"603","Ponto Cabrera Perez (2013 15","Salto","Arte_Rupestre","URG",-57.45841, -31.20496
+"604","Ponto Cabrera Perez (2013 11","Salto","Arte_Rupestre","URG",-57.43507, -31.04231
+"605","Ponto Cabrera Perez (2013 9","Salto","Arte_Rupestre","URG",-57.34754, -30.841
+"606","Ponto Cabrera Perez (2013 3","Salto","Arte_Rupestre","URG",-57.34645, -31.3511
+"607","Ponto Cabrera Perez (2013 2","Salto","Arte_Rupestre","URG",-57.31089, -30.99435
+"608","Ponto Cabrera Perez (2013 16","Salto","Arte_Rupestre","URG",-57.30378, -31.12327
+"609","Ponto Cabrera Perez (2013 4","Salto","Arte_Rupestre","URG",-57.23486, -31.39441
+"610","Ponto Cabrera Perez (2013 5","Salto","Arte_Rupestre","URG",-57.08461, -31.54903
+"611","Ponto Cabrera Perez (2013 18","Salto","Arte_Rupestre","URG",-57.08388, -31.3129
+"612","Ponto Cabrera Perez (2013 17","Salto","Arte_Rupestre","URG",-57.06455, -31.10285
+"613","Ponto Cabrera Perez (2013 19","Salto","Arte_Rupestre","URG",-56.45517, -31.27497
+"623","Ponta das Canas III","Florianópolis","Arte_Rupestre","SC",-48.432799, -27.387845
+"624","Prainha da Barra","Florianópolis","Arte_Rupestre","SC",-48.41852595, -27.57306937
+"628","Ilha das Aranhas Pequena I","Florianópolis","Arte_Rupestre","SC",-48.363947, -27.488523
+"629","SC-DUN-001","Garopaba","Arte_Rupestre","SC",-48.63508113, -28.10776547
+"632","Ponta das Andorinhas I","Palhoça","Arte_Rupestre","SC",-48.575775, -27.878988
+"633","Miguel Bernardino Macedo","Rio do Campo","Arte_Rupestre","SC",-50.26915118, -26.91330016
+"635","Morro Pelado II","Urubici","Arte_Rupestre","SC",-49.58806346, -28.04293027
+"636","Rio dos Bugres II","Urubici","Arte_Rupestre","SC",-49.50921186, -27.96553302
+"638","Abrigo do Letriro","Alegrete","Arte_Rupestre","RS",-55.21851503, -29.68679095
+"639","RS - P - 75","Bom Jesus","Arte_Rupestre","RS",-50.51757792, -28.45333571
+"642","Airton Moura","Mata","Arte_Rupestre","RS",-54.46416667, -29.554
+"645","Fredolin Chütz 3","Mata","Arte_Rupestre","RS",-54.44083333, -29.5285
+"647","Ivora","Ivorá","Arte_Rupestre","RS",-53.583998, -29.527547
+"648","Alfredo Wagner II","Alfredo Wagner","Ceramica","SC",-49.339647, -27.685998
+"649","ARV-SC-02","Arvoredo","Ceramica","SC",-52.47158527, -27.05773264
+"650","Ivo Romany II","Concórdia","Ceramica","SC",-52.10612854, -27.33666544
+"651","Alfredo Ritter","Concórdia","Ceramica","SC",-51.99876344, -27.37622219
+"652","Itamar Mazucheello","Içara","Ceramica","SC",-49.33307324, -28.74421141
+"653","SC-ITA-002 Rio Natal II","São Bento do Sul","Ceramica","SC",-49.28724791, -26.37355907
+"655","SC-MAM-001-Campetre","São João do Sul","Ceramica","SC",-49.793792, -29.252925
+"656","SC-MAM-002-Encruzo","São João do Sul","Ceramica","SC",-49.789189, -29.244437
+"657","SPC.UHE.SR.13","São José do Cerrito","Ceramica","SC",-50.82376833, -27.4589958
+"658","Linha Copinha I","Vargeão","Ceramica","SC",-52.09393575, -26.67405749
+"659","SPC.LT.SR.14","Vargem","Ceramica","SC",-50.90567854, -27.52425708
+"660","SPC.LT.SR.12","Vargem","Ceramica","SC",-50.88899712, -27.51730231
+"661","XAX-SC-01","Xaxim","Ceramica","SC",-52.4824484, -27.05577712
+"662","RS-P-20: Prainha 2","Bom Jesus","Ceramica","RS",-50.283333, -28.463333
+"663","Jose Laureano Klein","Bom Princípio","Ceramica","RS",-51.36469538, -29.5003899
+"664","Bela Vista 01","Camaquã","Ceramica","RS",-51.95412693, -30.79715385
+"665","Santa Auta 01","Camaquã","Ceramica","RS",-51.89341412, -30.69687125
+"668","Bela Vista 03","Chuvisca","Ceramica","RS",-51.93894489, -30.77938125
+"670","RS-VVM-004","Dilermando de Aguiar","Ceramica","RS",-54.24942039, -29.88203115
+"671","Km 12.200","Dom Pedro de Alcântara","Ceramica","RS",-49.83763822, -29.38662975
+"672","chacrinha do aldo","Itacurubi","Ceramica","RS",-55.24498056, -28.80848321
+"673","Wilson Newton Alano","Novo Hamburgo","Ceramica","RS",-51.02112087, -29.76571715
+"674","Sitio da Torre","Novo Hamburgo","Ceramica","RS",-51.01260623, -29.75416631
+"675","Estrada Ritter","Pelotas","Ceramica","RS",-52.33151257, -31.48989196
+"676","Cerrito Alegre 02","Pelotas","Ceramica","RS",-52.31961059, -31.47300078
+"677","Santa Silvana 02","Pelotas","Ceramica","RS",-52.31008608, -31.43152749
+"678","Placidino","Rio Grande","Ceramica","RS",-52.29907345, -31.89330178
+"679","Manuel","Rio Grande","Ceramica","RS",-52.28586411, -31.97438967
+"680","Telmo","Rio Grande","Ceramica","RS",-52.2773434, -31.86562916
+"681","Do Siri","Rio Grande","Ceramica","RS",-52.20709338, -32.08726588
+"682","Poste Torto","Rio Grande","Ceramica","RS",-52.18805146, -32.08720234
+"683","U J j  02","Santo Ângelo","Ceramica","RS",-54.24156092, -28.23799786
+"684","RS-S-263: Guarda Velha 2","Santo Antônio da Patrulha","Ceramica","RS",-50.53694444, -29.8
+"685","Caminho do Amassador de Barro","São Miguel das Missões","Ceramica","RS",-54.55555556, -28.56166667
+"686","Sitio Arqueológico Maninho 01","Sertão Santana","Ceramica","RS",-51.65257399, -30.46565127
+"687","Jazida de Areia do Lote I","Torres","Ceramica","RS",-49.82078306, -29.4140694
+"688","Jazida de Areia 3  km 27","Três Cachoeiras","Ceramica","RS",-49.95257741, -29.46876772
+"689","RS - LC - 87","(copiado","Ceramica","(copiado",-50.34916667, -30.3615
+"691","Potrerillo","Rocha","Cerrito","URG",-54.435625, -34.457544
+"692","CH1E01","Rocha","Cerrito","URG",-54.286623, -34.498298
+"693","CH2D01","Rocha","Cerrito","URG",-54.280787, -34.523477
+"694","India Muerta","Rocha","Cerrito","URG",-54.25, -33.97
+"695","Punta Coronilla","Rocha","Cerrito","URG",-54.244738, -34.65095
+"696","Los Ajos","Rocha","Cerrito","URG",-53.9588, -33.7008
+"697","Cerro de la Viuda","Rocha","Cerrito","URG",-53.943, -33.607
+"698","Puntas de San Luis","Rocha","Cerrito","URG",-53.776058, -33.629221
+"699","Los Indios","Rocha","Cerrito","URG",-53.71, -33.94
+"700","San Miguel","Rocha","Cerrito","URG",-53.59, -33.73
+"701","C06","Rocha","Cerrito","URG",-53.72539, -33.767
+"702","Averias Cerrito 26","Rocha","Cerrito","URG",-53.72073, -33.7469
+"710","Averías Cerrito 3","Rocha","Cerrito","URG",-53.71074, -33.78775
+"712","C30","Rocha","Cerrito","URG",-53.71034, -33.76756
+"714","C08","Rocha","Cerrito","URG",-53.70571, -33.77796
+"716","Averias Cerrito 1","Rocha","Cerrito","URG",-53.70227, -33.79921
+"717","C05","Rocha","Cerrito","URG",-53.70131, -33.75412
+"719","Averias Cerrito 31","Rocha","Cerrito","URG",-53.69635, -33.78461
+"722","C10","Rocha","Cerrito","URG",-53.6952, -33.7753
+"723","Abra Cerrito 5","Rocha","Cerrito","URG",-53.69474, -33.74016
+"729","C19","Rocha","Cerrito","URG",-53.68971, -33.76659
+"731","C12","Rocha","Cerrito","URG",-53.68507, -33.75665
+"734","C33","Rocha","Cerrito","URG",-53.6766, -33.78158
+"735","C31","Rocha","Cerrito","URG",-53.67493, -33.79413
+"736","Abra 2 Cerrito 2","Rocha","Cerrito","URG",-53.66919, -33.73499
+"737","Averías Cerrito 5","Rocha","Cerrito","URG",-53.66899, -33.74548
+"745","C32","Rocha","Cerrito","URG",-53.66235, -33.80025
+"746","C24","Rocha","Cerrito","URG",-53.66152, -33.75456
+"747","C15","Rocha","Cerrito","URG",-53.66047, -33.77561
+"748","C37","Rocha","Cerrito","URG",-53.65629, -33.8083
+"749","Averias Cerrito 11","Rocha","Cerrito","URG",-53.65448, -33.73888
+"753","Averias Cerrito 29","Rocha","Cerrito","URG",-53.64617, -33.74704
+"754","C38","Rocha","Cerrito","URG",-53.64567, -33.81171
+"757","C36","Rocha","Cerrito","URG",-53.64483, -33.77244
+"759","Averias Cerrito 27","Rocha","Cerrito","URG",-53.63626, -33.7407
+"760","Abra 3 Cerrito 02","Rocha","Cerrito","URG",-53.63395, -33.72994
+"762","C34","Rocha","Cerrito","URG",-53.6302, -33.79204
+"764","C39","Rocha","Cerrito","URG",-53.6274, -33.81512
+"766","Corral Piedra 2","Rocha","Cerrito","URG",-53.61398, -33.72495
+"767","Corral Piedra","Rocha","Cerrito","URG",-53.60019, -33.76237
+"769","Averias Cerrito 37","Rocha","Cerrito","URG",-53.59296, -33.74266
+"774","Averias Cerrito 13","Rocha","Cerrito","URG",-53.58175, -33.7436
+"775","Averias Cerrito 18","Rocha","Cerrito","URG",-53.57011, -33.74185
+"777","Averias Cerrito 12","Rocha","Cerrito","URG",-53.5577, -33.73762
+"778","Los Indios C","Rocha","Cerrito","URG",-53.72058, -33.90173
+"779","arroyo de los Indios D","Rocha","Cerrito","URG",-53.70196, -33.88568
+"780","Camino del Indio A","Rocha","Cerrito","URG",-53.69985, -33.90358
+"781","arroyo de los Indios E","Rocha","Cerrito","URG",-53.6967, -33.86421
+"782","Rincón de los Indios","Rocha","Cerrito","URG",-53.6963, -33.92154
+"784","arroyo de los Indios F","Rocha","Cerrito","URG",-53.68217, -33.85302
+"785","Rincón de la Tuna C","Rocha","Cerrito","URG",-53.68127, -33.87844
+"786","arroyo de los Indios C","Rocha","Cerrito","URG",-53.68109, -33.92748
+"788","Cerro de los Indios B","Rocha","Cerrito","URG",-53.67827, -33.91263
+"793","arroyo de los Indios B","Rocha","Cerrito","URG",-53.66869, -33.92824
+"794","Cerro de los Indios E","Rocha","Cerrito","URG",-53.6663, -33.91129
+"795","Rincón de la Tuna B","Rocha","Cerrito","URG",-53.66473, -33.88012
+"796","Camino del Indio B","Rocha","Cerrito","URG",-53.66462, -33.89617
+"797","arroyo de los IndiosG","Rocha","Cerrito","URG",-53.66222, -33.85246
+"798","Punto Geodésico H","Rocha","Cerrito","URG",-53.65614, -33.88739
+"801","Punto Geodésico G","Rocha","Cerrito","URG",-53.64402, -33.88827
+"802","Rincón Silvestre B","Rocha","Cerrito","URG",-53.64111, -33.94072
+"803","Potrerillo A","Rocha","Cerrito","URG",-53.6404, -33.9582
+"804","Rincón Silvestre A","Rocha","Cerrito","URG",-53.63888, -33.92745
+"805","Potrerillo B","Rocha","Cerrito","URG",-53.63513, -33.97592
+"806","Punto Geodésico E","Rocha","Cerrito","URG",-53.63413, -33.88393
+"807","San Martin D","Rocha","Cerrito","URG",-53.63169, -33.85098
+"809","Camino del Indio C","Rocha","Cerrito","URG",-53.63131, -33.91001
+"811","Casa Nutriero","Rocha","Cerrito","URG",-53.6264, -33.89375
+"813","Rincón Silvestre E","Rocha","Cerrito","URG",-53.61902, -33.92699
+"814","San Martin A","Rocha","Cerrito","URG",-53.6182, -33.8472
+"815","Camino del Indio E","Rocha","Cerrito","URG",-53.61738, -33.90256
+"816","Bañado de las Maravillas K","Rocha","Cerrito","URG",-53.61556, -33.87687
+"818","Camino del Indio D","Rocha","Cerrito","URG",-53.61264, -33.91107
+"819","Cambara","Rocha","Cerrito","URG",-53.61112, -33.83657
+"820","Rincón Silvestre F","Rocha","Cerrito","URG",-53.61003, -33.9204
+"821","Bañado de la Maravillas J","Rocha","Cerrito","URG",-53.609, -33.88569
+"826","Bañado de las Maravillas G","Rocha","Cerrito","URG",-53.60476, -33.89798
+"827","arroyo de Los Indios A","Rocha","Cerrito","URG",-53.60022, -33.92549
+"828","Bañado de las Maravillas D","Rocha","Cerrito","URG",-53.59225, -33.91013
+"830","Cerro aislado","Rocha","Cerrito","URG",-53.56956, -33.91929
+"831","Laguna del Bicho","Rocha","Cerrito","URG",-53.55834, -33.93079
+"832","Aduana","Rocha","Cerrito","URG",-53.53951, -33.91739
+"833","Laguna Jacinta A","Tacuarembó","Cerrito","URG",-55.41298, -32.0865
+"834","Picada del Ballo A","Tacuarembó","Cerrito","URG",-55.41258, -32.13265
+"835","Picada del Ballo B","Tacuarembó","Cerrito","URG",-55.41206, -32.1227
+"836","Laguna Jacinta B","Tacuarembó","Cerrito","URG",-55.40399, -32.10038
+"838","Paso Cuello A","Tacuarembó","Cerrito","URG",-55.3794, -32.01855
+"839","Entrevero A","Tacuarembó","Cerrito","URG",-55.37112, -31.98983
+"840","Paso Cuello B","Tacuarembó","Cerrito","URG",-55.371, -32.00629
+"841","Paso de los Ladrones I","Tacuarembó","Cerrito","URG",-55.3648, -32.25897
+"844","Cañada de los Caponcitos A","Tacuarembó","Cerrito","URG",-55.35987, -31.95662
+"846","Laguna de Capón A","Tacuarembó","Cerrito","URG",-55.35697, -31.97031
+"847","Paso de los Ladrones A","Tacuarembó","Cerrito","URG",-55.35664, -32.24106
+"850","Paso de los Ladrones E","Tacuarembó","Cerrito","URG",-55.35063, -32.25762
+"851","Paso de los Ladrones B","Tacuarembó","Cerrito","URG",-55.34444, -32.23786
+"854","Lemos A","Tacuarembó","Cerrito","URG",-55.341, -31.94466
+"855","Paso de los Ladrones F","Tacuarembó","Cerrito","URG",-55.33912, -32.2616
+"856","Cañada del Sauce C","Tacuarembó","Cerrito","URG",-55.33864, -31.91842
+"858","Lemos B","Tacuarembó","Cerrito","URG",-55.33409, -31.95231
+"860","Cañada del Sauce A","Tacuarembó","Cerrito","URG",-55.33048, -31.93046
+"861","Caldas B","Tacuarembó","Cerrito","URG",-55.32917, -31.9884
+"862","Rios","Tacuarembó","Cerrito","URG",-55.3258, -31.91942
+"863","Caraguatá H","Tacuarembó","Cerrito","URG",-55.32129, -32.26038
+"864","Caldas A","Tacuarembó","Cerrito","URG",-55.31586, -31.99253
+"865","Caraguatá F","Tacuarembó","Cerrito","URG",-55.31269, -32.24957
+"866","Lussich A","Tacuarembó","Cerrito","URG",-55.31218, -31.92065
+"867","Caldas C","Tacuarembó","Cerrito","URG",-55.31177, -32.00218
+"869","Ávila","Tacuarembó","Cerrito","URG",-55.30731, -32.23697
+"870","Pacheco A","Tacuarembó","Cerrito","URG",-55.30559, -31.98353
+"871","Lussich B","Tacuarembó","Cerrito","URG",-55.30462, -31.91304
+"872","Pacheco B","Tacuarembó","Cerrito","URG",-55.30382, -31.97419
+"873","Alvez B","Tacuarembó","Cerrito","URG",-55.2937, -31.90916
+"874","Pacheco C","Tacuarembó","Cerrito","URG",-55.29304, -31.97935
+"875","Ñandubay A","Tacuarembó","Cerrito","URG",-55.29017, -31.96833
+"877","Ñandubay B","Tacuarembó","Cerrito","URG",-55.28822, -31.95614
+"878","Monte","Tacuarembó","Cerrito","URG",-55.28764, -31.92533
+"880","Cañada del Espinillo","Tacuarembó","Cerrito","URG",-55.2792, -32.2518
+"882","Ñandubay D","Tacuarembó","Cerrito","URG",-55.27642, -31.95384
+"883","Da Rosa C","Tacuarembó","Cerrito","URG",-55.27571, -31.89681
+"885","Caraguatá B","Tacuarembó","Cerrito","URG",-55.27233, -32.24374
+"887","Ñandubay F","Tacuarembó","Cerrito","URG",-55.26635, -31.95054
+"888","Ñandubay E","Tacuarembó","Cerrito","URG",-55.26628, -31.96517
+"890","La Concesión A","Tacuarembó","Cerrito","URG",-55.26057, -32.27238
+"891","Caraguatá C","Tacuarembó","Cerrito","URG",-55.25612, -32.23983
+"892","Ñandubay H","Tacuarembó","Cerrito","URG",-55.25312, -31.94232
+"896","La Concesión B","Tacuarembó","Cerrito","URG",-55.24535, -32.27292
+"898","Alzogaray A","Tacuarembó","Cerrito","URG",-55.23858, -32.24076
+"899","La Concesión D","Tacuarembó","Cerrito","URG",-55.23451, -32.27099
+"901","Alzogaray B","Tacuarembó","Cerrito","URG",-55.22455, -32.24257
+"902","La Concesión F","Tacuarembó","Cerrito","URG",-55.21834, -32.27178
+"903","Caraguatá I","Tacuarembó","Cerrito","URG",-55.20251, -32.23516
+"904","El Tala D","Tacuarembó","Cerrito","URG",-55.18563, -32.26991
+"905","Caraguatá J","Tacuarembó","Cerrito","URG",-55.18023, -32.2363
+"906","El Tala B","Tacuarembó","Cerrito","URG",-55.17519, -32.25114
+"908","El Tala A","Tacuarembó","Cerrito","URG",-55.16227, -32.25168
+"909","Paso del Sauce","Tacuarembó","Cerrito","URG",-55.15274, -32.2376
+"910","Cuchilla de Pereira D","Tacuarembó","Cerrito","URG",-55.1348, -32.2035
+"911","Cuchilla de Pereira A","Tacuarembó","Cerrito","URG",-55.13384, -32.18742
+"913","Pago Lindo D","Tacuarembó","Cerrito","URG",-55.12999, -32.22995
+"914","Cerro Pereira B","Tacuarembó","Cerrito","URG",-55.12662, -32.28328
+"915","Cerro de las Crías B","Tacuarembó","Cerrito","URG",-55.12653, -32.23987
+"919","Pago Lindo B","Tacuarembó","Cerrito","URG",-55.12099, -32.22087
+"920","Cerro Pereira A","Tacuarembó","Cerrito","URG",-55.11813, -32.29277
+"922","Cerro de las Crías A","Tacuarembó","Cerrito","URG",-55.11504, -32.23657
+"923","Pago Lindo C","Tacuarembó","Cerrito","URG",-55.10909, -32.2202
+"927","RS-RG-21","Rio Grande","Cerrito","RS",-52.476115, -32.103422
+"928","RS-RG-48","Rio Grande","Cerrito","RS",-52.268983, -31.825365
+"929","Fazenda Pesqueiro NPHC 13","Camaquã","Cerrito","RS",-51.778409, -30.922241
+"931","RS-272: Roni da Costa Kisner","Camaquã","Cerrito","RS",-51.708239, -30.919992
+"932","RS-271 B: Fazenda da Vigia 2","Camaquã","Cerrito","RS",-51.701921, -30.933281
+"933","RS-273: Fazenda da Capoeira","Camaquã","Cerrito","RS",-51.685229, -30.970518
+"934","RS-271 A: Fazenda da Vigia 1 (1º","Camaquã","Cerrito","RS",-51.680488, -30.922144
+"935","Lagoa do Fragata 06","Capão do Leão","Cerrito","RS",-52.40297083, -31.80621083
+"938","PSGLF-1","Capão do Leão","Cerrito","RS",-52.39280177, -31.80219507
+"941","RS-MSG-112 - CARLOS OSCAR BORGES DOS SANTOS","Chuí","Cerrito","RS",-53.44141466, -33.63376501
+"942","RS-MSG-097 MARILIA ANSELMI CORREA","Chuí","Cerrito","RS",-53.43112731, -33.72130815
+"945","RS-MSG-111 ARROIO CHUi","Chuí","Cerrito","RS",-53.41328478, -33.65780503
+"946","RS-260: Granja Emilia","Cristal do Sul","Cerrito","RS",-51.8787, -30.925181
+"947","RS-VVM-001","Dilermando de Aguiar","Cerrito","RS",-54.11334308, -29.83097905
+"948","Stela Rodrigues 2","Dom Pedrito","Cerrito","RS",-54.34333192, -31.18108615
+"949","RS-IBI-048","Itaqui","Cerrito","RS",-56.06504438, -29.32432781
+"950","Jose Pereira Leandro","Mostardas","Cerrito","RS",-50.8175, -30.92444444
+"951","Valverde 4","Pelotas","Cerrito","RS",-52.24122192, -31.77908123
+"958","Valverde 10","Pelotas","Cerrito","RS",-52.23289187, -31.78562131
+"964","RS-MSG-117","Rio Grande","Cerrito","RS",-52.57967577, -32.5209574
+"965","Paulina Potanova","Rio Grande","Cerrito","RS",-52.5, -32.5
+"966","RS-MSG-116","Rio Grande","Cerrito","RS",-52.34701948, -31.93577787
+"967","RS-MSG-115","Rio Grande","Cerrito","RS",-52.34086917, -31.99590323
+"969","Quiteria Barreira 3 - 02","Rio Grande","Cerrito","RS",-52.24263881, -32.01172471
+"970","Quiteria Barreira 3 - 01","Rio Grande","Cerrito","RS",-52.19536336, -32.00985167
+"971","RS MSG 068 branca shirley piraine dos santos II","Santa Vitória do Palmar","Cerrito","RS",-53.32065004, -33.53411344
+"974","RS-MSG-091 francisco flório X","Santa Vitória do Palmar","Cerrito","RS",-53.31176017, -33.58313222
+"979","RS-MSG-021 - EDELFONSO RODRIGUES","Santa Vitória do Palmar","Cerrito","RS",-53.30942134, -33.53374639
+"983","RS-MSG-017 - MARCEL DE OLIVEIRA IV","Santa Vitória do Palmar","Cerrito","RS",-53.29162752, -33.55141633
+"986","RS-MSG-092 TAPERA II","Santa Vitória do Palmar","Cerrito","RS",-53.26976309, -33.50392189
+"988","RS-MSG-016 - MARCEL DE OLIVEIRA II","Santa Vitória do Palmar","Cerrito","RS",-53.2681051, -33.54924384
+"989","RS MSG 066 banhado dnos","Santa Vitória do Palmar","Cerrito","RS",-53.26806973, -33.52852383
+"993","RS MSG 001 DINARTE  OLIVEIRA","Santa Vitória do Palmar","Cerrito","RS",-53.25424659, -33.55756713
+"994","RS-MSG-009 - VALDIR SILVEIRA II","Santa Vitória do Palmar","Cerrito","RS",-53.24391865, -33.54883717
+"996","RS-MSG-040 ALVINO MUNHOZ II","Santa Vitória do Palmar","Cerrito","RS",-53.22502266, -33.50190252
+"998","RS-MSG-047","Santa Vitória do Palmar","Cerrito","RS",-53.199178, -33.44006522
+"1002","RS-MSG-048","Santa Vitória do Palmar","Cerrito","RS",-53.17886157, -33.42976571
+"1004","RS-MSG-050","Santa Vitória do Palmar","Cerrito","RS",-53.14894433, -33.38441704
+"1005","CORREDOR DO BOLSO","São Gabriel","Cerrito","RS",-54.17936895, -30.20133595
+"1006","RS-RG-1","Taim","Cerrito","RS",-52.43217, -32.569869
+"1009","Cerrito da Soteia ","Turuçu","Cerrito","RS",-52.01735765, -31.62230068
+"1010","Napoleao Araújo Brum","(copiado","Cerrito","(copiado",-51.13027778, -31.38694444
+"1012","Gruta da Paca","Vitor Meireles","Gruta","SC",-49.749767, -26.798781
+"1014","Michelon 2","São Marcos","Gruta","RS",-51.0880885, -28.95369835
+"1015","El Arbolito","Colonia del Sacramento","Guarani","URG",-58.26, -34.127
+"1016","Isla Vizcaino","Río Negro","Guarani","URG",-58.38041, -33.40143
+"1017","Yaguareté","(copiado","Guarani","URG",-58.27454, -33.12453
+"1018","Punta Negra Este","Río Negro","Guarani","URG",-58.23621, -33.10343
+"1019","Itapiranga","Itapiranga","Guarani","SC",-53.75, -27.183333
+"1020","Sao Carlos","Águas de Chapecó","Guarani","SC",-53.016667, -27.1
+"1021","Barra escondida 1","Mondaí","Guarani","SC",-53.433333, -27.133333
+"1022","Joao A. Guarantier","Volta Grande","Guarani","SC",-53.033333, -27.083333
+"1026","Linha Policial 2 ACH LP 2","Águas de Chapecó","Guarani","SC",-53.03522247, -27.12956463
+"1028","Linha Policia 6 ACH LP 6","Águas de Chapecó","Guarani","SC",-53.03140784, -27.11942153
+"1030","Armindo Pohlmann","Alto Bela Vista","Guarani","SC",-51.97608378, -27.39429036
+"1031","Andre Davidiuk Malazkiewicz II","Alto Bela Vista","Guarani","SC",-51.96599797, -27.36957145
+"1032","Paulino Merib","Alto Bela Vista","Guarani","SC",-51.95460141, -27.47064759
+"1033","Andre Davidiuk Malazkiewicz","Alto Bela Vista","Guarani","SC",-51.94101067, -27.46605494
+"1034","Gaudêncio Machado","Alto Bela Vista","Guarani","SC",-51.93985515, -27.45032816
+"1036","Antonio Dilson Castro","Alto Bela Vista","Guarani","SC",-51.92753821, -27.44643868
+"1037","Adalicio Fischer I","Alto Bela Vista","Guarani","SC",-51.89944958, -27.48392387
+"1038","Victor Paulino Rech","Alto Bela Vista","Guarani","SC",-51.89899975, -27.44345714
+"1039","Rui Sargafredo","Alto Bela Vista","Guarani","SC",-51.89799864, -27.49971299
+"1041","U-381: Batista Recttor","Alto Bela Vista","Guarani","SC",-51.89055393, -27.42997028
+"1042","Marlene Maria Rodrigues","Alto Bela Vista","Guarani","SC",-51.88653898, -27.51868065
+"1044","Sirio Lohamann","Alto Bela Vista","Guarani","SC",-50.86911767, -27.52221199
+"1045","Barranca do rio Parati 2","Araquari","Guarani","SC",-48.70878597, -26.35843833
+"1046","SC-ARA-058","Araranguá","Guarani","SC",-49.46070881, -28.90738185
+"1047","SC-ARA-060","Araranguá","Guarani","SC",-49.45090289, -28.91230498
+"1048","SC-ARA-061","Araranguá","Guarani","SC",-49.42105045, -28.91816692
+"1049","Aldeia Levandoski","Araranguá","Guarani","SC",-49.38194667, -28.90990578
+"1050","Aldeia da Balsa","Araranguá","Guarani","SC",-49.37534774, -28.92663829
+"1051","SC-ARA-049","Araranguá","Guarani","SC",-49.36438453, -28.9395724
+"1053","SC-ARA-055","Araranguá","Guarani","SC",-49.35444948, -28.91908396
+"1054","Campo Mae Luiza 008","Araranguá","Guarani","SC",-49.35359663, -28.89580039
+"1057","SC-ARA-031 - Barra do Ararangua","Araranguá","Guarani","SC",-49.349282, -28.929985
+"1059","Campo Mae Luiza 011","Araranguá","Guarani","SC",-49.34526804, -28.88946269
+"1061","Ilha do Linguado 2","Balneário Barra do Sul","Guarani","SC",-48.66332466, -26.36342531
+"1062","Santo Antônio","Balneário Piçarras","Guarani","SC",-48.685818, -26.748839
+"1063","Landim","Caibi","Guarani","SC",-53.30516509, -27.1206896
+"1065","Joao Barufaldi","Caibi","Guarani","SC",-53.28718724, -27.11989172
+"1066","SC-CH-119","Chapecó","Guarani","SC",-52.76080263, -27.24257822
+"1068","SC-CH-173","Chapecó","Guarani","SC",-52.75800537, -27.22779301
+"1071","SC-CH-184","Chapecó","Guarani","SC",-52.75120803, -27.23732821
+"1072","SC-CH-134","Chapecó","Guarani","SC",-52.74669874, -27.25764752
+"1073","SC-CH-165","Chapecó","Guarani","SC",-52.73780992, -27.23671891
+"1074","SC-CH-194","Chapecó","Guarani","SC",-52.72068631, -27.23400886
+"1075","SC-CH-158","Chapecó","Guarani","SC",-52.70415111, -27.25312662
+"1076","SC-CH-142","Chapecó","Guarani","SC",-52.69368026, -27.28191111
+"1079","Guilherme Jaeger C (Reducao de Candelaria","Chapecó","Guarani","SC",-52.61519843, -27.10045517
+"1080","Navilho Zucchi","Concórdia","Guarani","SC",-52.24683464, -27.27935353
+"1081","Edvino Thome","Concórdia","Guarani","SC",-52.23526568, -27.27467185
+"1082","Darci Fernandes da Silva","Concórdia","Guarani","SC",-52.2304634, -27.2637707
+"1083","Santo Alberti","Concórdia","Guarani","SC",-52.21519242, -27.32709336
+"1084","Pedro Talkovsky","Concórdia","Guarani","SC",-52.09260392, -27.34545863
+"1085","Arlindo Schneider IV","Concórdia","Guarani","SC",-52.0126216, -27.35840823
+"1088","Dallagnoll","Cunha Porã","Guarani","SC",-53.16733685, -26.89102982
+"1089","Costeira de Pirajubae","Florianópolis","Guarani","SC",-48.52025034, -27.64607632
+"1090","sao Joao do Rio Vermelho IV","Florianópolis","Guarani","SC",-48.40526784, -27.48580593
+"1091","Fazenda Garopaba 1","Garopaba","Guarani","SC",-48.6615519, -28.06914114
+"1092","Garopaba 06","Garopaba","Guarani","SC",-48.644085, -28.023466
+"1093","SC-ARA-001 - Zulemar Maria de Souza","Içara","Guarani","SC",-49.2965521, -28.83719911
+"1094","Lombas Pedreira I","Içara","Guarani","SC",-49.24898512, -28.81063105
+"1095","Balsinha 6","Imaruí","Guarani","SC",-48.81501358, -28.34839942
+"1096","Balsinha 5","Imaruí","Guarani","SC",-48.75734405, -28.13424624
+"1097","SC-IMB-01","Imbituba","Guarani","SC",-48.72144757, -28.17930185
+"1099","Baixo Rio D' Una I","Imbituba","Guarani","SC",-48.70792664, -28.18922697
+"1100","Dunas da Guaiúba","Imbitubakj","Guarani","SC",-48.713878, -28.30069
+"1102","Pedro Lopes Vargas","Ipira","Guarani","SC",-51.87807171, -27.43793944
+"1104","Joao Salaminka","Ipira","Guarani","SC",-51.84655734, -27.4635106
+"1105","Silvino Prediger","Itá","Guarani","SC",-52.40727902, -27.27691704
+"1106","Valdemar Stentzeler","Itá","Guarani","SC",-52.39086531, -27.25032606
+"1108","Otto Aigner I","Itá","Guarani","SC",-52.38045087, -27.25674787
+"1111","Sao Pedro Canisio III","Itapiranga","Guarani","SC",-53.82694333, -27.17097661
+"1113","Corredeira Dourado","Itapiranga","Guarani","SC",-53.81765318, -27.15893889
+"1114","Wilson Buss","Itapiranga","Guarani","SC",-53.81061205, -27.15245805
+"1116","Lucas Queiroz","Itapiranga","Guarani","SC",-53.79158205, -27.15374037
+"1118","Rio Macaco Branco","Itapiranga","Guarani","SC",-53.76149498, -27.14960842
+"1121","Jose Emilio Welter","Itapiranga","Guarani","SC",-53.75596206, -27.13868301
+"1122","Corredeira Capela II","Itapiranga","Guarani","SC",-53.75550376, -27.16273636
+"1126","Tarcisio Ternus","Itapiranga","Guarani","SC",-53.73946313, -27.18946803
+"1127","Maria Goretti","Itapiranga","Guarani","SC",-53.706896, -27.050117
+"1128","Arroio Santa Fe II","Itapiranga","Guarani","SC",-53.69745059, -27.15968786
+"1131","Posto AgroPecuario","Itapiranga","Guarani","SC",-53.68678677, -27.15960387
+"1132","Orlando Pils","Itapiranga","Guarani","SC",-53.67515659, -27.15748938
+"1133","Arroio Vitória II","Itapiranga","Guarani","SC",-53.64921891, -27.17480916
+"1134","JBS","Itapiranga","Guarani","SC",-53.64790226, -27.21258499
+"1140","Arroio Lajeado","Itapiranga","Guarani","SC",-53.64437461, -27.18969789
+"1145","Sao Pedro Canisio II","Itapiranga","Guarani","SC",-53.63261175, -27.19536012
+"1147","Audt","Itapiranga","Guarani","SC",-53.63144481, -27.20753569
+"1148","Silvio Theisen","Itapiranga","Guarani","SC",-53.61748963, -27.1842747
+"1154","Linha Glória VI","Itapiranga","Guarani","SC",-53.60709083, -27.18528962
+"1155","Lote Colonial 6","Itapiranga","Guarani","SC",-53.5879944, -27.17319189
+"1158","Adalibio Ritter","Itapiranga","Guarani","SC",-53.57489576, -27.16688239
+"1163","Olho D' agua XI","Jaguaruna","Guarani","SC",-49.183346, -28.7465335
+"1164","Jaboticabeira VI","Jaguaruna","Guarani","SC",-48.97519674, -28.58061313
+"1165","riacho dos francisco II","Jaguaruna","Guarani","SC",-48.9453479, -28.61316257
+"1166","Aldeia do Tuquarucu","Laguna","Guarani","SC",-48.90163522, -28.4331188
+"1167","Corredeira das Antas","Mondaí","Guarani","SC",-53.54591644, -27.17371879
+"1168","Nelson Kuffel","Mondaí","Guarani","SC",-53.53590721, -27.18348283
+"1169","Joao Fritzen","Mondaí","Guarani","SC",-53.5290325, -27.19092486
+"1170","Odemar Krein","Mondaí","Guarani","SC",-53.50196233, -27.20143571
+"1172","Helio Gabriel","Mondaí","Guarani","SC",-53.49896153, -27.17367038
+"1174","Terra Nova","Mondaí","Guarani","SC",-53.45868866, -27.11622589
+"1175","Paul Ramminger","Mondaí","Guarani","SC",-53.45232579, -27.10744895
+"1177","Egon Ulrich","Mondaí","Guarani","SC",-53.40257808, -27.12083393
+"1178","Bottega","Mondaí","Guarani","SC",-53.36144867, -27.09376516
+"1179","Alcides Moratelli","Nova Itaberaba","Guarani","SC",-52.91979775, -26.92945135
+"1182","Areal I","Palhoça","Guarani","SC",-48.6710254, -27.8907257
+"1183","Pinheira","Palhoça","Guarani","SC",-48.66409093, -27.90331289
+"1184","Praia da Pinheira 2","Palhoça","Guarani","SC",-48.58813932, -27.88546486
+"1185","Dorival Santos","Palmitos","Guarani","SC",-53.31879314, -27.20236741
+"1189","Claus R. Papke e Curt F. Geib","Palmitos","Guarani","SC",-53.31583291, -27.21685478
+"1191","Orlando Knoll","Palmitos","Guarani","SC",-53.31355438, -27.19255466
+"1192","Lauro Santos","Palmitos","Guarani","SC",-53.29796845, -27.16328423
+"1193","Edelvira Silva","Palmitos","Guarani","SC",-53.29374097, -27.19385497
+"1194","Natalino Felkiker e Celio Felkiker","Palmitos","Guarani","SC",-53.19679236, -27.18842342
+"1196","Lourival Hoffmann","Palmitos","Guarani","SC",-53.18499606, -27.18794903
+"1199","Joao Felkiker","Palmitos","Guarani","SC",-53.15134676, -27.1404043
+"1200","Helio Rodrigues da Silva","Palmitos","Guarani","SC",-53.08865556, -27.16281257
+"1201","Bruno Jose Hippler","Palmitos","Guarani","SC",-53.07234571, -27.13959872
+"1205","Albino Pessatto","Palmitos","Guarani","SC",-53.14338934, -27.11404755
+"1206","Andre Ilustre de Souza","Palmitos","Guarani","SC",-53.10995282, -27.16752962
+"1208","Balsinha 7","Paulo Lopes","Guarani","SC",-48.78712685, -28.09117469
+"1209","U-389: Roberto Chaves","Piratuba","Guarani","SC",-51.85239874, -27.51634837
+"1210","U-390 - Gaudêncio Machado","Piratuba","Guarani","SC",-51.84224762, -27.49831032
+"1211","Ervino Koller III","Piratuba","Guarani","SC",-51.8386161, -27.52137915
+"1213","U-388: Celso Machado","Piratuba","Guarani","SC",-51.83826568, -27.45372987
+"1214","U-462","Piratuba","Guarani","SC",-51.81600277, -27.51352949
+"1218","U-392: Altair Borges do Nascimento","Piratuba","Guarani","SC",-51.80516937, -27.5138073
+"1220","Osni de Moraes","Piratuba","Guarani","SC",-51.80239162, -27.525474
+"1221","U - 478","Piratuba","Guarani","SC",-51.79581272, -27.48893906
+"1222","Moises de Souza","Piratuba","Guarani","SC",-51.79461375, -27.51408511
+"1224","U- 479","Piratuba","Guarani","SC",-51.74803582, -27.48928528
+"1226","SC-URG-01","São Carlos","Guarani","SC",-53.04592934, -27.07214487
+"1227","SC-URG-003","São Carlos","Guarani","SC",-53.034923, -27.067287
+"1228","Sitio Guarani","São Francisco do Sul","Guarani","SC",-48.58332713, -26.22467989
+"1229","Enseada I","São Francisco do Sul","Guarani","SC",-48.49983918, -26.23392696
+"1230","Rio Uruguai","Itapiranga","Guarani","SC",-53.73, -27.17
+"1232","Arroio Corrente V","Jaguaruna","Guarani","SC",-49.0358, -28.6852
+"1233","Olho D'agua I ","Jaguaruna","Guarani","SC",-49.1972, -28.7917
+"1234","Sibelco","Jaguaruna","Guarani","SC",-48.9991, -28.6213
+"1235","Morro Bonito II ","Jaguaruna","Guarani","SC",-48.9918, -28.6129
+"1236","Morro Bonito I ","Jaguaruna","Guarani","SC",-48.9639, -28.6063
+"1237","Laranjal I ","Jaguaruna","Guarani","SC",-48.9379, -28.6201
+"1240","Aldeia da Lagoa Mae Luzia","Araranguá","Guarani","SC",-49.3231, -28.8659
+"1242","Ita ","Itá","Guarani","SC",-52.508333, -27.270833
+"1243","Poco Grande","Araquari","Guarani","SC",-48.8438, -26.4446
+"1244","Aldeia da ZPE","Imbituba","Guarani","SC",-48.6967, -28.2166
+"1246","Saltinho do Rio Uruguai 02","Águas de Chapecó","Guarani","SC",-53.03573748, -27.14573911
+"1249","Linha_Uruguai_Sul","Porto Lucena","Guarani","RS",-55.05, -27.816667
+"1251","Ilha Comandai","Porto Lucena","Guarani","RS",-55.064927, -27.802887
+"1253","RS-VZ-45: Parizinho 3","Tenente Portela","Guarani","RS",-53.73333333, -27.31555555
+"1254","Barro do Turvo 3","Três Passos","Guarani","RS",-54.100193, -27.304807
+"1255","Elias dal Pra","Paraíso do Sul","Guarani","RS",-53.05, -29.689167
+"1256","Parizinho-2","Salto, São Paulo","Guarani","RS",-53.75, -28.3
+"1257","Parizinho-1","Salto, São Paulo","Guarani","RS",-53.733333, -28.3
+"1259","Bassani 1","Maquiné","Guarani","RS",-50.12421003, -29.75536037
+"1260","Palmeira 2","Parobé","Guarani","RS",-50.916667, -29.666667
+"1261","Passo Fundo","Osório","Guarani","RS",-50.216667, -29.933333
+"1262","Ilha Chico Manoel","Porto Alegre","Guarani","RS",-51.16321841, -30.26534867
+"1263","RS-T-132","Pouso Novo","Guarani","RS",-52.2, -29.17
+"1265","Panambi 3","Alecrim","Guarani","RS",-54.901, -27.692
+"1266","RS-T-117","Bom Retiro do Sul","Guarani","RS",-51.9456, -29.6111
+"1267","RS-03","Muçum","Guarani","RS",-51.7418, -29.1361
+"1268","Lagoa da Porteira 02","Palmares do Sul","Guarani","RS",-50.3315, -30.38366667
+"1269","Edi Mundt","Agudo","Guarani","RS",-53.26490985, -29.44967608
+"1270","RS-URG-09","Alpestre","Guarani","RS",-53.06607484, -27.09973756
+"1273","RS-URG-03","Alpestre","Guarani","RS",-53.0292844, -27.10906432
+"1277","OLiVIO PEDROSO.","Alpestre","Guarani","RS",-53.00606327, -27.19009181
+"1278","SiTIO DO PORTINHO","Alpestre","Guarani","RS",-53.00064581, -27.21169413
+"1279","RS-T-113","Arroio do Meio","Guarani","RS",-51.90836724, -29.39310959
+"1280","Tupancy","Arroio do Sal","Guarani","RS",-49.84672563, -29.49070611
+"1281","Itapeva 3","Arroio do Sal","Guarani","RS",-49.83969608, -29.43226626
+"1285","Varcelino Ferri","Bento Gonçalves","Guarani","RS",-51.67527778, -29.06361111
+"1286","Walter F. Wachholz","Cachoeira do Sul","Guarani","RS",-53.09333959, -29.86657692
+"1287","Atalibio L. Carvalho","Cachoeira do Sul","Guarani","RS",-53.07440978, -29.83265615
+"1288","Ary Carvalho Bernardes","Cachoeira do Sul","Guarani","RS",-53.06217988, -29.91670551
+"1289","Quido P. Stringhini","Cachoeira do Sul","Guarani","RS",-53.05244647, -29.91021738
+"1290","BR 153","Cachoeira do Sul","Guarani","RS",-52.96969318, -29.90021121
+"1291","Herminio Bonnel","Cachoeira do Sul","Guarani","RS",-52.89276513, -30.03298937
+"1292","Capane 1","Cachoeira do Sul","Guarani","RS",-52.88038764, -30.07814207
+"1294","Evaldo Katzer","Cachoeira do Sul","Guarani","RS",-49.7355845, -29.35584305
+"1295","Ataide Rodrigues Lucas - 1 e 2","Camaquã","Guarani","RS",-52.01123135, -30.85840977
+"1296","Dejalmo Martins Ribeiro","Camaquã","Guarani","RS",-51.98165955, -30.85998176
+"1299","Bolicho Manuel Santana","Camaquã","Guarani","RS",-51.96860936, -30.84567062
+"1300","Amarante Rodrigues","Camaquã","Guarani","RS",-51.80431718, -30.84889759
+"1301","Alarico Meireles","Camaquã","Guarani","RS",-51.78922753, -30.76975875
+"1303","Emilio Alves Farias","Camaquã","Guarani","RS",-51.75551407, -30.73183653
+"1304","Fausto Crespo","Camaquã","Guarani","RS",-51.74599697, -31.10657962
+"1305","Wladislau Schmievski 1","Camaquã","Guarani","RS",-51.7426285, -30.72963705
+"1307","Wladislau Schmivievski","Camaquã","Guarani","RS",-51.73798985, -30.73773028
+"1308","Arroio Molha Grande","Candelária","Guarani","RS",-52.794849, -29.64863893
+"1309","Candelaria 1","Candelária","Guarani","RS",-52.76716915, -29.66840902
+"1310","Jose Melz","Candelária","Guarani","RS",-52.76275561, -29.55972337
+"1311","Sem Indicacao","Canguçu","Guarani","RS",-52.67879001, -31.39648343
+"1313","ALDEIA GUARANI RST 471","Canguçu","Guarani","RS",-52.65043392, -30.94325491
+"1314","Idiciano K. Borges","Canguçu","Guarani","RS",-52.52699006, -31.14350128
+"1315","Rio dos Sinos 2","Caraá","Guarani","RS",-50.4144394, -29.76509455
+"1317","RST 108","Colinas","Guarani","RS",-51.87264986, -29.38363741
+"1320","Gava II","Cotiporã","Guarani","RS",-51.66192805, -29.06273527
+"1321","Torre 19","Dois Irmãos","Guarani","RS",-51.12135025, -29.60523817
+"1322","Torre 24","Dois Irmãos","Guarani","RS",-51.11255754, -29.59245728
+"1323","Sitio da Casa Azul","Dom Feliciano","Guarani","RS",-52.09858134, -30.70205585
+"1324","Sitio do Armazem","Dom Feliciano","Guarani","RS",-52.08525062, -30.70141905
+"1325","RS-119","Eldorado do Sul","Guarani","RS",-51.30501539, -30.00372258
+"1326","Ponte do Jacui","Eldorado do Sul","Guarani","RS",-51.27272082, -29.99371301
+"1329","Torre 3","Estância Velha","Guarani","RS",-51.15167595, -29.64905996
+"1330","RS-FA-24","Faxinalzinho","Guarani","RS",-52.71120401, -27.31334247
+"1332","RS-FA-15","Faxinalzinho","Guarani","RS",-52.70071269, -27.29991367
+"1333","RS-FA-55","Faxinalzinho","Guarani","RS",-52.67887183, -27.29674781
+"1334","GOODYEAR","Glorinha","Guarani","RS",-50.79944444, -29.9075
+"1335","Santa Rita","Guaíba","Guarani","RS",-51.31864155, -30.0853077
+"1336","Sitio Arqueológico Arroio do Conde","Guaíba","Guarani","RS",-51.30967261, -30.05432113
+"1338","Valderi Scapini","Ibarama","Guarani","RS",-53.28435696, -29.44078216
+"1343","Deobaldo Ulrich","Ibarama","Guarani","RS",-53.25098552, -29.39928226
+"1346","Elisio Giacomelli","Ibarama","Guarani","RS",-53.24130019, -29.41661405
+"1347","Rejane Puntell","Ibarama","Guarani","RS",-53.22740927, -29.35939584
+"1348","Lajeadinho","Igrejinha","Guarani","RS",-50.75065728, -29.58430681
+"1349","RST 107","Lajeado Grande","Guarani","RS",-52.02268922, -29.40689244
+"1350","RST 102","Lajeado Grande","Guarani","RS",-51.95474284, -29.44392874
+"1351","U - 470","Machadinho","Guarani","RS",-51.80196025, -27.4991409
+"1356","U-452","Machadinho","Guarani","RS",-51.78888889, -27.50638889
+"1358","U - 487","Machadinho","Guarani","RS",-51.77080489, -27.49116515
+"1359","U-450","Machadinho","Guarani","RS",-51.76333333, -27.52555555
+"1360","Jazida de Areia Walter Medeiros","Maquiné","Guarani","RS",-50.1615666, -29.74281986
+"1362","Bassani 2","Maquiné","Guarani","RS",-50.12352136, -29.74179211
+"1363","Ireno Petrini","Marques de Souza","Guarani","RS",-52.15737974, -29.25403365
+"1364","RST 110","Marques de Souza","Guarani","RS",-52.15169861, -29.23469771
+"1366","Joana M Oliveira","Mato Queimado","Guarani","RS",-54.67146517, -28.26763336
+"1367","U-447","Maximiliano de Almeida","Guarani","RS",-51.82861111, -27.51555555
+"1371","U-367: Jose Sudback","Maximiliano de Almeida","Guarani","RS",-51.78472222, -27.52055555
+"1374","Bacupari","Mostardas","Guarani","RS",-50.38335715, -30.50153281
+"1376","RS-NO-185","Nonoai","Guarani","RS",-52.80034024, -27.20641481
+"1378","RS-NO-179","Nonoai","Guarani","RS",-52.78508578, -27.21013003
+"1381","RS-NO-165","Nonoai","Guarani","RS",-52.77493565, -27.21684781
+"1382","RS-NO-126","Nonoai","Guarani","RS",-52.77193448, -27.25556121
+"1383","RS-NO-147","Nonoai","Guarani","RS",-52.77069352, -27.23905978
+"1385","RS-NO-159","Nonoai","Guarani","RS",-52.76665229, -27.2114197
+"1393","Sitio do Chapeu","Novo Hamburgo","Guarani","RS",-51.00369027, -29.74384232
+"1394","Sitio Bier Scharlau","Novo Hamburgo","Guarani","RS",-50.98864525, -29.72269638
+"1395","Torre 135 / Torre 136","Osório","Guarani","RS",-50.33486831, -29.88028669
+"1396","drink shampoo","Osório","Guarani","RS",-50.252792, -29.87017839
+"1397","Lauro Rodrigues","Osório","Guarani","RS",-50.25225625, -29.85037581
+"1398","Areal Moro","Osório","Guarani","RS",-50.23171746, -29.88277274
+"1399","Capao da Areia","Osório","Guarani","RS",-50.16666667, -29.98333333
+"1400","RS - LC - 96","Palmares do Sul","Guarani","RS",-50.47816667, -30.369
+"1401","Leonardo Boeira","Palmares do Sul","Guarani","RS",-50.38304639, -30.4483637
+"1402","Fazenda Joao Terra","Palmares do Sul","Guarani","RS",-50.3555, -30.41716667
+"1403","RS-LC-89","Palmares do Sul","Guarani","RS",-50.35255978, -30.35232935
+"1404","RS-LC-92","Palmares do Sul","Guarani","RS",-50.35245206, -30.3986751
+"1409","RS-SIN-005","Parobé","Guarani","RS",-50.90445992, -29.66951797
+"1411","Las Acacias","Pelotas","Guarani","RS",-52.26566786, -31.76808742
+"1413","Jose Hillal/ Hospital","Pelotas","Guarani","RS",-52.23605796, -31.75319171
+"1414","Toto","Pelotas","Guarani","RS",-52.19542019, -31.7232087
+"1415","Arroio Sujo","Pelotas","Guarani","RS",-52.16431427, -31.70311342
+"1416","Lagoinha","Pelotas","Guarani","RS",-52.04948727, -31.60817847
+"1417","Soteia","Pelotas","Guarani","RS",-52.01611246, -31.63146268
+"1419","Sirilo Larsch","Pinhal Grande","Guarani","RS",-53.23351762, -29.40801167
+"1420","Pedro Osório Stieler","Pinhal Grande","Guarani","RS",-53.22953396, -29.39072038
+"1421","Praca da Alfandega","Porto Alegre","Guarani","RS",-51.23109483, -30.02948478
+"1423","Vila Restinga","Porto Alegre","Guarani","RS",-51.13285397, -30.15116227
+"1424","Sitio Guarani Paina l (RS-PA-01","Quevedos","Guarani","RS",-54.03319383, -29.38876327
+"1425","Sitio Guarani Paina ll (RS-PA-02","Quevedos","Guarani","RS",-54.02935415, -29.40357725
+"1426","VEREADOR NELSON ELLI.","Rio dos Índios","Guarani","RS",-52.96144107, -27.17435155
+"1430","RS-RI-103","Rio dos Índios","Guarani","RS",-52.83940713, -27.21260439
+"1432","RS-RI-55","Rio dos Índios","Guarani","RS",-52.82399298, -27.20771546
+"1435","Quiterio Pereira","Rio Grande","Guarani","RS",-52.55225888, -32.53929298
+"1436","Roger Llopart/Mario Rodrigues","Rio Grande","Guarani","RS",-52.50417717, -32.51727397
+"1437","Floriano Fonseca Peixoto","Rio Grande","Guarani","RS",-52.44217462, -32.28313706
+"1438","Palma","Rio Grande","Guarani","RS",-52.33027184, -32.04706299
+"1439","Edmar Mendes da Costa","Rio Grande","Guarani","RS",-52.29765604, -31.86911305
+"1441","Marcelino do Amaral Brancao","Rio Grande","Guarani","RS",-52.28437834, -32.03025254
+"1443","Fernando Lopes","Rio Grande","Guarani","RS",-52.27461673, -31.99215694
+"1444","Levi Magalhaes","Rio Grande","Guarani","RS",-52.26579153, -31.85799562
+"1446","Pedro Ferreira","Rio Grande","Guarani","RS",-52.25515526, -32.04603392
+"1447","alvaro Bastos","Rio Grande","Guarani","RS",-52.24836133, -31.88772085
+"1448","Carlos Costa Amaral","Rio Grande","Guarani","RS",-52.2464449, -31.98940581
+"1456","Fazenda Soares","Rio Grande","Guarani","RS",-52.2426911, -31.9126744
+"1458","Fazenda Jose Lerchmann","Rio Grande","Guarani","RS",-52.23899867, -31.92834384
+"1459","Povo Novo","Rio Grande","Guarani","RS",-52.22470691, -31.92106718
+"1460","Sitio Mujica","Rio Grande","Guarani","RS",-52.21710625, -32.15000262
+"1461","Justiniano Nunes","Rio Grande","Guarani","RS",-52.21088382, -32.0387878
+"1463","Rosalvo Costa","Rio Grande","Guarani","RS",-52.17796099, -31.91226265
+"1464","alvaro dos Santos Silva / Antônio Cruz","Rio Grande","Guarani","RS",-52.1682149, -32.11210395
+"1465","Familia Zogbi","Rio Grande","Guarani","RS",-52.15704421, -32.10543186
+"1466","Campos da Hidraulica","Rio Grande","Guarani","RS",-52.12709389, -32.05192817
+"1467","Alberto Tavares Pereira","Rio Grande","Guarani","RS",-52.10706028, -32.03488362
+"1468","Aldeia da Quaresma","Rolador","Guarani","RS",-54.91825294, -28.20020471
+"1469","Estancia Velha 1","Santa Maria","Guarani","RS",-54.0150595, -29.68923765
+"1470","Manuel E. Casanego","Santa Maria","Guarani","RS",-54.00566116, -29.65193131
+"1471","Iva Teixeira Galvao","Santa Maria","Guarani","RS",-53.99242214, -29.72207719
+"1473","Eugênio Luiz de avila","Santa Maria","Guarani","RS",-53.9568918, -29.74647849
+"1474","Jorge Henrique Pedro Rech","Santa Maria do Herval","Guarani","RS",-53.85916789, -29.71651046
+"1475","Seminario Sao jose","Santa Maria do Herval","Guarani","RS",-53.80485557, -29.71636524
+"1477","Rodolfo Gomes da Silva","Santa Maria do Herval","Guarani","RS",-53.79591953, -29.70785959
+"1478","Francisco Barrachini","Santa Maria do Herval","Guarani","RS",-53.78505895, -29.69956513
+"1479","Rincao dos Flores","Santa Maria do Herval","Guarani","RS",-53.81495262, -29.68681959
+"1480","Morro da Flecha 2","São Francisco de Paula","Guarani","RS",-50.38701338, -29.48088575
+"1481","Goiabeira 2","São Francisco de Paula","Guarani","RS",-50.37417766, -29.48324471
+"1482","RS LC 73","São José do Norte","Guarani","RS",-52.01981057, -31.9730265
+"1483","Patricia","São Luiz Gonzaga","Guarani","RS",-54.98972548, -28.26878145
+"1484","Antônio Halmenschlager","São Luiz Gonzaga","Guarani","RS",-54.88580105, -28.33646767
+"1485","Sao Lourenco Martir","São Luiz Gonzaga","Guarani","RS",-54.70915557, -28.46262254
+"1486","Reducao de Sao Miguel Arcanjo","São Miguel das Missões","Guarani","RS",-54.55586675, -28.54805452
+"1487","Sitio Litico de Cacadores Coletores de Floresta com Insercao Ceramica","São Miguel das Missões","Guarani","RS",-54.55083333, -28.59722222
+"1488","Sr. Solon","Sentinela do Sul","Guarani","RS",-51.58616119, -30.61071478
+"1489","Bibico Curtinaz Pacheco","Sentinela do Sul","Guarani","RS",-51.54128078, -30.54131009
+"1491","PARNA V","Tavares","Guarani","RS",-51.15361111, -31.41611111
+"1492","Estelvadino Luis Rodrigues II","Tavares","Guarani","RS",-51.14944444, -31.44638889
+"1494","Capororoca I","Tavares","Guarani","RS",-51.04805556, -31.28444444
+"1495","Parizinho 4","Tenente Portela","Guarani","RS",-53.73535115, -27.34285421
+"1496","Familia Nunes","Terra de Areia","Guarani","RS",-50.0950486, -29.61400863
+"1497","Sanga Funda","Terra de Areia","Guarani","RS",-50.08114961, -29.62299562
+"1498","Sitio Lima","Terra de Areia","Guarani","RS",-50.04664988, -29.57471989
+"1499","Mars","Terra de Areia","Guarani","RS",-50.04590638, -29.6231439
+"1501","Sitio do Onildo Aguiar","Terra de Areia","Guarani","RS",-50.03777492, -29.57979084
+"1502","Sitio do Areal 2","Terra de Areia","Guarani","RS",-50.02484864, -29.58196168
+"1503","Sitio arqueológico Trovoada","Terra de Areia","Guarani","RS",-50.01496314, -29.69087143
+"1504","Fazenda Santo Antônio (Irma da Giza","Terra de Areia","Guarani","RS",-49.99655976, -29.59874775
+"1505","Familia Machado","Torres","Guarani","RS",-49.77757545, -29.32181162
+"1506","RS LN - 021","Torres","Guarani","RS",-49.77661667, -29.40068333
+"1508","Balneario de Itapeva","Torres","Guarani","RS",-49.77034225, -29.391706
+"1511","Sambaqui da Itapeva 1","Torres","Guarani","RS",-49.75911691, -29.3843464
+"1514","RS - LN - 016","Torres","Guarani","RS",-49.75506667, -29.3656
+"1519","RS - LN - 019","Torres","Guarani","RS",-49.74893333, -29.35336667
+"1522","JAZIDA DE AREIA 5","Três Cachoeiras","Guarani","RS",-49.93032434, -29.46180802
+"1523","Chimarrao","Três Cachoeiras","Guarani","RS",-49.97827509, -29.49777391
+"1524","Arroio Itaparú 1","Três Coroas","Guarani","RS",-50.7936011, -29.49364491
+"1525","Três Coroas","Três Coroas","Guarani","RS",-50.77917319, -29.5153004
+"1526","Rodeio Bonito 1","Três Coroas","Guarani","RS",-50.70982868, -29.48784777
+"1528","RS-BJC-002","Triunfo","Guarani","RS",-51.43692064, -29.87239543
+"1529","Vitelio Martini","Uruguaiana","Guarani","RS",-57.08585281, -29.76191347
+"1530","RS-343","Uruguaiana","Guarani","RS",-57.04478482, -29.70757634
+"1532","Fagundes","Uruguaiana","Guarani","RS",-56.99527809, -29.65142997
+"1533","Balneario S. Marcos","Uruguaiana","Guarani","RS",-56.84587536, -29.50630601
+"1535","RS-Q-1: Colônia Rizicola","Uruguaiana","Guarani","RS",-56.8, -29.53333333
+"1537","Sergio Roesler","Venâncio Aires","Guarani","RS",-52.29908205, -29.54759712
+"1538","Arno Kistemacher","Venâncio Aires","Guarani","RS",-52.2928419, -29.61673655
+"1539","Helmuth Bergmann","Venâncio Aires","Guarani","RS",-52.27674474, -29.5522174
+"1540","Valerno Konrad","Venâncio Aires","Guarani","RS",-52.22824181, -29.53135064
+"1542","Alvicio Böhm","Venâncio Aires","Guarani","RS",-52.09724356, -29.66509963
+"1543","""Arquilau Vargas \""""B\""""""","Venâncio Aires","Guarani","RS",-52.09288003, -29.60881642
+"1546","""Jose Armindo Roia \""""A\""""""","Venâncio Aires","Guarani","RS",-52.07883201, -29.62455138
+"1547","""Paulo Deorr  \""""B\""""""","Venâncio Aires","Guarani","RS",-52.0787888, -29.6819742
+"1554","Libório Wilms","Venâncio Aires","Guarani","RS",-52.07248265, -29.649185
+"1555","""Manoel Israel de Freitas \""""A\""""""","Venâncio Aires","Guarani","RS",-52.06398848, -29.62738759
+"1556","""Joao Ornelio dos Santos \""""B\""""""","Venâncio Aires","Guarani","RS",-52.05251465, -29.62655865
+"1557","Joao Orlando Fischer","Venâncio Aires","Guarani","RS",-52.17924109, -29.46581789
+"1558","Laureano Holdenburg","Vera Cruz","Guarani","RS",-52.58732067, -29.66611873
+"1559","Ilha do Junco","Viamão","Guarani","RS",-51.06555481, -30.35477337
+"1560","Novo Lar de Menores","Viamão","Guarani","RS",-51.05095414, -30.08936608
+"1561","Praia da Pedreira","Viamão","Guarani","RS",-51.05035313, -30.35631421
+"1562","Lagoa Negra 1","Viamão","Guarani","RS",-50.98983345, -30.35811931
+"1563","Nei Bueno","Viamão","Guarani","RS",-50.92395563, -30.32888646
+"1564","RS-IJU-016","Vitória das Missões","Guarani","RS",-54.51389491, -28.3989974
+"1565","Bento Prestes","Encruzilhada do Sul","Guarani","RS",-52.892, -30.845
+"1566","Reinaldo Kappel ","Candelária","Guarani","RS",-52.681, -29.729
+"1567","RS-RP-86","Santa Cruz do Sul","Guarani","RS",-52.463029, -29.685423
+"1568","Bom Jardim Velho","Paverama","Guarani","RS",-51.744271, -29.526978
+"1570","SC-U-470","Machadinho","Guarani","RS",-51.67, -27.56
+"1571","Saudade","Uruguaiana","Guarani","RS",-57.075626, -29.737054
+"1572","Carumbe","Uruguaiana","Guarani","RS",-57.128498, -29.779675
+"1574","Totó","Pelotas","Guarani","RS",-52.195, -31.711
+"1575","Camping","Pelotas","Guarani","RS",-52.17478191, -31.71114057
+"1576","Ribes","Pelotas","Guarani","RS",-52.405, -31.503
+"1577","Mondai","Vicente Dutra","Guarani","RS",-53.416667, -27.2
+"1578","RS-T-114","Marques de Souza","Guarani","RS",-52.12836852, -29.28116622
+"1579","Posto Fiscal","Pinhal da Serra","Guarani","RS",-51.1854, -27.8342
+"1580","Santa Rita ","Charqueadas","Guarani","RS",-51.533, -29.981
+"1581","Fazenda Soares ","Rio Grande","Guarani","RS",-52.222, -31.847
+"1582","Lincoln Steuernagel ","Pinhal Grande","Guarani","RS",-53.332, -29.417
+"1583","Joao Cantarelli","Restinga Seca","Guarani","RS",-53.383, -29.824
+"1584","Jeronimo Rodrigues ","Agudo","Guarani","RS",-53.249, -29.761
+"1585","Arnildo Drew","Santa Maria do Herval","Guarani","RS",-53.644, -29.678
+"1586","Capane","Restinga Seca","Guarani","RS",-53.17, -29.836
+"1587","Eri Rampellotto","Faxinal Soturno","Guarani","RS",-53.536, -29.532
+"1588","Albino Mazzari","Ivorá","Guarani","RS",-53.6, -29.48
+"1589","Emilio Kieffer","Paraíso do Sul","Guarani","RS",-53.555, -29.659
+"1592","Adolfo Schenkel","Alto Bela Vista","Guarani","RS",-51.565, -29.372
+"1593","Barra do Santo Cristo 1","Porto Mauá","Guarani","RS",-54.72, -27.568
+"1594","Itajuba 1","Porto Mauá","Guarani","RS",-54.668, -27.544
+"1595","Tres Bocas 2","Porto Mauá","Guarani","RS",-54.656, -27.529
+"1607","RS - LC - 88","(copiado","Guarani","(copiado",-50.3635, -30.35533333
+"1613","Tapera","(copiado","Guarani","(copiado",-48.57, -27.69
+"1614","11. P11. 75","Paysandú","Litico","URG",-57.99330556, -31.54938889
+"1615","Latorre, Carola et al. 2019. 1. P11. 67-69","Paysandú","Litico","URG",-57.9865, -31.559
+"1616","Campo Rohner","Río Negro","Litico","URG",-58.33786, -33.14947
+"1617","Campo Anglo","Río Negro","Litico","URG",-58.33065, -33.13624
+"1618","Coladeras","Río Negro","Litico","URG",-57.87304, -32.98053
+"1619","Mellizos","Río Negro","Litico","URG",-57.14328, -32.53172
+"1620","Paso del Puerto","Flores","Litico","URG",-57.15637, -33.11045
+"1621","Ponto Femínias et al (2011 44","Durazno","Litico","URG",-57.17772, -33.03236
+"1622","Ponto Femínias et al (2011 43","Durazno","Litico","URG",-57.12703, -32.98902
+"1623","Ponto Femínias et al (2011 40","Durazno","Litico","URG",-56.98765, -32.98839
+"1624","Ponto Femínias et al (2011 50","Durazno","Litico","URG",-56.98144, -33.01842
+"1625","Ponto Femínias et al (2011 41","Durazno","Litico","URG",-56.9651, -33.00968
+"1626","Ponto Femínias et al (2011 38","Durazno","Litico","URG",-56.96434, -32.95456
+"1627","Ponto Femínias et al (2011 39","Durazno","Litico","URG",-56.95952, -32.97584
+"1628","Ponto Femínias et al (2011 37","Durazno","Litico","URG",-56.9134, -32.96469
+"1629","Ponto Femínias et al (2011 34","Durazno","Litico","URG",-56.90909, -32.93504
+"1630","Ponto Femínias et al (2011 36","Durazno","Litico","URG",-56.89693, -32.94797
+"1631","Ponto Femínias et al (2011 35","Durazno","Litico","URG",-56.89541, -32.93758
+"1632","Ponto Femínias et al (2011 31","Durazno","Litico","URG",-56.8484, -32.89183
+"1633","Ponto Femínias et al (2011 33","Durazno","Litico","URG",-56.83927, -32.91882
+"1634","Ponto Femínias et al (2011 32","Durazno","Litico","URG",-56.82825, -32.91756
+"1635","Ponto Femínias et al (2011 30","Durazno","Litico","URG",-56.81355, -32.87004
+"1636","Ponto Femínias et al (2011 29","Durazno","Litico","URG",-56.79986, -32.84229
+"1637","Ponto Femínias et al (2011 28","Durazno","Litico","URG",-56.78589, -32.84172
+"1638","Ponto Femínias et al (2011 27","Durazno","Litico","URG",-56.74475, -32.83906
+"1639","Ponto Femínias et al (2011 26","Durazno","Litico","URG",-56.71262, -32.8307
+"1640","Ponto Femínias et al (2011 25","Durazno","Litico","URG",-56.699, -32.80409
+"1641","Ponto Femínias et al (2011 24","Durazno","Litico","URG",-56.68297, -32.8433
+"1642","Ponto Femínias et al (2011 23","Durazno","Litico","URG",-56.67106, -32.84647
+"1643","Ponto Femínias et al (2011 22","Durazno","Litico","URG",-56.64946, -32.8632
+"1644","Ponto Femínias et al (2011 21","Durazno","Litico","URG",-56.63799, -32.86155
+"1645","Ponto Femínias et al (2011 20","Durazno","Litico","URG",-56.58509, -32.81245
+"1646","Ponto Femínias et al (2011 19","Durazno","Litico","URG",-56.57444, -32.84818
+"1647","Ponto Femínias et al (2011 18","Durazno","Litico","URG",-56.56279, -32.81435
+"1648","Ponto Femínias et al (2011 17","Durazno","Litico","URG",-56.50995, -32.81112
+"1649","Ponto Femínias et al (2011 15","Durazno","Litico","URG",-56.42518, -32.83494
+"1650","Ponto Femínias et al (2011 16","Durazno","Litico","URG",-56.41618, -32.86434
+"1651","Ponto Femínias et al (2011 13","Durazno","Litico","URG",-56.18069, -32.68238
+"1652","Ponto Femínias et al (2011 12","Durazno","Litico","URG",-56.1703, -32.67364
+"1653","Ponto Femínias et al (2011 11","Durazno","Litico","URG",-56.1689, -32.71038
+"1654","Ponto Femínias et al (2011 10","Durazno","Litico","URG",-56.13621, -32.70088
+"1655","Ponto Femínias et al (2011 9","Durazno","Litico","URG",-56.1115, -32.73864
+"1656","Ponto Femínias et al (2011 8","Durazno","Litico","URG",-56.08695, -32.74738
+"1657","Ponto Femínias et al (2011 7","Durazno","Litico","URG",-55.8979, -32.76196
+"1658","Ponto Femínias et al (2011 5","Durazno","Litico","URG",-55.88814, -32.534
+"1659","Ponto Femínias et al (2011 6","Durazno","Litico","URG",-55.86989, -32.60382
+"1660","Ponto Femínias et al (2011 4","Durazno","Litico","URG",-55.75902, -32.52843
+"1661","Ponto Femínias et al (2011 3","Durazno","Litico","URG",-55.50674, -32.50042
+"1662","Ponto Femínias et al (2011 45","Flores","Litico","URG",-57.19292, -33.06074
+"1663","Ponto Femínias et al (2011 46","Flores","Litico","URG",-57.14706, -33.09761
+"1664","Ponto Femínias et al (2011 47","Flores","Litico","URG",-57.0837, -33.14944
+"1665","Ponto Femínias et al (2011 14","Tacuarembó","Litico","URG",-56.41023, -32.67503
+"1666","Ponto Femínias et al (2011 1","Tacuarembó","Litico","URG",-55.45073, -32.20053
+"1667","Ponto Femínias et al (2011 2","Tacuarembó","Litico","URG",-55.42897, -32.34431
+"1668","K-87-Albardón del Tigre","Artigas","Litico","URG",-57.83611, -30.60597
+"1669","Los Pinos","Artigas","Litico","URG",-57.65013, -30.20482
+"1670","Pay Paso 8","Artigas","Litico","URG",-57.43387, -30.27564
+"1671","Boca del Cuaró","Artigas","Litico","URG",-57.24114, -30.29402
+"1672","Y-62-Bañadero","Salto","Litico","URG",-57.93153, -31.29285
+"1673","Arroyo Boicuá","Salto","Litico","URG",-57.78664, -30.88196
+"1674","Piedra Pelada","Salto","Litico","URG",-57.61472, -30.98252
+"1675","Zanja del Tigre 1","Salto","Litico","URG",-56.56047, -31.19986
+"1677","La Violinas","Soriano","Litico","URG",-57.29658, -33.06908
+"1678","Rio Krauel","Ibirama","Litico","SC",-49.59935146, -27.0396598
+"1679","SC_TA_19","Taió","Litico","SC",-49.95167248, -27.03632493
+"1680","Joao Bosco Wilpert I","Abdon Batista","Litico","SC",-51.05888184, -27.59333756
+"1681","Volta Grande I","Abelardo Luz","Litico","SC",-52.1810982, -26.69925624
+"1688","SC-CHA-010","Águas Frias","Litico","SC",-52.88446503, -26.85796479
+"1692","Aristides Gukert","Alfredo Wagner","Litico","SC",-49.42364153, -27.73235161
+"1693","Chapadao Paulo Saturno","Alfredo Wagner","Litico","SC",-49.42215865, -27.59840123
+"1694","Arni Mariotti","Alfredo Wagner","Litico","SC",-49.40867882, -27.66463195
+"1696","Hari Nilson","Alto Bela Vista","Litico","SC",-51.97035968, -27.40474784
+"1697","Nereu Freski I","Anita Garibaldi","Litico","SC",-51.201467, -27.77576347
+"1700","Milton Freski I","Anita Garibaldi","Litico","SC",-51.17966731, -27.77680461
+"1709","SC-IA-002","Benedito Novo","Litico","SC",-49.40429261, -26.77571794
+"1710","SC-IA-005","Benedito Novo","Litico","SC",-49.388198, -26.777795
+"1712","SC-IA-003","Benedito Novo","Litico","SC",-49.375363, -26.786431
+"1713","Antônio Recalcatti e Otavio Pogere","Campos Novos","Litico","SC",-51.5176296, -27.31554771
+"1715","Parizotto","Campos Novos","Litico","SC",-51.44390911, -27.53106234
+"1716","Rodolfo Bressan","Campos Novos","Litico","SC",-51.28156417, -27.61869432
+"1717","Gentil Camargo Costa","Campos Novos","Litico","SC",-51.26437275, -27.46540833
+"1718","U - 481","Capinzal","Litico","SC",-51.64591843, -27.49481601
+"1719","U - 482","Capinzal","Litico","SC",-51.6332824, -27.48739017
+"1720","Vilmar Muniz Correia","Celso Ramos","Litico","SC",-51.43480312, -27.62052856
+"1721","Silvino de Morais","Celso Ramos","Litico","SC",-51.33081007, -27.61180583
+"1723","Figueiredo 01","Chapadão do Lageado","Litico","SC",-49.55150728, -27.5387944
+"1724","Figueiredo 03","Chapadão do Lageado","Litico","SC",-49.5454454, -27.53006591
+"1725","Osmar Guedes","Concórdia","Litico","SC",-52.06745525, -27.33678577
+"1728","Sitio Arqueológico Abrigo do Trovoadinha","Garuva","Litico","SC",-48.89356392, -25.98468898
+"1729","Cadori 1","Guaraciaba","Litico","SC",-53.43547078, -26.61081329
+"1730","SC-PIX-02","Ibicaré","Litico","SC",-51.342815, -27.101467
+"1732","Iracema I","Iraceminha","Litico","SC",-53.282231, -26.888263
+"1735","Ituporanga 1","Ituporanga","Litico","SC",-49.55462089, -27.49893071
+"1736","ituporanga","Ituporanga","Litico","SC",-49.45934146, -27.56567563
+"1737","SC-CHA-030","Jardinópolis","Litico","SC",-52.90875954, -26.7303757
+"1738","Barragem Norte 1","José Boiteux","Litico","SC",-49.676682, -26.886278
+"1739","Barra D´Anta","José Boiteux","Litico","SC",-49.651006, -26.918
+"1740","do Jeriva","Lages","Litico","SC",-50.57492187, -28.38593324
+"1741","Perau dos Cabritos","Lages","Litico","SC",-50.47987185, -28.39895391
+"1743","Fazenda Santa Vitória II","Lages","Litico","SC",-50.46452416, -28.38364859
+"1744","Litico II","Lages","Litico","SC",-50.41488679, -28.3914691
+"1747","Sitio Arqueologico Vargem Grande I","Lauro Müller","Litico","SC",-49.40241218, -28.34770386
+"1748","Tarcisio Godinho","Lauro Müller","Litico","SC",-49.349942, -28.396841
+"1749","Queda D'agua","Mafra","Litico","SC",-49.712987, -26.229882
+"1750","Igreja Católica Alto Mondaizinho","Mondaí","Litico","SC",-53.49210138, -27.19138804
+"1751","Vila Maria","Nova Veneza, Goiás","Litico","SC",-49.656392, -28.671092
+"1752","Fazenda Gropp","Otacílio Costa","Litico","SC",-50.08627273, -27.5519777
+"1753","Cova Funda","Palhoça","Litico","SC",-48.711529, -27.634677
+"1754","Capetinga 2","Palma Sola","Litico","SC",-53.351177, -26.503053
+"1756","Baldur Guse","Palmitos","Litico","SC",-53.14017408, -27.15544786
+"1757","Perimbó","Petrolândia","Litico","SC",-49.67971741, -27.47830269
+"1758","SaO JOaO DO MIRADOR","Santa Terezinha","Litico","SC",-50.11810136, -26.7362796
+"1760","Gabiroba","São Martinho da Serra","Litico","SC",-49.04597462, -28.12127742
+"1762","Poente II","São Martinho da Serra","Litico","SC",-49.03938451, -28.10809823
+"1765","Herdt","São Martinho da Serra","Litico","SC",-49.01326732, -28.06400028
+"1766","Sao Martinho 01","São Martinho da Serra","Litico","SC",-48.97341868, -28.1960068
+"1768","Barragem taió 05","Taió","Litico","SC",-50.07458971, -27.10950856
+"1769","Rio Molha Baixo","Urupema","Litico","SC",-49.30929184, -28.43473351
+"1770","Jose Noriler II","Vargem","Litico","SC",-50.91895759, -27.48302356
+"1771","ivanor vil","Vidal Ramos","Litico","SC",-49.35543445, -27.3777513
+"1772","SC-ITA-003","Vidal Ramos","Litico","SC",-49.33641391, -27.43942256
+"1773","Sitio Mina Bugre 2","Vidal Ramos","Litico","SC",-49.32750085, -27.35885943
+"1774","S.A. SC-IRA-001","Xanxerê","Litico","SC",-52.36617005, -26.96781829
+"1775","Alfredo Wagner","Alfredo Wagner","Litico","SC",-49.325, -27.69166667
+"1776","Gruta Casa de Pedra","Santa Rosa, Paraguay","Litico","SC",-49.089444, -28.011111
+"1777","Alto Jararaca","Alfredo Wagner","Litico","SC",-49.32, -27.73
+"1778","Linha Policial 1 (ACH-LP1","Águas de Chapecó","Litico","SC",-53.0411569, -27.13751978
+"1779","Morro da Flecha-1","Santo Antônio da Patrulha","Litico","RS",-50.4, -29.441667
+"1781","RS-IBI-128","Alegrete","Litico","RS",-56.02046335, -29.45756543
+"1783","RS-IBI-127","Alegrete","Litico","RS",-55.973485, -29.626854
+"1784","RS-IBI-119","Alegrete","Litico","RS",-55.949924, -29.866027
+"1785","RS-IBI-123","Alegrete","Litico","RS",-55.817682, -30.008674
+"1787","Lajeado Grande 03","Alpestre","Litico","RS",-52.966077, -27.274015
+"1790","JGG 01","Alvorada","Litico","RS",-50.99260634, -29.99019182
+"1791","Balneario Atlantico 7","Arroio do Sal","Litico","RS",-49.83842047, -29.4745705
+"1793","Arroio Seco 13","Arroio do Sal","Litico","RS",-49.83336412, -29.46671117
+"1796","Torres Sul 8","Arroio do Sal","Litico","RS",-49.81748032, -29.44292718
+"1798","Stela Rodrigues 1","Bagé","Litico","RS",-54.28163575, -31.18694363
+"1799","Nei Goncalves","Bagé","Litico","RS",-54.28093328, -31.20193508
+"1800","Paulo Maya","Bagé","Litico","RS",-54.24248, -31.19730905
+"1801","U-484","Alfredo Wagner","Litico","RS",-51.5529868, -27.56802443
+"1803","RS-BIC-010","Bossoroca","Litico","RS",-55.18507305, -28.71651623
+"1804","RS-BIC-008","Bossoroca","Litico","RS",-55.17637964, -28.70192497
+"1805","RS-BIC-007","Bossoroca","Litico","RS",-55.16109365, -28.6963759
+"1807","RS-PIR-009","Bossoroca","Litico","RS",-54.975793, -28.595384
+"1808","RS-PIR-007","Bossoroca","Litico","RS",-54.93323664, -28.58883207
+"1809","RS-PIR-006","Bossoroca","Litico","RS",-54.91974825, -28.58021611
+"1810","Caititu","Camaquã","Litico","RS",-51.988928, -30.870113
+"1811","parque museu do imigrante","Cândido Godói","Litico","RS",-54.77811583, -27.88689066
+"1812","Vila Maria 2","Casca","Litico","RS",-52.09514323, -28.54421917
+"1816","RS-CAM-001 (A","Cerro Grande do Sul","Litico","RS",-51.72778566, -30.5623828
+"1817","RS-GUA-002","Cerro Grande do Sul","Litico","RS",-51.72156235, -30.53583419
+"1818","Capela Velha 02","Chuvisca","Litico","RS",-51.9533199, -30.81069414
+"1819","U G s 01","Coronel Bicaco","Litico","RS",-53.5559931, -27.85840399
+"1820","Sapato 01","Cristal do Sul","Litico","RS",-52.07934142, -31.008699
+"1821","U M t 01","Dezesseis de Novembro","Litico","RS",-55.04047297, -28.26630994
+"1822","BAT 02","Dom Pedrito","Litico","RS",-54.54496596, -30.8453424
+"1824","RS-CAM-001","Encruzilhada do Sul","Litico","RS",-52.57218165, -30.88102425
+"1825","RS-CAM-002","Encruzilhada do Sul","Litico","RS",-52.5592453, -30.88829898
+"1826","loteamento bem morar erechim","Erechim","Litico","RS",-52.29620563, -27.66707504
+"1827","U F g  01","Erval Grande","Litico","RS",-52.61568168, -27.36212498
+"1828","U U h  02","Erval Grande","Litico","RS",-52.53189007, -27.32948294
+"1831","UUU 128","Garruchos","Litico","RS",-55.68721734, -28.25620359
+"1832","UUU 129","Garruchos","Litico","RS",-55.665853, -28.255957
+"1833","U M g 01","Garruchos","Litico","RS",-55.40641337, -28.25466166
+"1834","U F r  01","Gramado dos Loureiros","Litico","RS",-52.86867204, -27.45666611
+"1835","Sitio Eloi Rodrigues da Silva","Gramado Xavier","Litico","RS",-52.6483075, -29.28557149
+"1836","Sitio Beta Janes","Gramado Xavier","Litico","RS",-52.64377263, -29.23502275
+"1837","Sitio Leonel Thomaz","Gramado Xavier","Litico","RS",-52.64037905, -29.26026754
+"1838","Sitio Domingos Possebon","Gramado Xavier","Litico","RS",-52.5955036, -29.26040474
+"1839","U J J 04","Guarani das Missões","Litico","RS",-54.57344666, -28.26282331
+"1841","U J c 01","Guarani das Missões","Litico","RS",-54.53351649, -28.26671309
+"1843","Claudio Puntel","Ibarama","Litico","RS",-53.21359361, -29.38628573
+"1845","Escola Municipal 21 de abril","Ibarama","Litico","RS",-53.1960203, -29.36523047
+"1847","RS-BIC-015","Itacurubi","Litico","RS",-55.34427888, -28.80111315
+"1848","RS-BIC-014","Itacurubi","Litico","RS",-55.28979983, -28.77263069
+"1849","U V c  01","Liberato Salzano","Litico","RS",-53.09750183, -27.59678742
+"1851","U V k  01","Liberato Salzano","Litico","RS",-53.05947024, -27.5731534
+"1853","U - 477","Machadinho","Litico","RS",-51.74933996, -27.61587
+"1854","Joao Padron Torre","Machadinho","Litico","RS",-51.69385661, -27.52097607
+"1855","U - 480","Machadinho","Litico","RS",-51.66567995, -27.51847447
+"1856","U - 485","Machadinho","Litico","RS",-51.5906012, -27.56630784
+"1857","U J w 01","Mato Queimado","Litico","RS",-54.64109568, -28.26601511
+"1859","RS - J A: 02","Pinhal Grande","Litico","RS",-53.27010282, -29.35061629
+"1861","RS-SIN-002","Portão","Litico","RS",-51.26212722, -29.62547661
+"1862","RS-IBI-121","Quaraí","Litico","RS",-55.932826, -30.196557
+"1863","RS-IBI-122","Quaraí","Litico","RS",-55.928082, -30.363614
+"1867","Três Flecha","Rio Grande","Litico","RS",-52.26998862, -31.95509148
+"1869","RS-QUA-020","Santana do Livramento","Litico","RS",-55.885331, -30.55711
+"1871","RS-MSG-089 lauriana emeniana correa II","Santa Vitória do Palmar","Litico","RS",-53.19463902, -33.56793518
+"1873","U J c 03","Santo Ângelo","Litico","RS",-54.51381139, -28.26832263
+"1876","U J b  01","Santo Ângelo","Litico","RS",-54.43441054, -28.27243856
+"1877","U J J 11","Santo Ângelo","Litico","RS",-54.37880934, -28.2766602
+"1878","U J x  02","Santo Ângelo","Litico","RS",-54.19551709, -28.20494588
+"1880","U J y  01","Santo Ângelo","Litico","RS",-54.17526636, -28.19320779
+"1881","U M M 01","Santo Antônio da Patrulha","Litico","RS",-55.325428, -28.26750121
+"1882","RS-BIC-021","São Borja","Litico","RS",-55.43790721, -28.95272793
+"1884","U J g 03","São Luiz Gonzaga","Litico","RS",-54.94696775, -28.27274212
+"1885","RS-PIR-004","São Luiz Gonzaga","Litico","RS",-54.86213699, -28.55592326
+"1889","U M M 02","São Nicolau","Litico","RS",-55.30766746, -28.26192165
+"1890","Sitio arqueológico Vento Frio 2","Terra de Areia","Litico","RS",-50.03991429, -29.65488479
+"1891","U V k  04","Trindade do Sul","Litico","RS",-52.99530284, -27.5327932
+"1893","U V k  03","Trindade do Sul","Litico","RS",-53.02458638, -27.55022949
+"1894","Sitio do Rio Uruguai - Lagoa Bonita","Uruguaiana","Litico","RS",-57.24227924, -29.79579739
+"1895","Sitio do Brejo","Uruguaiana","Litico","RS",-57.11298323, -29.82501446
+"1896","Sitio Campo de Equitacao","Uruguaiana","Litico","RS",-57.08381458, -29.82281608
+"1897","UUw 05","Uruguaiana","Litico","RS",-56.84870739, -29.78678299
+"1898","Vila Flores I","Vila Flores","Litico","RS",-51.45305891, -28.87296762
+"1901","Alto Alegre 6 ","Alpestre","Litico","RS",-53.05111573, -27.13930594
+"1908","Caracoles CH","Río Negro","Litico_Ceramico","URG",-58.35307, -33.19072
+"1910","Caracoles gde","Río Negro","Litico_Ceramico","URG",-58.34519, -33.26531
+"1911","Pocitos","Río Negro","Litico_Ceramico","URG",-58.3347, -33.3061
+"1912","Bopicua","Río Negro","Litico_Ceramico","URG",-58.17394, -33.11212
+"1913","Ofir","Río Negro","Litico_Ceramico","URG",-58.14636, -32.59662
+"1914","Puerto Viejo","Río Negro","Litico_Ceramico","URG",-58.13752, -32.6317
+"1915","Joanin","Río Negro","Litico_Ceramico","URG",-58.08481, -32.81641
+"1916","K-86-Mandiyú","Artigas","Litico_Ceramico","URG",-57.85773, -30.61678
+"1917","S-42-Río Arapey","Salto","Litico_Ceramico","URG",-57.87098, -30.94684
+"1918","Cerro Chico I","S_I","Litico_Ceramico","URG",-57.90774, -31.18905
+"1919","Navarro","Flores","Litico_Ceramico","URG",-57.22425, -33.05294
+"1920","SPC.LT.SR.23","Abdon Batista","Litico_Ceramico","SC",-51.03332429, -27.56316815
+"1923","SPC.UHE.SR.23","Brunópolis","Litico_Ceramico","SC",-50.79536682, -27.45539996
+"1924","SPC.UHE.SR.03","Brunópolis","Litico_Ceramico","SC",-50.77079439, -27.39696865
+"1925","SPC.UHE.SR.11","Brunópolis","Litico_Ceramico","SC",-50.76620861, -27.30726701
+"1926","SPC.UHE.SR.10","Brunópolis","Litico_Ceramico","SC",-50.75096683, -27.36197807
+"1927","Adao Lima","Campo Belo do Sul","Litico_Ceramico","SC",-50.84882936, -27.76947032
+"1929","SPC.UHE.SR.12","Curitibanos","Litico_Ceramico","SC",-50.67935199, -27.42666199
+"1930","Giaretta 1","Guaraciaba","Litico_Ceramico","SC",-53.42820953, -26.61780487
+"1931","Aldeia Ribanceira I","Imbitubakj","Litico_Ceramico","SC",-48.663584, -28.194017
+"1933","Fazenda Pai Querê I","Lages","Litico_Ceramico","SC",-50.65051143, -28.33732249
+"1935","Fazenda Santa Rosa III","Lages","Litico_Ceramico","SC",-50.59078713, -28.36108623
+"1936","Adair da Silva Branco I","Lages","Litico_Ceramico","SC",-50.5028305, -28.40380341
+"1937","Sebastiao Wolff","Lages","Litico_Ceramico","SC",-50.49822173, -28.37227016
+"1938","Bergamota","Lages","Litico_Ceramico","SC",-50.32045719, -27.94685467
+"1939","Adelar Sana","Palmitos","Litico_Ceramico","SC",-53.17615813, -27.14854093
+"1942","Santa Terezinha II","Passos Maia","Litico_Ceramico","SC",-51.974752, -26.580883
+"1944","Sitio Ceramico Merci Lima","Ponte Serrada","Litico_Ceramico","SC",-52.01126459, -26.94630346
+"1946","Elias Godói da Rosa","São Joaquim","Litico_Ceramico","SC",-50.38363358, -28.43345782
+"1947","Sao Joao","São Joaquim","Litico_Ceramico","SC",-50.37427747, -28.40087479
+"1948","Sitio Arqueológico Ramada","São Joaquim","Litico_Ceramico","SC",-50.199757, -28.273242
+"1949","Cirilo Pereira Ribeiro","São Joaquim","Litico_Ceramico","SC",-50.13080501, -28.15935962
+"1953","SPC.UHE.SR.15","São José do Cerrito","Litico_Ceramico","SC",-50.80712801, -27.47192887
+"1955","SPC.UHE.SR.21","São José do Cerrito","Litico_Ceramico","SC",-50.80613724, -27.45970364
+"1960","SPC.UHE.SR.08","São José do Cerrito","Litico_Ceramico","SC",-50.79274682, -27.49267243
+"1963","SH.UHE.SR.05","São José do Cerrito","Litico_Ceramico","SC",-50.758775, -27.435534
+"1965","Armacao do Sul","Florianópolis","Litico_Ceramico","SC",-48.50444444, -27.75305555
+"1968","RS - P - 79","Bom Jesus","Litico_Ceramico","RS",-50.33861773, -28.44371966
+"1969","U J u 01","Caibaté","Litico_Ceramico","RS",-54.74198314, -28.27252961
+"1971","RS-268: Banhado do Colegio - Núcleo 2 - 1/2","Camaquã","Litico_Ceramico","RS",-51.79471205, -30.920401
+"1972","RS-290: Banhado do Colegio - Núcleo 2 - 3","Camaquã","Litico_Ceramico","RS",-51.780913, -30.941779
+"1973","Capela Velha 01","Chuvisca","Litico_Ceramico","RS",-51.96521664, -30.82119893
+"1975","SiTIO DO AcUDE","Maximiliano de Almeida","Litico_Ceramico","RS",-51.79038558, -27.61183275
+"1976","Cerrito Alegre 01","Pelotas","Litico_Ceramico","RS",-52.31779833, -31.46010069
+"1977","Oliveiras","Rio Grande","Litico_Ceramico","RS",-52.31274369, -31.89469487
+"1979","U J v  01","Rolante","Litico_Ceramico","RS",-54.8663212, -28.27543121
+"1980","RS MSG 083 menandro II","Santa Vitória do Palmar","Litico_Ceramico","RS",-53.21846338, -33.58723023
+"1981","U J j  01","Santo Ângelo","Litico_Ceramico","RS",-54.29783238, -28.26907325
+"1982","Hartwig","São Lourenço do Sul","Litico_Ceramico","RS",-52.26803758, -31.34585686
+"1983","Boa Vista 01","São Lourenço do Sul","Litico_Ceramico","RS",-52.22466161, -31.24467101
+"1984","Boa Vista 02","São Lourenço do Sul","Litico_Ceramico","RS",-52.21501826, -31.2232031
+"1985","U J g 01","São Luiz Gonzaga","Litico_Ceramico","RS",-54.97609223, -28.26931464
+"1987","U M M 05","São Nicolau","Litico_Ceramico","RS",-55.27036242, -28.25998346
+"1989","Vacas_Gordas","Urubici","Proto_Je","SC",-49.666667, -28.133333
+"1990","Pinheiro Preto II","Concórdia","Proto_Je","SC",-52.175, -27.266667
+"1991","Icara ","Içara","Proto_Je","SC",-49.3, -28.71
+"1992","Cel. Passos Maia","Passos Maia","Proto_Je","SC",-52.061, -26.782
+"1993","Copetti","Urubici","Proto_Je","SC",-49.696, -27.9283
+"1994","Morro do Avencal 1 (Urubici-01","Urubici","Proto_Je","SC",-49.6124, -28.0278
+"1995","Rio Urubici (Urubici-4","Urubici","Proto_Je","SC",-49.5975, -28.0004
+"1996","Anderman","Urubici","Proto_Je","SC",-49.5766, -27.9903
+"1997","Aripol","Urubici","Proto_Je","SC",-49.5561, -28.0893
+"1998","SC-CL-63","São José do Cerrito","Proto_Je","SC",-50.7188, -27.6013
+"1999","SC-CL-51","São José do Cerrito","Proto_Je","SC",-50.6064, -27.6372
+"2001","Rincao dos Albinos ","São José do Cerrito","Proto_Je","SC",-50.6373, -27.5517
+"2005","SC-CL-94","São José do Cerrito","Proto_Je","SC",-50.5926, -27.6416
+"2008","Induma - SC-TA-04","Taió","Proto_Je","SC",-49.96718119, -27.03703542
+"2009","Campos de Lages","Lages","Proto_Je","SC",-50.32, -27.81
+"2010","Giacomo Bagatini IV","Abdon Batista","Proto_Je","SC",-51.08689281, -27.55965802
+"2011","Aristides Bortoli","Abdon Batista","Proto_Je","SC",-51.07800319, -27.53703942
+"2012","Giacomo Bagatini III","Abdon Batista","Proto_Je","SC",-51.07214419, -27.56004563
+"2016","SPC.LT.SR.25","Abdon Batista","Proto_Je","SC",-51.06870548, -27.57458441
+"2020","SPC.LT.SR.21","Abdon Batista","Proto_Je","SC",-51.0195064, -27.56026381
+"2022","SPC.LT.SR.19","Abdon Batista","Proto_Je","SC",-51.00487882, -27.55600394
+"2023","SPC.LT.SR.18","Abdon Batista","Proto_Je","SC",-50.97224536, -27.54245042
+"2024","Volta Grande II","Abelardo Luz","Proto_Je","SC",-52.1617851, -26.68194667
+"2025","Rio Caixao II","Alfredo Wagner","Proto_Je","SC",-49.4113859, -27.73461224
+"2026","George Wagner","Alfredo Wagner","Proto_Je","SC",-49.3944123, -27.69953216
+"2027","Jacó Schüller","Alfredo Wagner","Proto_Je","SC",-49.39394338, -27.7495197
+"2028","Santilia Schimidt Wagner","Alfredo Wagner","Proto_Je","SC",-49.39264296, -27.71992764
+"2031","Cilio Ataide de Barros","Anita Garibaldi","Proto_Je","SC",-51.2181584, -27.7154229
+"2032","Darci Mota Sutil","Anita Garibaldi","Proto_Je","SC",-51.20330719, -27.72071764
+"2037","Isaltino Freski I","Anita Garibaldi","Proto_Je","SC",-51.17446922, -27.79499274
+"2038","Silvio Fernandes I","Anita Garibaldi","Proto_Je","SC",-51.16928994, -27.76088406
+"2039","Vivaldino Fernandes da Silva","Anita Garibaldi","Proto_Je","SC",-51.0658582, -27.68631138
+"2041","Fazendinha 01","Biguaçu","Proto_Je","SC",-48.72168428, -27.4436841
+"2043","Fazenda de Fora 01","Biguaçu","Proto_Je","SC",-48.70830349, -27.41036504
+"2044","SC-CL-8","Bocaina do Sul","Proto_Je","SC",-49.91629555, -27.79207864
+"2045","SC-CL-7","Bocaina do Sul","Proto_Je","SC",-49.88402132, -27.74004498
+"2046","Lages I","Bocaina do Sul","Proto_Je","SC",-49.84228864, -27.74630947
+"2047","Reunidas IV","Bom Retiro do Sul","Proto_Je","SC",-49.52764801, -27.84577955
+"2048","Reunidas III","Bom Retiro do Sul","Proto_Je","SC",-49.50026231, -27.84944689
+"2049","Reunidas I","Bom Retiro do Sul","Proto_Je","SC",-49.48882423, -27.87389904
+"2050","Reunidas VII","Bom Retiro do Sul","Proto_Je","SC",-49.46337816, -27.87269718
+"2051","Reunidas VI","Bom Retiro do Sul","Proto_Je","SC",-49.46077064, -27.89261469
+"2052","Reunidas V","Bom Retiro do Sul","Proto_Je","SC",-49.44840595, -27.89772891
+"2054","SPC.UHE.SR.01","Brunópolis","Proto_Je","SC",-50.81108232, -27.43226538
+"2055","Sebastiao Costa","Campo Belo do Sul","Proto_Je","SC",-50.83443415, -27.70487926
+"2057","Helio Camargo","Campo Belo do Sul","Proto_Je","SC",-50.82926106, -27.69191828
+"2059","Joao da Silva 2","Campo Belo do Sul","Proto_Je","SC",-50.82000491, -27.73928364
+"2061","Airton Ribeiro 1","Campo Belo do Sul","Proto_Je","SC",-50.81847749, -27.71196403
+"2064","Juvenil Moraes","Campo Belo do Sul","Proto_Je","SC",-50.81317445, -27.64515206
+"2065","Luis Carlos 3","Campo Belo do Sul","Proto_Je","SC",-50.80320197, -27.73404279
+"2066","Cassiano Matos","Campo Belo do Sul","Proto_Je","SC",-50.80075698, -27.65576041
+"2068","Plinio Luerce","Campo Belo do Sul","Proto_Je","SC",-50.79681992, -27.64658253
+"2070","Davi & Sebastiao","Campo Belo do Sul","Proto_Je","SC",-50.79162257, -27.73032452
+"2074","Valmor Baggio 6","Campo Belo do Sul","Proto_Je","SC",-50.78255482, -27.6933785
+"2076","Carlos Rossetto","Campo Belo do Sul","Proto_Je","SC",-50.77978615, -27.66298696
+"2078","Alceu de Oliveira 2","Campo Belo do Sul","Proto_Je","SC",-50.77924039, -27.6368689
+"2081","Valmor Baggio 4","Campo Belo do Sul","Proto_Je","SC",-50.76809642, -27.68663847
+"2082","Antônio Branco","Campo Belo do Sul","Proto_Je","SC",-50.76412281, -27.64328981
+"2085","Ernani Garcia","Campo Belo do Sul","Proto_Je","SC",-50.75815109, -27.6713015
+"2086","Celio Marques","Campo Belo do Sul","Proto_Je","SC",-50.75482397, -27.70816461
+"2087","Reni Camargo","Campo Belo do Sul","Proto_Je","SC",-50.75185771, -27.73699352
+"2088","Abreu e Garcia 2","Campo Belo do Sul","Proto_Je","SC",-50.74428568, -27.66870372
+"2090","Milton da Silva","Campo Belo do Sul","Proto_Je","SC",-50.74311315, -27.69747271
+"2091","Ernani Garcia 3","Campo Belo do Sul","Proto_Je","SC",-50.73967299, -27.67689226
+"2092","Travessao","Campo Belo do Sul","Proto_Je","SC",-50.73000284, -27.6505671
+"2093","Grande Morada","Campo Belo do Sul","Proto_Je","SC",-50.67085764, -27.90682941
+"2094","Vilmar Vieira Branco","Campos Novos","Proto_Je","SC",-51.48545316, -27.53875956
+"2096","Banhado Seco I","Capão Alto","Proto_Je","SC",-50.53489553, -27.901608
+"2098","SC-CL-19","Capão Alto","Proto_Je","SC",-50.52018315, -27.93360422
+"2100","Aroeira","Capão Alto","Proto_Je","SC",-50.37442327, -27.93295603
+"2101","Otacilia Mendes","Celso Ramos","Proto_Je","SC",-51.33585503, -27.66095848
+"2103","SC-CH-181","Chapecó","Proto_Je","SC",-52.76120578, -27.20146058
+"2122","SC-CH-177","Chapecó","Proto_Je","SC",-52.75390568, -27.21874637
+"2148","SC-CH-45","Chapecó","Proto_Je","SC",-52.74744411, -27.24653646
+"2160","SC-CH-186","Chapecó","Proto_Je","SC",-52.74460137, -27.22678727
+"2204","SC-CH-92","Chapecó","Proto_Je","SC",-52.72820027, -27.24090855
+"2221","SC-CH-193","Chapecó","Proto_Je","SC",-52.71010591, -27.23307058
+"2229","SC-CH-22","Chapecó","Proto_Je","SC",-52.70513877, -27.24173288
+"2230","SC-CH-150","Chapecó","Proto_Je","SC",-52.70298904, -27.26435097
+"2238","SC-CH-156","Chapecó","Proto_Je","SC",-52.70151193, -27.2754618
+"2256","SC-CH-10","Chapecó","Proto_Je","SC",-52.69309587, -27.24801671
+"2259","SC-CH-06","Chapecó","Proto_Je","SC",-52.69219332, -27.25777567
+"2267","SC-CH-140","Chapecó","Proto_Je","SC",-52.68867233, -27.27072533
+"2272","Colônia dos Alves","Correia Pinto","Proto_Je","SC",-50.53113363, -27.54644492
+"2274","Armildo Befart","Correia Pinto","Proto_Je","SC",-50.3038925, -27.55359027
+"2275","Sitio Dirceu","Curitibanos","Proto_Je","SC",-50.54554958, -27.47170672
+"2276","Gaboardi II","Curitibanos","Proto_Je","SC",-50.54236341, -27.32874831
+"2277","Gaboardi I","Curitibanos","Proto_Je","SC",-50.54052174, -27.31940731
+"2278","Doutor Pedrinho I","Doutor Pedrinho","Proto_Je","SC",-49.52103352, -26.65259318
+"2279","Aldeia Fulvio Aducci","Florianópolis","Proto_Je","SC",-48.57249839, -27.59164445
+"2280","Parque Rene Frey II","Fraiburgo","Proto_Je","SC",-50.92297543, -27.01491003
+"2282","S.A. Serrinha","Ipumirim","Proto_Je","SC",-52.10812158, -27.09703729
+"2284","Estrada do Oeste 03","Joinville","Proto_Je","SC",-48.89727512, -26.1856166
+"2288","Fazenda Pai Querê IV","Lages","Proto_Je","SC",-50.59706468, -28.34172458
+"2291","Fazenda Guarda-Mor","Lages","Proto_Je","SC",-50.52247632, -28.34986965
+"2292","Fazenda Sobradinho II","Lages","Proto_Je","SC",-50.52177687, -28.3738871
+"2294","Fazenda Sobradinho I","Lages","Proto_Je","SC",-50.507798, -28.35993634
+"2297","Fazenda Cadete","Lages","Proto_Je","SC",-50.4501354, -28.36926613
+"2299","Bom Jardim","Lages","Proto_Je","SC",-50.35986683, -27.93150799
+"2300","Fazenda Pinheirinho","Lages","Proto_Je","SC",-50.35587469, -28.3328195
+"2301","Passo Fundo I","Lages","Proto_Je","SC",-50.32256815, -27.79224872
+"2302","L. Beatriz Araújo Broering","Lages","Proto_Je","SC",-50.28268235, -27.88848397
+"2303","SC-CL-33","Lages","Proto_Je","SC",-50.22534136, -27.6879615
+"2305","SC-CL-30","Lages","Proto_Je","SC",-50.20737741, -27.68573847
+"2307","Adilson Rafaeli II","Lages","Proto_Je","SC",-50.20401006, -27.66204075
+"2309","SC-CL-28 I","Lages","Proto_Je","SC",-50.19273104, -27.72198826
+"2311","SC - CL- 23","Lages","Proto_Je","SC",-50.17667178, -27.67889731
+"2312","SC-CL-25","Lages","Proto_Je","SC",-50.1621363, -27.81474894
+"2313","Fortim do Atalaia","Laguna","Proto_Je","SC",-48.759081, -28.500069
+"2314","Iraci Idalino Nunes","Painel","Proto_Je","SC",-50.10751463, -28.12341985
+"2316","SC-CL-36","Palmeira","Proto_Je","SC",-50.15020761, -27.6223176
+"2320","Sitio Craveiro I","Passos Maia","Proto_Je","SC",-51.945832, -26.66124
+"2321","Gruta do Ribeirao Revolver","Presidente GetÃºlio","Proto_Je","SC",-49.606597, -27.057027
+"2322","Estrutura Subterranea Alto Pomerano 01","Rio dos Cedros","Proto_Je","SC",-49.26680423, -26.70272382
+"2323","Pedro Pereira Filho","Rio Rufino","Proto_Je","SC",-49.78644694, -27.87323834
+"2324","Rio Leste I","Rio Rufino","Proto_Je","SC",-49.68726211, -27.90341566
+"2325","SC-CHA-04","São Carlos","Proto_Je","SC",-53.02001937, -26.95667137
+"2326","da Igreja Adventista","São Joaquim","Proto_Je","SC",-50.35588286, -28.40075295
+"2328","SC-P-2: Luizinho 2","São Joaquim","Proto_Je","SC",-49.84068189, -28.47929769
+"2329","Antônio Roque dos Anjos","São José do Cerrito","Proto_Je","SC",-50.89321059, -27.56154
+"2330","Lajeado Goiabeira","São José do Cerrito","Proto_Je","SC",-50.8086779, -27.56085348
+"2331","SPC.UHE.SR.07","São José do Cerrito","Proto_Je","SC",-50.8030324, -27.48125802
+"2333","SC-CHA-05","Saudades","Proto_Je","SC",-53.03095004, -26.91751598
+"2334","Barragem Taió 02","Taió","Proto_Je","SC",-50.04808153, -27.11030644
+"2335","Sitio Timbe 01","Tijucas","Proto_Je","SC",-48.6949474, -27.30201156
+"2336","Cafe 8","Timbó Grande","Proto_Je","SC",-50.7879935, -26.51379623
+"2342","Fontana 01","Treze de Maio","Proto_Je","SC",-49.14144405, -28.56229229
+"2343","Rio Capoeiras","Urubici","Proto_Je","SC",-49.63420846, -28.02759274
+"2344","Morro do Cemiterio","Urubici","Proto_Je","SC",-49.59972999, -28.02185728
+"2345","Gruta Lavatudo","Urubici","Proto_Je","SC",-49.59359925, -28.12713331
+"2349","S.A. Pedra Branca","Urubici","Proto_Je","SC",-49.56827614, -28.07448663
+"2350","aguas Brancas","Urubici","Proto_Je","SC",-49.56637586, -27.95297199
+"2351","Borguesan II","Urubici","Proto_Je","SC",-49.53651384, -27.99809289
+"2352","S.A. Santo Antônio II","Urubici","Proto_Je","SC",-49.53620327, -28.01279234
+"2354","SA Casa de Pedra","Urubici","Proto_Je","SC",-49.37918657, -28.0613819
+"2355","Valentim Muniz de Oliveira","Urupema","Proto_Je","SC",-49.87716125, -27.98363263
+"2356","Valdevino Machado","Vargem","Proto_Je","SC",-51.0080652, -27.44731411
+"2357","Ludovico Poleze II","Vargem","Proto_Je","SC",-51.00259984, -27.4104799
+"2359","Joao Maria da Silva Muniz","Vargem","Proto_Je","SC",-50.98096439, -27.39369543
+"2360","SPC.LT.SR.17","Vargem","Proto_Je","SC",-50.93428147, -27.53155003
+"2361","Joao Machado","Vargem","Proto_Je","SC",-50.92153115, -27.49392178
+"2365","SPC.LT.SR.11","Vargem","Proto_Je","SC",-50.85569097, -27.50356738
+"2368","SPC.LT.SR.08","Vargem","Proto_Je","SC",-50.84292692, -27.50145006
+"2370","SPC.LT.SR.06","Vargem","Proto_Je","SC",-50.83258384, -27.49879282
+"2372","SPC.LT.SR.04","Vargem","Proto_Je","SC",-50.82036799, -27.4963581
+"2375","Lajeado Perau das Flores","Xanxerê","Proto_Je","SC",-52.34702317, -26.93858297
+"2376","Lajeado Salto do Reduto","Xavantina","Proto_Je","SC",-52.33886941, -27.038546
+"2377","Michelon 3","Xaxim","Proto_Je","SC",-52.46042387, -27.07657782
+"2378","Eduardo Fabiano","Zortéa","Proto_Je","SC",-51.60554212, -27.52148794
+"2379","eder","Zortéa","Proto_Je","SC",-51.55044265, -27.51453089
+"2380","Edineia","Campo Belo do Sul","Proto_Je","SC",-50.8442, -27.6846
+"2383","Valdomiro 2","Campo Belo do Sul","Proto_Je","SC",-50.7957, -27.7186
+"2385","Bonin 1 (Urubici-31","Urubici","Proto_Je","SC",-49.5496, -27.9985
+"2391","Urubici","Urubici","Proto_Je","SC",-49.589, -28.006
+"2392","Fazenda Bananeiras I","Lages","Proto_Je","SC",-50.4142, -28.3103
+"2395","Murchao","Anita Garibaldi","Proto_Je","SC",-51.1182, -27.7173
+"2399","Vargem do Cedro 8","Vargem","Proto_Je","SC",-48.9098, -28.1408
+"2400","Rio do Meio","Florianópolis","Proto_Je","SC",-48.49655812, -27.43778908
+"2401","Sao Joaquim","São Joaquim","Proto_Je","SC",-49.94, -28.31
+"2402","Ponta do Costao do Ilhote","Laguna","Proto_Je","SC",-48.8374, -28.5999
+"2405","Valmor Baggio 1","Campo Belo do Sul","Proto_Je","SC",-50.77559756, -27.70321657
+"2406","SC-AB-48","Abdon Batista","Proto_Je","SC",-51.1199, -27.615
+"2407","SC-AB-96","Abdon Batista","Proto_Je","SC",-51.0486, -27.6319
+"2408","SC-AB-95","Abdon Batista","Proto_Je","SC",-51.0202, -27.6317
+"2411","SC-AG-40","Anita Garibaldi","Proto_Je","SC",-51.1479, -27.6246
+"2412","SC-AG-76","Anita Garibaldi","Proto_Je","SC",-51.0902, -27.6389
+"2414","SC-AG-75","Anita Garibaldi","Proto_Je","SC",-51.0662, -27.6601
+"2415","SC-AG-18","Anita Garibaldi","Proto_Je","SC",-51.0479, -27.6566
+"2417","SC-AG-12","Anita Garibaldi","Proto_Je","SC",-51.0229, -27.6618
+"2418","SC-CR-06","São José do Cerrito","Proto_Je","SC",-51.2058, -27.6425
+"2419","SC-AB-04","Abdon Batista","Proto_Je","SC",-51.1412, -27.6001
+"2420","Santa Barbara","Bom Jardim da Serra","Proto_Je","SC",-49.62640127, -28.19897606
+"2421","Gruta do Ribeirao Herta - SC-VI-16","Ibirama","Proto_Je","SC",-49.57, -27.07
+"2422","SC-RA-01","São Joaquim","Proto_Je","SC",-49.9369, -28.2933
+"2426","Operario","Ibirama","Proto_Je","SC",-49.51178456, -27.04237165
+"2428","RS-T-123","Arvorezinha","Proto_Je","RS",-52.2384, -28.8514
+"2429","RS-T-130","Arvorezinha","Proto_Je","RS",-52.1026, -28.8858
+"2430","RS-T-126","Itapuca","Proto_Je","RS",-52.2551, -28.8139
+"2431","Boa Vista 2","Porto Lucena","Proto_Je","RS",-54.966667, -27.766667
+"2432","Sapateiro 3 / Mangueira Nova-1 (Sapateiro 3","Bom Jesus","Proto_Je","RS",-50.1, -28.6
+"2433","Passo da Cadeia","Bom Jesus","Proto_Je","RS",-50.094444, -28.483333
+"2434","Fazenda Sao Marcos","Esmeralda","Proto_Je","RS",-51.2, -29.166667
+"2435","Tres_Arvores","Passo Fundo","Proto_Je","RS",-52.483333, -28.166667
+"2436","Bugres-1","São Francisco do Sul","Proto_Je","RS",-50.35, -29.3
+"2437","Fazenda Carvalho 2","São José dos Ausentes","Proto_Je","RS",-49.880278, -28.496667
+"2438","RS - A - 29","Vacaria","Proto_Je","RS",-50.92920781, -28.68175434
+"2440","RS - A - 27","Vacaria","Proto_Je","RS",-50.93628475, -28.67507833
+"2441","Matematico","São José do Cerrito","Proto_Je","RS",-50.15, -28.8
+"2442","Leonardo Boeira Silveira ","Caxias do Sul","Proto_Je","RS",-51.033, -29.0779
+"2443","Camboim 1","Arroio do Sal","Proto_Je","RS",-49.87578398, -29.52049167
+"2445","Jardim Olivia 3","Arroio do Sal","Proto_Je","RS",-49.86239635, -29.51357342
+"2455","Sitio Schaefer","Barão","Proto_Je","RS",-51.48317073, -29.35802747
+"2457","RS - P - 60","Bom Jesus","Proto_Je","RS",-50.69654074, -28.3273614
+"2463","RS - P - 72","Bom Jesus","Proto_Je","RS",-50.30648334, -28.43843274
+"2470","RS - P - 64","Bom Jesus","Proto_Je","RS",-50.27567192, -28.45677617
+"2471","RS - P - 67","Bom Jesus","Proto_Je","RS",-50.26533361, -28.45561953
+"2473","Agenor Valim I","Cambará do Sul","Proto_Je","RS",-50.2072185, -29.1276012
+"2474","Rubem Carvalho I","Cambará do Sul","Proto_Je","RS",-50.18806203, -29.13890356
+"2475","Estrada da Serra Geral (Cambara","Cambará do Sul","Proto_Je","RS",-50.18273546, -29.0844665
+"2477","Butia","Cambará do Sul","Proto_Je","RS",-50.17923112, -28.83341818
+"2478","Ervino Bassani I","Cambará do Sul","Proto_Je","RS",-50.17178658, -29.00680798
+"2479","Manoel Francisco Weber","Cambará do Sul","Proto_Je","RS",-50.16394505, -29.07020801
+"2480","Aloise Emerich","Cambará do Sul","Proto_Je","RS",-50.13771478, -29.06187413
+"2481","Varzinha","Cambará do Sul","Proto_Je","RS",-50.11631382, -28.87380736
+"2482","Romario Jose Cardoso da Silva","Cambará do Sul","Proto_Je","RS",-50.08959772, -29.1087314
+"2483","Ernani Lima","Cambará do Sul","Proto_Je","RS",-50.04916513, -29.10680824
+"2484","Estrada Parque  Aparados da Serra.","Cambará do Sul","Proto_Je","RS",-50.04872172, -29.15610035
+"2485","Parque Nacional da Serra Geral I","Cambará do Sul","Proto_Je","RS",-50.03289153, -29.16888383
+"2486","Parque Nacional da Serra Geral II","Cambará do Sul","Proto_Je","RS",-50.01927863, -29.16329761
+"2487","Toca Santa","Caxias do Sul","Proto_Je","RS",-50.99091868, -28.90262138
+"2488","RS-EG-10","Erval Grande","Proto_Je","RS",-52.68498721, -27.28891193
+"2497","RS-EG-01","Erval Grande","Proto_Je","RS",-52.65085158, -27.30809323
+"2498","RS-FA-50","Faxinalzinho","Proto_Je","RS",-52.74077739, -27.32351931
+"2503","RS-FA-39","Faxinalzinho","Proto_Je","RS",-52.73045845, -27.31823203
+"2507","RS-FA-42","Faxinalzinho","Proto_Je","RS",-52.72592153, -27.328036
+"2510","RS-FA-36","Faxinalzinho","Proto_Je","RS",-52.71915579, -27.32116955
+"2517","RS-FA-30","Faxinalzinho","Proto_Je","RS",-52.70957427, -27.3243559
+"2529","RS-FA-20","Faxinalzinho","Proto_Je","RS",-52.69098211, -27.30851607
+"2536","RS-FA-13","Faxinalzinho","Proto_Je","RS",-52.67990337, -27.32029311
+"2539","RS-FA-05","Faxinalzinho","Proto_Je","RS",-52.67730851, -27.30633408
+"2546","RS-FA-04","Faxinalzinho","Proto_Je","RS",-52.66795029, -27.30998697
+"2549","Olmirio Silveira","Herveiras","Proto_Je","RS",-52.6510479, -29.48032749
+"2550","RST 100","Ilópolis","Proto_Je","RS",-52.14907509, -28.89107845
+"2551","RS-I-99: Ponta Leste","Itaqui","Proto_Je","RS",-56.76666667, -29.38333333
+"2555","Valmir da Silva","Machadinho","Proto_Je","RS",-51.75439475, -27.51749222
+"2557","RGE","Machadinho","Proto_Je","RS",-51.73450812, -27.52200408
+"2559","Guto","Machadinho","Proto_Je","RS",-51.71187257, -27.52132737
+"2561","Osvino Adami","Machadinho","Proto_Je","RS",-51.67656011, -27.52070018
+"2565","Vladecir Panho","Machadinho","Proto_Je","RS",-51.65440888, -27.52478734
+"2567","RS-NO-195","Nonoai","Proto_Je","RS",-52.79715366, -27.21605908
+"2572","RS-NO-225","Nonoai","Proto_Je","RS",-52.7942344, -27.26379731
+"2575","RS-NO-216","Nonoai","Proto_Je","RS",-52.79382874, -27.27564419
+"2582","RS-NO-215","Nonoai","Proto_Je","RS",-52.79175745, -27.24537153
+"2584","RS-NO-210","Nonoai","Proto_Je","RS",-52.79142091, -27.22561855
+"2593","RS-NO-221","Nonoai","Proto_Je","RS",-52.78786054, -27.25553917
+"2607","RS-NO-208","Nonoai","Proto_Je","RS",-52.78214554, -27.23469945
+"2609","RS-NO-199","Nonoai","Proto_Je","RS",-52.78132324, -27.22490796
+"2633","RS-NO-151","Nonoai","Proto_Je","RS",-52.77120663, -27.22873684
+"2655","RS-NO-125","Nonoai","Proto_Je","RS",-52.76286496, -27.26065797
+"2661","RS-NO-05","Nonoai","Proto_Je","RS",-52.75767207, -27.32341609
+"2663","RS-NO-117","Nonoai","Proto_Je","RS",-52.75721389, -27.27059422
+"2674","RS-NO-109","Nonoai","Proto_Je","RS",-52.75165228, -27.2811429
+"2688","RS-NO-89","Nonoai","Proto_Je","RS",-52.74288689, -27.27420325
+"2696","RS-NO-97","Nonoai","Proto_Je","RS",-52.73824907, -27.28487808
+"2701","RS-NO-70","Nonoai","Proto_Je","RS",-52.73639167, -27.25728839
+"2702","RS-NO-22","Nonoai","Proto_Je","RS",-52.73624097, -27.30865615
+"2711","RS-NO-79","Nonoai","Proto_Je","RS",-52.73334248, -27.26711021
+"2719","RS-NO-103","Nonoai","Proto_Je","RS",-52.7318209, -27.27646177
+"2726","RS-NO-87","Nonoai","Proto_Je","RS",-52.72839892, -27.28966376
+"2728","RS-NO-76","Nonoai","Proto_Je","RS",-52.72769323, -27.25188125
+"2739","RS-NO-54","Nonoai","Proto_Je","RS",-52.7200584, -27.25844685
+"2745","RS-NO-28","Nonoai","Proto_Je","RS",-52.71583493, -27.30499997
+"2752","RS-NO-31","Nonoai","Proto_Je","RS",-52.71379362, -27.28787589
+"2755","RS-NO-41","Nonoai","Proto_Je","RS",-52.71263834, -27.27512745
+"2766","RS-NO-01","Nonoai","Proto_Je","RS",-52.69851973, -27.32774004
+"2770","RS - LC - 84","Palmares do Sul","Proto_Je","RS",-50.32233333, -30.39016667
+"2771","Torre 60 e 61","Parobé","Proto_Je","RS",-50.81784757, -29.66443639
+"2773","RS - PE - 50","Pinhal da Serra","Proto_Je","RS",-51.19303009, -27.84106064
+"2775","RS - PE - 42","Pinhal da Serra","Proto_Je","RS",-51.16962602, -27.84418782
+"2776","RS - PE - 51","Pinhal da Serra","Proto_Je","RS",-51.14921876, -27.84881541
+"2777","RS-RI-79","Rio dos Índios","Proto_Je","RS",-52.91052652, -27.22858413
+"2778","RS-RI-104","Rio dos Índios","Proto_Je","RS",-52.85293699, -27.22312136
+"2780","RS-RI-95","Rio dos Índios","Proto_Je","RS",-52.8428369, -27.22226181
+"2796","RS-RI-81","Rio dos Índios","Proto_Je","RS",-52.83237606, -27.22711042
+"2797","RS-RI-92","Rio dos Índios","Proto_Je","RS",-52.83091837, -27.23860103
+"2801","RS-RI-77","Rio dos Índios","Proto_Je","RS",-52.82300883, -27.23282856
+"2803","RS-RI-71","Rio dos Índios","Proto_Je","RS",-52.82095868, -27.25202565
+"2815","RS-RI-33","Rio dos Índios","Proto_Je","RS",-52.80749817, -27.23147723
+"2816","RS-RI-12","Rio dos Índios","Proto_Je","RS",-52.80676803, -27.24753428
+"2821","RS-RI-02","Rio dos Índios","Proto_Je","RS",-52.8048377, -27.26745171
+"2847","RS-RI-30","Rio dos Índios","Proto_Je","RS",-52.7978114, -27.23438185
+"2869","Torre 83 (Estrutura escavada no vertice MV 10","Santo Antônio da Patrulha","Proto_Je","RS",-50.5283064, -29.7910987
+"2871","Fabro","São Marcos","Proto_Je","RS",-51.08588985, -28.97553365
+"2872","Sogari","São Marcos","Proto_Je","RS",-51.06331045, -28.97967105
+"2873","Morro da Antena","São Marcos","Proto_Je","RS",-51.0528924, -28.96114519
+"2874","Gruta das Cabras","São Marcos","Proto_Je","RS",-51.0441432, -28.9250352
+"2875","Norberto Koeller","Sinimbu","Proto_Je","RS",-52.65242444, -29.50096483
+"2876","Tapejara 1","Tapejara","Proto_Je","RS",-52.01598292, -28.0248751
+"2877","RS - A - 28","Vacaria","Proto_Je","RS",-50.97742382, -28.70316348
+"2878","Torre 181-1 e 181-2","Vista Alegre do Prata","Proto_Je","RS",-51.78462045, -28.79167602
+"2880","Irmaos Almeida ","Pinhal da Serra","Proto_Je","RS",-51.17, -27.86
+"2884","RS-RP-164b","Herveiras","Proto_Je","RS",-52.6658, -29.4399
+"2885","Virador I","Portão","Proto_Je","RS",-51.2782, -29.6295
+"2889","Ita","Itá","Proto_Je","RS",-52.329, -27.27
+"2891","Patrocinio Firmino Vieira","Pinhal da Serra","Proto_Je","RS",-51.1934, -27.8271
+"2892","Leopoldo 7 ","Pinhal da Serra","Proto_Je","RS",-51.1795, -27.823
+"2893","Darci Grazziotin","Bom Jesus","Proto_Je","RS",-50.4241, -28.6734
+"2894","Morro da Formiga","Taquara","Proto_Je","RS",-50.7903, -29.6428
+"2896","Galheta IV","(copiado","Proto_Je","(copiado",-48.7888, -28.5551
+"2899","Colonia Concordia","Soriano","RP_GM","URG",-58.3486, -33.6208
+"2900","El Cerro","Soriano","RP_GM","URG",-58.1369, -33.2615
+"2901","Arroyo Negro","Paysandú","RP_GM","URG",-58.18886, -32.48799
+"2903","Roman","Río Negro","RP_GM","URG",-58.08544, -32.83922
+"2904","Pinguino","Río Negro","RP_GM","URG",-58.05291, -32.87991
+"2905","La Yeguada","Río Negro","RP_GM","URG",-58.0412, -32.98644
+"2906","Campo Morgan1 SO01","Soriano","RP_GM","URG",-58.34875, -33.3647
+"2908","Estructura monticular Cañada Saldaña","S_I","RP_GM","URG",-58.39138889, -33.70444444
+"2909","Punta Pereira","S_I","RP_GM","URG",-58.17611111, -34.16888889
+"2910","Isla del Medio y-71","S_I","RP_GM","URG",-58.10666667, -33.37722222
+"2911","Isla de Arriba y-57","S_I","RP_GM","URG",-57.97124, -31.37789
+"2912","Aruera","S_I","RP_GM","URG",-57.49111111, -31.35972222
+"2913","Itacoara","Joinville","Sambaqui","SC",-48.86158838, -26.40296055
+"2914","Sambaqui Morro do Ouro","Joinville","Sambaqui","SC",-48.827155, -26.31437118
+"2915","Sambaqui Forte Marechal Luz ","São Francisco do Sul","Sambaqui","SC",-48.53227547, -26.16548693
+"2916","Sambaqui Ilhota 2","Ilhota","Sambaqui","SC",-48.82176827, -26.87088118
+"2917","Sambaqui Balsinha I","Laguna","Sambaqui","SC",-48.801474, -28.359889
+"2918","Pantano do Sul I","Florianópolis","Sambaqui","SC",-48.51, -27.78
+"2924","Fazenda dos Búfalos","Balneário Barra do Sul","Sambaqui","SC",-48.64721126, -26.46444077
+"2925","Costeira","Balneário Barra do Sul","Sambaqui","SC",-48.63736933, -26.45686001
+"2926","Sobral 1","Balneário Barra do Sul","Sambaqui","SC",-48.611185, -26.46735305
+"2928","Lagoa de Fora II","Balneário Gaivota","Sambaqui","SC",-49.61149155, -29.12766705
+"2929","Picarras 1","Balneário Piçarras","Sambaqui","SC",-48.68455729, -26.76014421
+"2930","Rio Itapocu","Barra Velha","Sambaqui","SC",-48.72048266, -26.60170753
+"2931","Areias de Baixo II","Biguaçu","Sambaqui","SC",-48.605867, -27.400035
+"2932","Sambaqui da Rua 13","Bombinhas","Sambaqui","SC",-48.50661439, -27.14431149
+"2934","Ponta do Sambaqui","Florianópolis","Sambaqui","SC",-48.53848094, -27.49085271
+"2935","Carianos II","Florianópolis","Sambaqui","SC",-48.53372783, -27.66547119
+"2936","Ponta do Lessa I","Florianópolis","Sambaqui","SC",-48.526963, -27.57237027
+"2937","Saco Grande I","Florianópolis","Sambaqui","SC",-48.51279694, -27.55399003
+"2938","Jurerê IV","Florianópolis","Sambaqui","SC",-48.50633659, -27.45850101
+"2941","Campo de Jurerê I","Florianópolis","Sambaqui","SC",-48.49664317, -27.45372528
+"2942","Rio Tavares IV","Florianópolis","Sambaqui","SC",-48.4876965, -27.65457574
+"2943","Ratones I","Florianópolis","Sambaqui","SC",-48.48298344, -27.49755608
+"2945","Ratones V (ocorrência A","Florianópolis","Sambaqui","SC",-48.47005571, -27.50403452
+"2947","Ratones IV","Florianópolis","Sambaqui","SC",-48.46816788, -27.49102528
+"2949","Canasvieiras I","Florianópolis","Sambaqui","SC",-48.46306022, -27.44282224
+"2950","Vargem Pequena I","Florianópolis","Sambaqui","SC",-48.45806001, -27.47914733
+"2951","Vargem do Bom Jesus II","Florianópolis","Sambaqui","SC",-48.43594243, -27.4447527
+"2954","Sao Joao do Rio Vermelho I","Florianópolis","Sambaqui","SC",-48.4242194, -27.51133143
+"2955","Residencial Pedra Branca II","Garopaba","Sambaqui","SC",-48.64837, -28.046638
+"2957","Encosta da Lagoa","Garopaba","Sambaqui","SC",-48.62900244, -28.04959836
+"2958","Capao de Garopaba","Garopaba","Sambaqui","SC",-48.62842706, -28.08227828
+"2959","Nova Bremen","Ibirama","Sambaqui","SC",-49.584022, -27.046629
+"2960","Sambaqui da Lagoa dos Freitas II","Içara","Sambaqui","SC",-49.219351, -28.806643
+"2961","Sambaqui Ilha dos Pereira","Imaruí","Sambaqui","SC",-48.73882415, -28.27090372
+"2962","Itaiópolis I","Itaiópolis","Sambaqui","SC",-49.81057655, -26.49655473
+"2963","Sambaqui Volta Velha I","Itapoá","Sambaqui","SC",-48.65256066, -26.09711221
+"2964","Jaguaruna V","Itapoá","Sambaqui","SC",-48.62783546, -26.15778925
+"2965","Rio Inferninho","Itapoá","Sambaqui","SC",-48.6227298, -26.14491682
+"2969","Jaguaruna VI","Itapoá","Sambaqui","SC",-48.61717215, -26.18188417
+"2970","Morro Grande I (atualizacao CNSA SC00666","Jaguaruna","Sambaqui","SC",-49.084822, -28.697285
+"2972","Sambaqui da Amizade","Jaguaruna","Sambaqui","SC",-49.00337422, -28.56143827
+"2976","Garopaba do Sul I","Jaguaruna","Sambaqui","SC",-48.8929, -28.625531
+"2977","Ribeirao do Cubatao","Joinville","Sambaqui","SC",-48.80614857, -26.20178325
+"2978","Sambaqui Cabecuda 01","Laguna","Sambaqui","SC",-48.83023124, -28.38557463
+"2980","Estreito","Laguna","Sambaqui","SC",-48.75922999, -28.37423278
+"2981","Ponta do Maruim","Palhoça","Sambaqui","SC",-48.65722222, -27.62944444
+"2982","Massiambu-02","Palhoça","Sambaqui","SC",-48.64030525, -27.86682408
+"2984","Perequê II","Porto Belo","Sambaqui","SC",-48.60612, -27.1606
+"2985","Sambaqui Ilha Joao da Cunha","Porto Belo","Sambaqui","SC",-48.53995905, -27.13654125
+"2986","Sambaqui do Portinho II","São Francisco do Sul","Sambaqui","SC",-48.61431031, -26.24266211
+"2988","Ribeira VIII","São Francisco do Sul","Sambaqui","SC",-48.70991787, -26.30665277
+"2991","Praia do Pereira","São Francisco do Sul","Sambaqui","SC",-48.67901461, -26.28563305
+"2995","Ilha Araújo de Dentro","São Francisco do Sul","Sambaqui","SC",-48.66165913, -26.270433
+"2997","Porto do Rei II","São Francisco do Sul","Sambaqui","SC",-48.61515, -26.398025
+"2998","Tapera IX","São Francisco do Sul","Sambaqui","SC",-48.61493765, -26.28239796
+"3002","Sambaqui Praia do Ervino II","São Francisco do Sul","Sambaqui","SC",-48.59765894, -26.41615174
+"3005","Sambaqui Praia Grande S2","São Francisco do Sul","Sambaqui","SC",-48.578576, -26.373929
+"3006","Praia Grande III","São Francisco do Sul","Sambaqui","SC",-48.572259, -26.366034
+"3007","Sambaqui da Ilha da Casca","São José do Cerrito","Sambaqui","SC",-48.632295, -27.644201
+"3008","Sambaqui da Ponta do Cubiculo","Treze de Maio","Sambaqui","SC",-49.06265265, -28.56323857
+"3010","Sambaqui das Abelhas","Tubarão","Sambaqui","SC",-49.05199392, -28.54260213
+"3011","Sambaqui da Ponta do Simao","Tubarão","Sambaqui","SC",-49.04627467, -28.53078911
+"3012","SC-formigao-01","Tubarão","Sambaqui","SC",-49.04277627, -28.49723457
+"3013","Monte Castelo II","Tubarão","Sambaqui","SC",-49.027963, -28.514621
+"3014","SC TUB 32","Tubarão","Sambaqui","SC",-49.027105, -28.503946
+"3015","Congonhas I","Tubarão","Sambaqui","SC",-49.008501, -28.524727
+"3016","Congonhas IV","Tubarão","Sambaqui","SC",-48.98035873, -28.5083396
+"3017","Sambaqui Rio Pinheiros II","Balneário Barra do Sul","Sambaqui","SC",-48.63538242, -26.42309801
+"3018","Sambaqui Conquista B","Araquari","Sambaqui","SC",-48.67198375, -26.41181323
+"3021","Sambaqui Rio Comprido I","Joinville","Sambaqui","SC",-48.80717366, -26.27617809
+"3022","Figueirinha 5","Jaguaruna","Sambaqui","SC",-48.98819208, -28.66359661
+"3023","Figueirinha 3","Jaguaruna","Sambaqui","SC",-48.9738861, -28.66325692
+"3028","Sambaqui Gaspar","Gaspar","Sambaqui","SC",-48.916667, -26.966667
+"3032","Sambaqui Tavares III","Florianópolis","Sambaqui","SC",-48.5, -27.66
+"3034","Sambaqui Samambaia","Imaruí","Sambaqui","SC",-48.86888889, -28.3175
+"3035","Sambaqui Garopaba","Jaguaruna","Sambaqui","SC",-48.88472222, -28.61805556
+"3036","Sambaqui Palmital","Joinville","Sambaqui","SC",-48.80222222, -26.13416667
+"3037","Sambaqui Ponta das Almas","Florianópolis","Sambaqui","SC",-48.4593447, -27.59526699
+"3038","Sambaqui Espinheiros I","Joinville","Sambaqui","SC",-48.843889, -26.301389
+"3039","Encantada 1 (Emideo","Jaguaruna","Sambaqui","SC",-48.91567338, -28.624045
+"3041","Sambaqui Praia Grande ","São Francisco do Sul","Sambaqui","SC",-48.42, -27.53
+"3042","Sambaqui Caieira","Laguna","Sambaqui","SC",-48.7675, -28.45
+"3043","Sambaqui Carnica I","Laguna","Sambaqui","SC",-48.80222222, -28.53444444
+"3046","Sambaqui Ilhota","Ilhota","Sambaqui","SC",-48.799256, -26.873637
+"3047","Sambaqui Cabecudas","Laguna","Sambaqui","SC",-48.8293593, -28.428339
+"3048","Areias Pequenhas","Araquari","Sambaqui","SC",-48.68886374, -26.36491395
+"3049","Sambaqui Pernambuco","Balneário Barra do Sul","Sambaqui","SC",-48.66802778, -26.38126294
+"3051","Sambaqui Rio Bacuruiuma I","Joinville","Sambaqui","SC",-48.8033353, -26.14533956
+"3052","Sambaqui Lagoa do Saguacu","Joinville","Sambaqui","SC",-48.79548427, -26.30720883
+"3053","Sambaqui ilha dos Espinheiros II","Joinville","Sambaqui","SC",-48.77894972, -26.29153836
+"3054","Sambaqui Bupeva VII","São Francisco do Sul","Sambaqui","SC",-48.60793851, -26.44253139
+"3056","Sambqaui Rua Guaira","Joinville","Sambaqui","SC",-48.80853235, -26.25181198
+"3058","Sambaqui Cubatao I","Joinville","Sambaqui","SC",-48.77206156, -26.22229729
+"3059","Sambaqui Tiburtius","Joinville","Sambaqui","SC",-48.79813405, -26.16776986
+"3061","Sambaqui Cubatao III","Joinville","Sambaqui","SC",-48.7818647, -26.20453346
+"3064","Arroio da Cruz I","Jaguaruna","Sambaqui","SC",-49.0815, -28.7213
+"3065","Sambaqui Capivari I","Capivari de Baixo","Sambaqui","SC",-48.961111, -28.452587
+"3066","Sambaqui Canto da Lagoa II","Florianópolis","Sambaqui","SC",-49.11, -28.407
+"3067","Sambaqui Canto da Lagoa I","Florianópolis","Sambaqui","SC",-48.48, -27.63
+"3068","Ilhotinha","Gravatal","Sambaqui","SC",-48.96453303, -28.396531
+"3069","Sambaqui Morro Azul","Jaguaruna","Sambaqui","SC",-49.05564331, -28.610332
+"3070","Jaguaruna 1","Jaguaruna","Sambaqui","SC",-49.02151902, -28.603326
+"3071","Porto Viera 1","Jaguaruna","Sambaqui","SC",-49.00133967, -28.583105
+"3072","Jabuticabeira","Jaguaruna","Sambaqui","SC",-48.98266567, -28.561524
+"3073","Jabuticabeira II","Jaguaruna","Sambaqui","SC",-48.96030359, -28.578976
+"3075","Santa Marta 1","Laguna","Sambaqui","SC",-48.83061686, -28.591422
+"3077","Galheta 3","Laguna","Sambaqui","SC",-48.79642441, -28.544683
+"3078","Lagoa dos Bichos I","Laguna","Sambaqui","SC",-48.79037848, -28.536693
+"3084","Ribeirao Pequeno","Ribeirao Pequeno","Sambaqui","SC",-48.89167232, -28.513319
+"3085","Rio Caipora","São Gabriel","Sambaqui","SC",-49.0988309, -28.559512
+"3086","Lajeado 1","Tubarão","Sambaqui","SC",-49.07480507, -28.543045
+"3087","Cubiculo I","Tubarão","Sambaqui","SC",-49.0628319, -28.551777
+"3090","Sambaqui Congonhas","Tubarão","Sambaqui","SC",-49.00813624, -28.513697
+"3095","Mato Alto 2","Tubarão","Sambaqui","SC",-48.97065944, -28.518193
+"3097","Morrote","Tubarão","Sambaqui","SC",-48.96244642, -28.5362
+"3100","Sambaqui Cubataozinho","Joinville","Sambaqui","SC",-48.78244529, -26.22245792
+"3102","Sambaqui Ponta das Palmas","Joinville","Sambaqui","SC",-48.76156683, -26.20284699
+"3105","Sambaqui Pereque de Praia Grande","São Francisco do Sul","Sambaqui","SC",-48.6066307, -26.40345127
+"3113","Sambaqui Praia Grande V","São Francisco do Sul","Sambaqui","SC",-48.56490441, -26.34696684
+"3114","Sambaqui Praia Grande VI","São Francisco do Sul","Sambaqui","SC",-48.56290346, -26.33060757
+"3115","Sambaqui Praia Grande VIII","São Francisco do Sul","Sambaqui","SC",-48.56231049, -26.31780079
+"3119","Sambaqui Lagoa do Acarai I","São Francisco do Sul","Sambaqui","SC",-48.54667638, -26.28940489
+"3123","Sambaqui Lagoa do Acarai V (S11","São Francisco do Sul","Sambaqui","SC",-48.54137927, -26.28139075
+"3128","Santa Marta 5","Laguna","Sambaqui","SC",-48.83679667, -28.582186
+"3130","Santa Marta 3","Laguna","Sambaqui","SC",-48.82275466, -28.584017
+"3131","Sambaqui Costeira","Balneário Barra do Sul","Sambaqui","SC",-48.63090127, -26.4388169
+"3132","Sambaqui Espinheiros II","Joinville","Sambaqui","SC",-48.79277994, -26.28398099
+"3134","Sambaqui Porto do Rio Vermelho I","Florianópolis","Sambaqui","SC",-48.42, -27.52
+"3136","Sambaqui Sereia do Mar","Arroio do Sal","Sambaqui","RS",-49.90921107, -29.57763655
+"3137","Sambaqui do Camping","Capão da Canoa","Sambaqui","RS",-49.95205549, -29.63155931
+"3139","Sambaqui da Dorva","Três Cachoeiras","Sambaqui","RS",-49.8791484, -29.424919
+"3145","Rondinha","Arroio do Sal","Sambaqui","RS",-49.86744044, -29.5258302
+"3154","Arroio Seco 3","Arroio do Sal","Sambaqui","RS",-49.82414732, -29.4611252
+"3158","Serra Azul 3","Arroio do Sal","Sambaqui","RS",-49.81819788, -29.45218352
+"3166","RS-LC-14 Capao da Marca A","Tavares","Sambaqui","RS",-51.1678958, -31.33076285
+"3168","RS-LC-17 Farol da Marca B","Tavares","Sambaqui","RS",-51.16353814, -31.31671605
+"3170","RS-LC-20 Campo da Honra B","Tavares","Sambaqui","RS",-51.16057892, -31.30341244
+"3175","Sambaqui do Recreio","Torres","Sambaqui","RS",-49.7862024, -29.4115967

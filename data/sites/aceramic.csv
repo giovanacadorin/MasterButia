@@ -1,0 +1,556 @@
+id;nome;Municipio;Classificação autora;UF;decimallon;decimallat
+394;Ponto Suarez e Cardillo (2019) 9;Artigas;Aceramico;URG;-57.76661;-30.64977
+395;Ponto Suarez e Cardillo (2019) 7;Artigas;Aceramico;URG;-57.6734;-30.42707
+396;Ponto Suarez e Cardillo (2019) 5;Artigas;Aceramico;URG;-57.63285;-30.31892
+397;Ponto Suarez e Cardillo (2019) 3;Artigas;Aceramico;URG;-57.6236;-30.21006
+398;Ponto Suarez e Cardillo (2019) 6;Artigas;Aceramico;URG;-57.54889;-30.42849
+399;Ponto Suarez e Cardillo (2019) 2;Artigas;Aceramico;URG;-57.45284;-30.26058
+400;Ponto Suarez e Cardillo (2019) 1;Artigas;Aceramico;URG;-57.32903;-30.25666
+401;Ponto Suarez e Cardillo (2019) 23;Canelones;Aceramico;URG;-55.76797;-34.25145
+402;Ponto Suarez e Cardillo (2019) 28;Canelones;Aceramico;URG;-55.59579;-34.69401
+403;Ponto Suarez e Cardillo (2019) 16;Cerro Largo;Aceramico;URG;-54.45808;-32.04292
+404;Ponto Suarez e Cardillo (2019) 20;Colonia del Sacramento;Aceramico;URG;-57.38097;-33.95831
+405;Ponto Suarez e Cardillo (2019) 80;Durazno;Aceramico;URG;-56.99258;-33.04708
+406;Ponto Suarez e Cardillo (2019) 84;Durazno;Aceramico;URG;-56.86806;-32.82785
+407;Ponto Suarez e Cardillo (2019) 79;Durazno;Aceramico;URG;-56.71464;-32.87098
+408;Ponto Suarez e Cardillo (2019) 78;Durazno;Aceramico;URG;-56.65683;-32.89766
+409;Ponto Suarez e Cardillo (2019) 77;Durazno;Aceramico;URG;-56.58924;-32.95014
+410;Ponto Suarez e Cardillo (2019) 76;Durazno;Aceramico;URG;-56.55811;-32.86654
+411;Ponto Suarez e Cardillo (2019) 75;Durazno;Aceramico;URG;-56.48518;-32.92079
+412;Ponto Suarez e Cardillo (2019) 74;Durazno;Aceramico;URG;-56.34821;-32.87009
+413;Ponto Suarez e Cardillo (2019) 96;Durazno;Aceramico;URG;-56.20858;-32.66464
+414;Ponto Suarez e Cardillo (2019) 71;Durazno;Aceramico;URG;-56.09474;-32.77582
+415;Ponto Suarez e Cardillo (2019) 68;Durazno;Aceramico;URG;-56.03604;-32.54724
+416;Ponto Suarez e Cardillo (2019) 72;Durazno;Aceramico;URG;-55.99779;-32.80517
+417;Ponto Suarez e Cardillo (2019) 73;Durazno;Aceramico;URG;-55.8795;-32.80428
+418;Ponto Suarez e Cardillo (2019) 63;Durazno;Aceramico;URG;-55.65893;-32.56236
+419;Ponto Suarez e Cardillo (2019) 62;Durazno;Aceramico;URG;-55.52375;-32.52768
+420;Ponto Suarez e Cardillo (2019) 61;Durazno;Aceramico;URG;-55.42058;-32.51167
+421;Ponto Suarez e Cardillo (2019) 18;Florida;Aceramico;URG;-56.32366;-33.41044
+422;Ponto Suarez e Cardillo (2019) 17;Florida;Aceramico;URG;-55.63492;-33.29945
+423;Ponto Suarez e Cardillo (2019) 24;Lavalleja;Aceramico;URG;-55.62282;-34.24007
+424;Ponto Suarez e Cardillo (2019) 26;Lavalleja;Aceramico;URG;-55.55737;-34.58728
+425;Ponto Suarez e Cardillo (2019) 25;Lavalleja;Aceramico;URG;-55.52321;-34.41652
+426;Ponto Suarez e Cardillo (2019) 27;Lavalleja;Aceramico;URG;-55.42787;-34.59725
+427;Ponto Suarez e Cardillo (2019) 29;Maldonado;Aceramico;URG;-55.46487;-34.70824
+428;Ponto Suarez e Cardillo (2019) 30;Maldonado;Aceramico;URG;-55.37949;-34.66697
+429;Ponto Suarez e Cardillo (2019) 31;Maldonado;Aceramico;URG;-55.35103;-34.76659
+430;Ponto Suarez e Cardillo (2019) 32;Maldonado;Aceramico;URG;-55.26991;-34.71536
+431;Ponto Suarez e Cardillo (2019) 33;Maldonado;Aceramico;URG;-54.91416;-34.88185
+432;Ponto Suarez e Cardillo (2019) 12;Paysandú;Aceramico;URG;-57.89326;-31.53347
+433;Ponto Suarez e Cardillo (2019) 13;Paysandú;Aceramico;URG;-57.87761;-31.64589
+434;Ponto Suarez e Cardillo (2019) 81;Río Negro;Aceramico;URG;-57.19269;-33.01017
+435;Ponto Suarez e Cardillo (2019) 82;Río Negro;Aceramico;URG;-57.12776;-32.90167
+436;Ponto Suarez e Cardillo (2019) 83;Río Negro;Aceramico;URG;-57.00236;-32.8741
+437;Ponto Suarez e Cardillo (2019) 85;Río Negro;Aceramico;URG;-56.97568;-32.62773
+438;Ponto Suarez e Cardillo (2019) 86;Río Negro;Aceramico;URG;-56.84938;-32.63396
+439;Ponto Suarez e Cardillo (2019) 95;Río Negro;Aceramico;URG;-56.81203;-32.39649
+440;Ponto Suarez e Cardillo (2019) 87;Río Negro;Aceramico;URG;-56.71864;-32.64019
+441;Ponto Suarez e Cardillo (2019) 94;Río Negro;Aceramico;URG;-56.68751;-32.40005
+442;Ponto Suarez e Cardillo (2019) 15;Rivera;Aceramico;URG;-55.55665;-31.727
+443;Ponto Suarez e Cardillo (2019) 48;Rivera;Aceramico;URG;-53.6562;-33.14149
+444;Ponto Suarez e Cardillo (2019) 34;Rocha;Aceramico;URG;-54.43744;-34.6499
+445;Ponto Suarez e Cardillo (2019) 35;Rocha;Aceramico;URG;-54.23822;-34.60578
+446;Ponto Suarez e Cardillo (2019) 36;Rocha;Aceramico;URG;-54.076;-34.38095
+447;Ponto Suarez e Cardillo (2019) 37;Rocha;Aceramico;URG;-53.965;-34.40656
+448;Ponto Suarez e Cardillo (2019) 39;Rocha;Aceramico;URG;-53.86681;-34.29556
+449;Ponto Suarez e Cardillo (2019) 40;Rocha;Aceramico;URG;-53.85685;-34.03373
+450;Ponto Suarez e Cardillo (2019) 38;Rocha;Aceramico;URG;-53.84547;-34.39945
+451;Ponto Suarez e Cardillo (2019) 44;Rocha;Aceramico;URG;-53.71739;-33.89
+452;Ponto Suarez e Cardillo (2019) 47;Rocha;Aceramico;URG;-53.63913;-33.25249
+453;Ponto Suarez e Cardillo (2019) 43;Rocha;Aceramico;URG;-53.62917;-33.94835
+454;Ponto Suarez e Cardillo (2019) 46;Rocha;Aceramico;URG;-53.62205;-33.4204
+455;Ponto Suarez e Cardillo (2019) 41;Rocha;Aceramico;URG;-53.60497;-34.09776
+456;Ponto Suarez e Cardillo (2019) 42;Rocha;Aceramico;URG;-53.57651;-34.00242
+457;Ponto Suarez e Cardillo (2019) 11;Salto, São Paulo;Aceramico;URG;-57.77444;-31.04822
+458;Ponto Suarez e Cardillo (2019) 10;Salto, São Paulo;Aceramico;URG;-57.74598;-30.849
+459;Ponto Suarez e Cardillo (2019) 21;San Jose, California;Aceramico;URG;-57.12056;-33.94265
+460;Ponto Suarez e Cardillo (2019) 22;San Jose, California;Aceramico;URG;-56.73776;-34.11911
+461;Ponto Suarez e Cardillo (2019) 19;Soriano;Aceramico;URG;-57.34682;-33.75055
+462;Ponto Suarez e Cardillo (2019) 88;Tacuarembó;Aceramico;URG;-56.58968;-32.71756
+463;Ponto Suarez e Cardillo (2019) 93;Tacuarembó;Aceramico;URG;-56.58701;-32.60995
+464;Ponto Suarez e Cardillo (2019) 89;Tacuarembó;Aceramico;URG;-56.48918;-32.70689
+465;Ponto Suarez e Cardillo (2019) 90;Tacuarembó;Aceramico;URG;-56.45716;-32.61261
+466;Ponto Suarez e Cardillo (2019) 91;Tacuarembó;Aceramico;URG;-56.44026;-32.52723
+467;Ponto Suarez e Cardillo (2019) 69;Tacuarembó;Aceramico;URG;-56.21036;-32.56147
+468;Ponto Suarez e Cardillo (2019) 67;Tacuarembó;Aceramico;URG;-56.08317;-32.47609
+469;Ponto Suarez e Cardillo (2019) 66;Tacuarembó;Aceramico;URG;-55.98712;-32.4752
+470;Ponto Suarez e Cardillo (2019) 65;Tacuarembó;Aceramico;URG;-55.83859;-32.42362
+471;Ponto Suarez e Cardillo (2019) 64;Tacuarembó;Aceramico;URG;-55.71497;-32.40494
+472;Ponto Suarez e Cardillo (2019) 70;Tacuarembó;Aceramico;URG;-55.66916;-31.9618
+473;Ponto Suarez e Cardillo (2019) 55;Tacuarembó;Aceramico;URG;-55.64559;-32.07053
+474;Ponto Suarez e Cardillo (2019) 57;Tacuarembó;Aceramico;URG;-55.59845;-32.14257
+475;Ponto Suarez e Cardillo (2019) 60;Tacuarembó;Aceramico;URG;-55.56021;-32.3747
+476;Ponto Suarez e Cardillo (2019) 56;Tacuarembó;Aceramico;URG;-55.54331;-32.08031
+477;Ponto Suarez e Cardillo (2019) 53;Tacuarembó;Aceramico;URG;-55.54287;-31.9638
+478;Ponto Suarez e Cardillo (2019) 54;Tacuarembó;Aceramico;URG;-55.5024;-32.02339
+479;Ponto Suarez e Cardillo (2019) 58;Tacuarembó;Aceramico;URG;-55.49173;-32.24841
+480;Ponto Suarez e Cardillo (2019) 45;Treinta y Tres;Aceramico;URG;-54.16849;-33.39194
+481;Ponto Suarez e Cardillo (2019) 50;Treinta y Tres;Aceramico;URG;-53.57153;-32.94725
+482;Ponto Suarez e Cardillo (2019) 51;Treinta y Tres;Aceramico;URG;-53.35096;-32.80139
+483;Laguna Canosa;Artigas;Aceramico;URG;-57.5805;-30.2993
+484;Pay Paso 1;Artigas;Aceramico;URG;-57.45;-30.266
+485;CalpicalD03;Artigas;Aceramico;URG;-57.366;-30.4167
+486;Mt Site;Canelones;Aceramico;URG;-55.546523;-34.782504
+487;Tres Pinos;Colonia del Sacramento;Aceramico;URG;-57.784608;-34.396503
+488;M8;Colonia del Sacramento;Aceramico;URG;-57.625306;-34.369303
+489;Minas de Callorda;Durazno;Aceramico;URG;-56.425;-32.883333
+490;Urupez II;Maldonado;Aceramico;URG;-55.147024;-34.703165
+491;Puerto La Tuna;Montevideo;Aceramico;URG;-56.331491;-34.772634
+492;Lago Castillos;Rocha;Aceramico;URG;-54.505697;-34.698649
+493;Craneo Marcado;Rocha;Aceramico;URG;-53.977772;-34.293654
+494;Guardia del Monte;Rocha;Aceramico;URG;-53.884732;-34.291101
+495;Cabo Polonio;Rocha;Aceramico;URG;-53.793375;-34.401629
+496;Isla Larga;Rocha;Aceramico;URG;-53.646822;-33.599425
+497;La Esmeralda;Rocha;Aceramico;URG;-53.593937;-34.081508
+498;Tigre (K87);Treinta y Tres;Aceramico;URG;-54.583;-33.3
+499;Nené Montesdeoca;Río Negro;Aceramico;URG;-58.35163;-33.16715
+1162;Invernada dos Negros I I;Abdon Batista;Aceramico;SC;-51.06189726;-27.56787773
+1163;SC-CHA-028;Águas Frias;Aceramico;SC;-52.86296485;-26.89448884
+1164;Nelito Hang;Angelina;Aceramico;SC;-49.18204556;-27.54031942
+1165;Três Riachos I;Biguaçu;Aceramico;SC;-48.75179891;-27.47241855
+1166;Santa Terezinha I;Biguaçu;Aceramico;SC;-48.71645061;-27.49247152
+1167;Rússia I;Biguaçu;Aceramico;SC;-48.70687411;-27.50486606
+1168;Rússia II;Biguaçu;Aceramico;SC;-48.70655279;-27.50376888
+1169;Encruzilhada I;Campos Novos;Aceramico;SC;-51.41329391;-27.54421086
+1170;Encruzilhada II;Campos Novos;Aceramico;SC;-51.39957555;-27.54847597
+1171;Isidro Manfroi;Campos Novos;Aceramico;SC;-51.29050313;-27.55326065
+1172;Sebastiao Becker;Campos Novos;Aceramico;SC;-51.14246212;-27.55785172
+1173;Augustinho Wilpert;Campos Novos;Aceramico;SC;-51.13232318;-27.55846661
+1174;Sitio Santa Teresinha;Canoinhas;Aceramico;SC;-50.5036621;-26.03668124
+1175;SC-CHA-027;Coronel Freitas;Aceramico;SC;-52.85839571;-26.90685134
+1176;Sitio do Platô;Curitibanos;Aceramico;SC;-50.5224183;-27.46082301
+1177;Doutor Pedrinho II;Doutor Pedrinho;Aceramico;SC;-49.52052574;-26.67715997
+1178;Doutor Pedrinho III;Doutor Pedrinho;Aceramico;SC;-49.49396769;-26.70466629
+1179;SC-PIX-01;Ibicaré;Aceramico;SC;-51.35129134;-27.09250761
+1180;mirim doce 2;Mirim Doce;Aceramico;SC;-50.21639876;-27.19935008
+1181;Mirim doce;Mirim Doce;Aceramico;SC;-50.18641987;-27.19694039
+1182;SC-CHA-012;Nova Erechim;Aceramico;SC;-52.89504352;-26.85325629
+1183;SC-CHA-011;Nova Erechim;Aceramico;SC;-52.89440715;-26.85311138
+1184;SC-CHA-014;Nova Erechim;Aceramico;SC;-52.88927358;-26.87239611
+1185;SC-CHA-015;Nova Erechim;Aceramico;SC;-52.8874528;-26.87123806
+1186;SC-CHA-016;Nova Erechim;Aceramico;SC;-52.88680193;-26.87083156
+1187;SC-CHA-013;Nova Erechim;Aceramico;SC;-52.88037574;-26.87964523
+1188;SC-CHA-017;Nova Erechim;Aceramico;SC;-52.87583745;-26.86446988
+1189;Pedra Branca 01;Palhoça;Aceramico;SC;-48.697708;-27.627933
+1190;Aririú I;Palhoça;Aceramico;SC;-48.69471879;-27.67721497
+1191;Santa Terezinha IV;Passos Maia;Aceramico;SC;-51.978375;-26.572326
+1192;SC-CHA-07;Pinhalzinho;Aceramico;SC;-53.02387682;-26.83925006
+1193;Santa Rosa de Lima 2;Santa Rosa, Paraguay;Aceramico;SC;-49.14780339;-28.08755891
+1194;Santa Rosa de Lima;Santa Rosa, Paraguay;Aceramico;SC;-49.14661173;-28.08229053
+1195;Santa Rosa de Lima 1;Santa Rosa, Paraguay;Aceramico;SC;-49.14643348;-28.08792846
+1196;SC-CHA-02;São Carlos;Aceramico;SC;-53.05296388;-27.0016644
+1197;SC-CHA-01;São Carlos;Aceramico;SC;-53.04815075;-26.99793488
+1198;SC-URG-02;São Carlos;Aceramico;SC;-53.04240789;-27.04806288
+1199;SC-CHA-03;São Carlos;Aceramico;SC;-53.03471044;-26.97833735
+1200;Alto das Palmeiras;Taió;Aceramico;SC;-50.15783246;-27.06264769
+1201;Fazenda Piazera;Taió;Aceramico;SC;-50.15686725;-27.09460972
+1202;HCR-HIMASA;Taió;Aceramico;SC;-50.13858686;-27.10026766
+1203;Vizentaimer;Taió;Aceramico;SC;-50.13611707;-27.10137196
+1204;Passo Manso;Taió;Aceramico;SC;-50.10988999;-27.05154611
+1205;Arno Zangheilini;Taió;Aceramico;SC;-50.09917083;-27.08825729
+1206;Orli Nardelli;Taió;Aceramico;SC;-50.09491264;-27.05960271
+1207;Claudenir Cardoso;Taió;Aceramico;SC;-50.09279932;-27.02926151
+1208;Barragem Taió 1;Taió;Aceramico;SC;-50.05390282;-27.09585625
+1209;Laudelino Lückmann;Taió;Aceramico;SC;-50.03387819;-27.12758164
+1210;Artur Melchert;Taió;Aceramico;SC;-50.03363386;-27.05177862
+1211;Cohab I;Taió;Aceramico;SC;-49.99680213;-27.12834178
+1212;Ribeirao dos Lobos 2;Taió;Aceramico;SC;-49.99072129;-27.19085013
+1213;Ribeirao dos Lobos;Taió;Aceramico;SC;-49.98753165;-27.18968064
+1214;SC-ARA-063 - Poco da Lontra;Turvo;Aceramico;SC;-49.608245;-28.904809
+1215;SC-IRA-001;Xanxerê;Aceramico;SC;-52.37873003;-26.96923062
+1216;Gruta do Presepio;Rio do Oeste;Aceramico;SC;-49.77737334;-27.21959766
+1217;Joao Roque Vingla I;Anita Garibaldi;Aceramico;SC;-51.1814059;-27.76636648
+1218;Sitio oficina litica santa catarina;Anita Garibaldi;Aceramico;SC;-51.01046563;-27.78947646
+1219;Laranjeiras III;Balneario CamboriÃº;Aceramico;SC;-48.58839197;-26.99668304
+1220;Estaleiro I;Balneario CamboriÃº;Aceramico;SC;-48.57821792;-27.02345354
+1221;Oficina Litica Ponta dos Naufragos;Barra Velha;Aceramico;SC;-48.68176668;-26.64009802
+1222;Oficina Litica Praia da Lagoinha;Bombinhas;Aceramico;SC;-48.4826564;-27.14759221
+1223;SPC.UHE.SR.02;Brunópolis;Aceramico;SC;-50.75581456;-27.41989243
+1224;Joao Batista Carneiro;Campos Novos;Aceramico;SC;-51.45973126;-27.53929839
+1225;Naufragados I;Florianópolis;Aceramico;SC;-48.560094;-27.835185
+1226;Oficina Litica das Orquideas;Florianópolis;Aceramico;SC;-48.54667786;-27.61327221
+1227;Ilha Irma do Meio I;Florianópolis;Aceramico;SC;-48.520823;-27.834801
+1228;Matadeiro I;Florianópolis;Aceramico;SC;-48.4955464;-27.75766912
+1229;Vera Muccillo;Florianópolis;Aceramico;SC;-48.47553142;-27.42765572
+1230;Sitio Arqueológico Pedra da Guincha;Florianópolis;Aceramico;SC;-48.466805;-27.69302
+1231;Sitio Arqueológico Ponta da Piteira;Florianópolis;Aceramico;SC;-48.465759;-27.691783
+1232;Sitio Arqueológico Oficina Litica;Florianópolis;Aceramico;SC;-48.465344;-27.694825
+1233;Ingleses III;Florianópolis;Aceramico;SC;-48.40373057;-27.41414018
+1234;Santinho III;Florianópolis;Aceramico;SC;-48.37020915;-27.44976134
+1235;Oficina litica da Vigia I;Garopaba;Aceramico;SC;-48.61040622;-28.01945539
+1236;Oficina litica da Vigia II;Garopaba;Aceramico;SC;-48.608298;-28.017334
+1237;Oficina Litica Ponta da Guaiúba;Imbitubakj;Aceramico;SC;-48.72115155;-28.28971966
+1238;Rio Bonito;Ituporanga;Aceramico;SC;-49.44413262;-27.54099159
+1239;Barragem Norte 2;José Boiteux;Aceramico;SC;-49.679137;-26.895029
+1240;Fazenda Pai Querê III;Lages;Aceramico;SC;-50.64783602;-28.32256587
+1241;Praia de Seixos da Barra I;Lages;Aceramico;SC;-50.42535138;-28.43271962
+1242;Praia de Seixos do Praiao;Lages;Aceramico;SC;-50.40850039;-28.42392788
+1243;Passo do Ira I;Lages;Aceramico;SC;-50.40032744;-28.39028652
+1244;Praia de Seixos da Invernada Velha;Lages;Aceramico;SC;-50.39094383;-28.38546988
+1245;Guarda do Embaú III;Palhoça;Aceramico;SC;-48.58409971;-27.90467807
+1246;Ilha do Papagaio I;Palhoça;Aceramico;SC;-48.580606;-27.855334
+1247;Oficina litica Praia Grande;Penha;Aceramico;SC;-48.59680412;-26.78129251
+1248;Enseada das Garoupas;Porto Belo;Aceramico;SC;-48.549659;-27.156981
+1249;Oficina do Tigre;Rio do Oeste;Aceramico;SC;-49.775285;-27.219453
+1250;Alto Palmeiras 1;Rio dos Cedros;Aceramico;SC;-49.369139;-26.546824
+1251;Laranjeiras VII;São Francisco do Sul;Aceramico;SC;-48.6711476;-26.2755059
+1252;Praia de Seixos do Cachoeirao II;São Joaquim;Aceramico;SC;-50.40626587;-28.39984452
+1253;Praia de Seixos da Serraria;São Joaquim;Aceramico;SC;-50.3908532;-28.44056705
+1254;Praia de Seixos do Rio Morto I;São Joaquim;Aceramico;SC;-50.3852816;-28.44513645
+1255;Praia de Seixos da Ponte I;São Joaquim;Aceramico;SC;-50.29237179;-28.45073271
+1256;Praia de Seixos da Volta da Couve;São Joaquim;Aceramico;SC;-50.25298503;-28.44861764
+1257;Barragem Taió 03;Taió;Aceramico;SC;-50.09265488;-27.06853179
+1258;Cachoeira do Escorpiao;Timbé do Sul;Aceramico;SC;-49.89509954;-28.76826173
+1259;Arthur Piassoli II;Timbé do Sul;Aceramico;SC;-49.85815628;-28.82151053
+1260;Arthur Piassoli I;Timbé do Sul;Aceramico;SC;-49.84442176;-28.82817154
+1261;Oficina litica do rio Sao Francisco;Urubici;Aceramico;SC;-49.63393112;-27.95914859
+1262;Base Aerea II;Florianópolis;Aceramico;SC;-48.57174385;-27.67399435
+2189;RS-I-50: Lageado dos Fósseis;Alegrete;Aceramico;RS;-55.7;-29.583333
+2190;Pedra Grande 8;São Pedro do Sul;Aceramico;RS;-54.112058;-29.652223
+2191;Porto das Laranjeiras;Itaqui;Aceramico;RS;-56.305224;-28.950467
+2192;Schmitz;Bom Princípio;Aceramico;RS;-51.404167;-29.568056
+2193;RS-IBI-038;Alegrete;Aceramico;RS;-56.03341373;-29.416354
+2194;RS-IBI-051;Alegrete;Aceramico;RS;-56.02752179;-29.4299926
+2195;RS-IBI-039;Alegrete;Aceramico;RS;-56.02282313;-29.44374794
+2196;RS-IBI-053;Alegrete;Aceramico;RS;-56.01468192;-29.47213366
+2197;RS-IBI-052;Alegrete;Aceramico;RS;-56.00782852;-29.46102756
+2198;RS-IBI-047;Alegrete;Aceramico;RS;-55.99462844;-29.53104948
+2199;RS-IBI-040;Alegrete;Aceramico;RS;-55.97745614;-29.59980219
+2200;RS-IBI-042;Alegrete;Aceramico;RS;-55.9733116;-29.67247046
+2201;RS-IBI-041;Alegrete;Aceramico;RS;-55.97015702;-29.63723303
+2202;RS-IBI-049;Alegrete;Aceramico;RS;-55.9671462;-29.67209767
+2203;RS-IBI-046;Alegrete;Aceramico;RS;-55.96442628;-29.68642507
+2204;RS-IBI-050;Alegrete;Aceramico;RS;-55.96278096;-29.6916553
+2205;RS-IBI-045;Alegrete;Aceramico;RS;-55.95932267;-29.72132698
+2206;RS-IBI-085;Alegrete;Aceramico;RS;-55.95554508;-29.76461337
+2207;RS-IBI-043;Alegrete;Aceramico;RS;-55.95541715;-29.70610844
+2208;RS-IBI-044;Alegrete;Aceramico;RS;-55.95077639;-29.71400405
+2209;RS-IBI-060;Alegrete;Aceramico;RS;-55.95063003;-29.89258098
+2210;RS-IBI-059;Alegrete;Aceramico;RS;-55.94410427;-29.94374883
+2211;RS-IBI-081;Alegrete;Aceramico;RS;-55.94263504;-29.90042214
+2212;RS-IBI-080;Alegrete;Aceramico;RS;-55.94015008;-29.9912278
+2213;RS-IBI-079;Alegrete;Aceramico;RS;-55.93989851;-30.02366642
+2214;RS-IBI-030;Alegrete;Aceramico;RS;-55.84641129;-30.14018655
+2215;RS-IBI-029;Alegrete;Aceramico;RS;-55.83503613;-30.09391275
+2216;RS-IBI-065;Alegrete;Aceramico;RS;-55.83354729;-30.09344837
+2217;RS-IBI-027;Alegrete;Aceramico;RS;-55.83331806;-30.06877591
+2218;RS-IBI-028;Alegrete;Aceramico;RS;-55.83077127;-30.09478625
+2219;RS-IBI-026;Alegrete;Aceramico;RS;-55.8240295;-30.03747155
+2220;RS-IBI-025;Alegrete;Aceramico;RS;-55.81590558;-29.99586295
+2221;RS-IBI-024;Alegrete;Aceramico;RS;-55.80606839;-29.95419309
+2222;RS-IBI-064;Alegrete;Aceramico;RS;-55.7389757;-29.87088456
+2223;RS-IBI-063;Alegrete;Aceramico;RS;-55.73806079;-29.86954031
+2224;RS-IBI-061;Alegrete;Aceramico;RS;-55.7205023;-29.7792876
+2225;RS I 15 - edson dos Anjos;Alegrete;Aceramico;RS;-55.72023831;-29.8159167
+2226;Arroio Jararaca;Alegrete;Aceramico;RS;-55.71611111;-29.79805555
+2227;RS-IBI-021;Alegrete;Aceramico;RS;-55.71551244;-29.7828397
+2228;RS-IBI-022;Alegrete;Aceramico;RS;-55.70997092;-29.79146658
+2229;RS-IBI-062;Alegrete;Aceramico;RS;-55.70472528;-29.80917394
+2230;RS-IBI-023;Alegrete;Aceramico;RS;-55.69736094;-29.83209385
+2231;RS-URG-01;Alpestre;Aceramico;RS;-53.04429428;-27.1236658
+2232;RS-URG-11;Alpestre;Aceramico;RS;-53.03908958;-27.10419315
+2233;Sitio dos Polidores;Antônio Prado;Aceramico;RS;-51.45948309;-28.89274886
+2234;Sitio Ponta - Ponta;Antônio Prado;Aceramico;RS;-51.45410453;-28.88704463
+2235;Morrinhos RS J 33C;Barão;Aceramico;RS;-51.85871147;-30.32056311
+2236;Morrinhos RS J33A;Barão do Triunfo;Aceramico;RS;-51.85080319;-30.31390535
+2237;Morrinhos RS J33B;Barão do Triunfo;Aceramico;RS;-51.85043614;-30.31114649
+2238;RS-BJC-001;Barão do Triunfo;Aceramico;RS;-51.70117003;-30.42650712
+2239;RS - P - 74;Bom Jesus;Aceramico;RS;-50.70665172;-28.32317703
+2240;RS - P - 47;Bom Jesus;Aceramico;RS;-50.67183259;-28.33403819
+2241;RS - P - 50;Bom Jesus;Aceramico;RS;-50.67168359;-28.33936362
+2242;RS - P - 53;Bom Jesus;Aceramico;RS;-50.67031115;-28.34437918
+2243;RS - P - 49;Bom Jesus;Aceramico;RS;-50.66970521;-28.3324624
+2244;RS - P - 54;Bom Jesus;Aceramico;RS;-50.66937222;-28.34445815
+2245;RS - P - 52;Bom Jesus;Aceramico;RS;-50.66895289;-28.34478209
+2246;RS - P - 56;Bom Jesus;Aceramico;RS;-50.66883823;-28.34885288
+2247;RS - P - 57;Bom Jesus;Aceramico;RS;-50.66147519;-28.34761619
+2248;RS - P - 58;Bom Jesus;Aceramico;RS;-50.65989094;-28.3452653
+2249;RS - P - 76;Bom Jesus;Aceramico;RS;-50.51708077;-28.43686958
+2250;RS - P - 69;Bom Jesus;Aceramico;RS;-50.24873716;-28.43244873
+2251;RS - P - 68;Bom Jesus;Aceramico;RS;-50.24774863;-28.43217248
+2252;RS-BIC-013;Bossoroca;Aceramico;RS;-55.19789088;-28.71342099
+2253;RS-BIC-005;Bossoroca;Aceramico;RS;-55.11998836;-28.67601281
+2254;RS-BIC-004;Bossoroca;Aceramico;RS;-55.11433742;-28.67273979
+2255;RS-BIC-003;Bossoroca;Aceramico;RS;-55.10498753;-28.66296284
+2256;RS-BIC-001;Bossoroca;Aceramico;RS;-55.07676887;-28.65522867
+2257;Ferramenta;Bossoroca;Aceramico;RS;-55.06156936;-28.6823354
+2258;Ravina;Bossoroca;Aceramico;RS;-55.05733613;-28.68050607
+2259;Menghin;Bossoroca;Aceramico;RS;-55.05132646;-28.67404903
+2260;Mutuca;Bossoroca;Aceramico;RS;-55.04907675;-28.67121931
+2261;Riacho;Bossoroca;Aceramico;RS;-55.0485907;-28.67260194
+2262;Timbaúva;Bossoroca;Aceramico;RS;-54.97936159;-28.61191441
+2263;RS-PIR-010;Bossoroca;Aceramico;RS;-54.96910989;-28.60264754
+2264;RS-PIR-008;Bossoroca;Aceramico;RS;-54.95092864;-28.59221363
+2265;Ovelha Morta;Bossoroca;Aceramico;RS;-54.94878438;-28.59470775
+2266;RS-PIR-005;Bossoroca;Aceramico;RS;-54.90727724;-28.57814741
+2267;Sitio Barranco;Caxias do Sul;Aceramico;RS;-51.03063284;-29.12639844
+2268;Sitio das Macieiras;Caxias do Sul;Aceramico;RS;-51.03063073;-29.11925903
+2269;RS-MSG-102 AREIAL I;Chuí;Aceramico;RS;-53.39933658;-33.74131516
+2270;RS-MSG-103 AREIAL II;Chuí;Aceramico;RS;-53.39606245;-33.74427299
+2271;RS-MSG-105 AREIAL IV;Chuí;Aceramico;RS;-53.39524442;-33.74318889
+2272;RS-MSG-104 AREIAL III;Chuí;Aceramico;RS;-53.3942264;-33.74461518
+2273;RS CA 04 - Agropecuaria Tapera;Encruzilhada do Sul;Aceramico;RS;-52.60598054;-30.89599679
+2274;RS CA 01 - Elso dos Santos Leite - km 44;Encruzilhada do Sul;Aceramico;RS;-52.57685589;-30.87214335
+2275;RS CA 05 - Hilda Prestes;Encruzilhada do Sul;Aceramico;RS;-52.57255354;-30.83053045
+2276;Sitio do Vinhedo;Fagundes Varela;Aceramico;RS;-51.79035238;-28.93052093
+2277;NIENTE;Giruá;Aceramico;RS;-54.36690056;-28.16349367
+2278;Elemar Mundt;Ibarama;Aceramico;RS;-53.24880412;-29.42467028
+2279;Euclides Leal;Ibarama;Aceramico;RS;-53.22464242;-29.37423795
+2280;Casa de Maquinas;Ijuí;Aceramico;RS;-53.88194662;-28.30290994
+2281;area do Canal;Ijuí;Aceramico;RS;-53.8792286;-28.29773539
+2282;PICA-PAU;Itacurubi;Aceramico;RS;-55.13030314;-28.74502496
+2283;ICAMAQUa;Itacurubi;Aceramico;RS;-55.1241982;-28.74287393
+2284;RS-I-71: Barbosa;Itaqui;Aceramico;RS;-56.7275;-29.37027778
+2285;RS-IJ-67:Pessegueiro;Itaqui;Aceramico;RS;-56.39722222;-28.9975
+2286;RS-IBI-008;Itaqui;Aceramico;RS;-55.9966108;-29.15449642
+2287;RS-IBI-005;Itaqui;Aceramico;RS;-55.97233474;-29.1536265
+2288;RS-IBI-004;Itaqui;Aceramico;RS;-55.97181563;-29.15516579
+2289;RS-BIC-030;Maçambara;Aceramico;RS;-55.78766929;-29.07874764
+2290;RS-BIC-029;Maçambara;Aceramico;RS;-55.78643238;-29.07997285
+2291;RS-BIC-028;Maçambara;Aceramico;RS;-55.76949627;-29.07781511
+2292;RS-BIC-027;Maçambara;Aceramico;RS;-55.69414471;-29.04659065
+2293;Alcides Drescher;Nova Palma;Aceramico;RS;-53.2840833;-29.43132317
+2294;RS-IBI-078;Quaraí;Aceramico;RS;-55.93721178;-30.08688322
+2295;RS-IBI-058;Quaraí;Aceramico;RS;-55.93693058;-30.12478946
+2296;RS-IBI-077;Quaraí;Aceramico;RS;-55.93574186;-30.10398929
+2297;RS-IBI-056;Quaraí;Aceramico;RS;-55.93513585;-30.28198331
+2298;RS-IBI-071;Quaraí;Aceramico;RS;-55.93432143;-30.27268252
+2299;RS-IBI-076;Quaraí;Aceramico;RS;-55.93088886;-30.15467181
+2300;RS-IBI-075;Quaraí;Aceramico;RS;-55.92972244;-30.17421644
+2301;RS-IBI-068;Quaraí;Aceramico;RS;-55.92850133;-30.38050053
+2302;RS-IBI-069;Quaraí;Aceramico;RS;-55.92790868;-30.3737733
+2303;RS-IBI-070;Quaraí;Aceramico;RS;-55.92679221;-30.30634158
+2304;RS-IBI-074;Quaraí;Aceramico;RS;-55.92674171;-30.21348967
+2305;RS-IBI-073;Quaraí;Aceramico;RS;-55.92576334;-30.25283315
+2306;RS-IBI-054;Quaraí;Aceramico;RS;-55.92445192;-30.41098401
+2307;RS-IBI-057;Quaraí;Aceramico;RS;-55.92063419;-30.23046689
+2308;RS-IBI-055;Quaraí;Aceramico;RS;-55.91555327;-30.27299764
+2309;RS-IBI-084;Quaraí;Aceramico;RS;-55.91377045;-30.40630275
+2310;RS-IBI-083;Quaraí;Aceramico;RS;-55.89018205;-30.36387561
+2311;RS-IBI-082;Quaraí;Aceramico;RS;-55.88494004;-30.3058382
+2312;RS-IBI-037;Quaraí;Aceramico;RS;-55.86420502;-30.23801173
+2313;RS-IBI-034;Quaraí;Aceramico;RS;-55.86229126;-30.22280873
+2314;RS-IBI-033;Quaraí;Aceramico;RS;-55.86098695;-30.22328466
+2315;RS-IBI-067;Quaraí;Aceramico;RS;-55.86021242;-30.17418134
+2316;RS-IBI-032;Quaraí;Aceramico;RS;-55.85688293;-30.19450028
+2317;RS-IBI-066;Quaraí;Aceramico;RS;-55.85177856;-30.16350521
+2318;RS-SAM-004;Rosário do Sul;Aceramico;RS;-55.02439549;-30.38561851
+2319;RS-SAM-006;Rosário do Sul;Aceramico;RS;-54.96301394;-30.34189656
+2320;RS-SAM-008;Rosário do Sul;Aceramico;RS;-54.88730373;-30.31393809
+2321;RS-SAM-009;Rosário do Sul;Aceramico;RS;-54.86304619;-30.29859602
+2322;RS-SAM-007;Rosário do Sul;Aceramico;RS;-54.80325421;-30.2764425
+2323;Linha Salto 3;Santa Rosa, Paraguay;Aceramico;RS;-54.59462092;-27.84698212
+2324;Torre 50;Santa Rosa, Paraguay;Aceramico;RS;-54.59158449;-27.83127012
+2325;Torre 51;Santa Rosa, Paraguay;Aceramico;RS;-54.56938033;-27.82975287
+2326;Liebens 1;Santa Rosa, Paraguay;Aceramico;RS;-54.56705963;-27.83429072
+2327;Torre 37;Santa Rosa, Paraguay;Aceramico;RS;-54.56694259;-27.82983622
+2328;Almeida 1;Santa Rosa, Paraguay;Aceramico;RS;-54.56112011;-27.89737271
+2329;Camargo 1;Santa Rosa, Paraguay;Aceramico;RS;-54.56073303;-27.86254683
+2330;Cascatao Santo Cristo 2;Santa Rosa, Paraguay;Aceramico;RS;-54.55958863;-27.83976196
+2331;Cascatao Santo Cristo 1;Santa Rosa, Paraguay;Aceramico;RS;-54.55619436;-27.84084776
+2332;Cascatao 3;Santa Rosa, Paraguay;Aceramico;RS;-54.55389939;-27.83998601
+2333;Torre 48;Santa Rosa, Paraguay;Aceramico;RS;-54.55312839;-27.83032277
+2334;Balneario Silva 1;Santa Rosa, Paraguay;Aceramico;RS;-54.54286711;-27.79803237
+2335;Hermann 1;Santa Rosa, Paraguay;Aceramico;RS;-54.53784535;-27.93850811
+2336;Silo 1;Santa Rosa, Paraguay;Aceramico;RS;-54.52737521;-27.78810144
+2337;Arlindo 1;Santa Rosa, Paraguay;Aceramico;RS;-54.52710931;-27.92813809
+2338;Gunilde 1;Santa Rosa, Paraguay;Aceramico;RS;-54.52255755;-27.85997133
+2339;Manchinha 1;Santa Rosa, Paraguay;Aceramico;RS;-54.51949925;-27.80163869
+2340;Torre 33;Santa Rosa, Paraguay;Aceramico;RS;-54.49514333;-27.82730625
+2341;RS-MSG-100 BARRANCA DA BARRA;Santa Vitória do Palmar;Aceramico;RS;-53.38264781;-33.74391062
+2342;RS-MSG-106 AREIAL V;Santa Vitória do Palmar;Aceramico;RS;-53.38020012;-33.74047757
+2343;RS-MSG-109 PRAIA III;Santa Vitória do Palmar;Aceramico;RS;-53.33237386;-33.71237589
+2344;RS-MSG-108 PRAIA II;Santa Vitória do Palmar;Aceramico;RS;-53.32987784;-33.70904184
+2345;RS-MSG-107 PRAIA;Santa Vitória do Palmar;Aceramico;RS;-53.32833339;-33.71177592
+2346;RS-MSG-090 arroio da carqueja;Santa Vitória do Palmar;Aceramico;RS;-53.23494427;-33.60591396
+2347;RS-MSG-086 - BARRANCO DAS LASCAS;Santa Vitória do Palmar;Aceramico;RS;-53.20586536;-33.57481383
+2348;RS-MSG-087 Stella oliveira castaman;Santa Vitória do Palmar;Aceramico;RS;-53.2044466;-33.57409071
+2349;RS-MSG-096 conglomerado;Santa Vitória do Palmar;Aceramico;RS;-53.20239901;-33.57363125
+2350;RS-MSG-088 - LAURA ERMENIANA CORRÊA;Santa Vitória do Palmar;Aceramico;RS;-53.20220156;-33.57221911
+2351;RS-QUA-002;Santana do Livramento;Aceramico;RS;-55.92622978;-30.45016852
+2352;RS-QUA-027;Santana do Livramento;Aceramico;RS;-55.92075275;-30.47463032
+2353;RS-QUA-026;Santana do Livramento;Aceramico;RS;-55.91518342;-30.48554725
+2354;RS-QUA-025;Santana do Livramento;Aceramico;RS;-55.91191171;-30.49400174
+2355;RS-QUA-024;Santana do Livramento;Aceramico;RS;-55.91046945;-30.49906971
+2356;RS-QUA-023;Santana do Livramento;Aceramico;RS;-55.90250166;-30.51639039
+2357;RS-QUA-022;Santana do Livramento;Aceramico;RS;-55.89349745;-30.53752747
+2358;RS-QUA-019;Santana do Livramento;Aceramico;RS;-55.87846587;-30.57380673
+2359;RS-QUA-018;Santana do Livramento;Aceramico;RS;-55.87631569;-30.57940949
+2360;RS-QUA-017;Santana do Livramento;Aceramico;RS;-55.87491064;-30.58368326
+2361;RS-QUA-015;Santana do Livramento;Aceramico;RS;-55.87461609;-30.59112465
+2362;RS-QUA-014;Santana do Livramento;Aceramico;RS;-55.8723152;-30.59167318
+2363;RS-QUA-016;Santana do Livramento;Aceramico;RS;-55.87226593;-30.58872225
+2364;RS-QUA-013;Santana do Livramento;Aceramico;RS;-55.87000086;-30.59158092
+2365;RS-QUA-010;Santana do Livramento;Aceramico;RS;-55.86930389;-30.59411933
+2366;RS-QUA-012;Santana do Livramento;Aceramico;RS;-55.86838083;-30.59726031
+2367;RS-QUA-011;Santana do Livramento;Aceramico;RS;-55.85728758;-30.62440348
+2368;RS-QUA-009;Santana do Livramento;Aceramico;RS;-55.85641708;-30.62833882
+2369;RS-QUA-008;Santana do Livramento;Aceramico;RS;-55.85269265;-30.6344957
+2370;RS-QUA-007;Santana do Livramento;Aceramico;RS;-55.84794741;-30.64750077
+2371;RS-QUA-005;Santana do Livramento;Aceramico;RS;-55.82669172;-30.69916448
+2372;RS-QUA-004;Santana do Livramento;Aceramico;RS;-55.82653976;-30.70223083
+2373;RS-QUA-003;Santana do Livramento;Aceramico;RS;-55.79573852;-30.7609208
+2374;RS-IBI-095;Santana do Livramento;Aceramico;RS;-55.70036491;-30.77540149
+2375;RS-IBI-096;Santana do Livramento;Aceramico;RS;-55.69876028;-30.77040502
+2376;RS-IBI-090;Santana do Livramento;Aceramico;RS;-55.69755279;-30.76696437
+2377;RS-IBI-089;Santana do Livramento;Aceramico;RS;-55.69590823;-30.76804858
+2378;RS-IBI-088;Santana do Livramento;Aceramico;RS;-55.69425925;-30.77255222
+2379;RS-IBI-087;Santana do Livramento;Aceramico;RS;-55.69157575;-30.77550257
+2380;RS-IBI-092;Santana do Livramento;Aceramico;RS;-55.6909118;-30.765887
+2381;RS-IBI-091;Santana do Livramento;Aceramico;RS;-55.69002767;-30.76790811
+2382;RS-IBI-086;Santana do Livramento;Aceramico;RS;-55.68997472;-30.77798561
+2383;RS-IBI-012;Santana do Livramento;Aceramico;RS;-55.68678629;-30.7796225
+2384;RS-IBI-094;Santana do Livramento;Aceramico;RS;-55.68188883;-30.77477289
+2385;RS-IBI-093;Santana do Livramento;Aceramico;RS;-55.67832118;-30.77663127
+2386;RS-IBI-104;Santana do Livramento;Aceramico;RS;-55.67763852;-30.76695231
+2387;RS-IBI-105;Santana do Livramento;Aceramico;RS;-55.67411607;-30.77695826
+2388;RS-IBI-106;Santana do Livramento;Aceramico;RS;-55.66323311;-30.76146337
+2389;RS-IBI-103;Santana do Livramento;Aceramico;RS;-55.66243166;-30.76351221
+2390;RS-IBI-099;Santana do Livramento;Aceramico;RS;-55.66049753;-30.7643584
+2391;RS-IBI-098;Santana do Livramento;Aceramico;RS;-55.65737394;-30.76282838
+2392;RS-IBI-097;Santana do Livramento;Aceramico;RS;-55.65545736;-30.75790036
+2393;RS-IBI-100;Santana do Livramento;Aceramico;RS;-55.65438041;-30.76322141
+2394;RS-IBI-102;Santana do Livramento;Aceramico;RS;-55.6489893;-30.75948424
+2395;RS-IBI-017;Santana do Livramento;Aceramico;RS;-55.61021615;-30.74587495
+2396;RS-IBI-013;Santana do Livramento;Aceramico;RS;-55.60691443;-30.75391449
+2397;RS-IBI-014;Santana do Livramento;Aceramico;RS;-55.6006963;-30.74974242
+2398;RS-IBI-016;Santana do Livramento;Aceramico;RS;-55.59276838;-30.74322378
+2399;RS-IBI-015;Santana do Livramento;Aceramico;RS;-55.59258345;-30.74803967
+2400;RS-IBI-020;Santana do Livramento;Aceramico;RS;-55.58641388;-30.74561778
+2401;RS-IBI-018;Santana do Livramento;Aceramico;RS;-55.58636056;-30.74211656
+2402;RS-IBI-019;Santana do Livramento;Aceramico;RS;-55.58522687;-30.74678675
+2403;RS-IBI-010;Santana do Livramento;Aceramico;RS;-55.57231207;-30.73783054
+2404;RS-IBI-011;Santana do Livramento;Aceramico;RS;-55.54625906;-30.72554172
+2405;RS-SAM-002;Santana do Livramento;Aceramico;RS;-55.39876856;-30.67808255
+2406;RS-IJU-006;Santo Ângelo;Aceramico;RS;-54.39300631;-28.33037301
+2407;RS-IJU-007;Santo Ângelo;Aceramico;RS;-54.38671413;-28.33833598
+2408;RS-IJU-004;Santo Ângelo;Aceramico;RS;-54.38360283;-28.33672458
+2409;RS-IJU-002;Santo Ângelo;Aceramico;RS;-54.38008385;-28.33054033
+2410;RS-IJU-001;Santo Ângelo;Aceramico;RS;-54.33766985;-28.30882504
+2411;RS-S-264: Toca do Sino;Santo Antônio da Patrulha;Aceramico;RS;-50.56666667;-29.76666667
+2412;RS-S-328: Caipora;Santo Antônio da Patrulha;Aceramico;RS;-50.5;-29.46666667
+2413;Linha Rolando 2;Santo Cristo;Aceramico;RS;-54.60773101;-27.8301115
+2414;Linha Rolando 1;Santo Cristo;Aceramico;RS;-54.60578094;-27.79085446
+2415;NANDUVAi 3;São Borja;Aceramico;RS;-55.7041315;-28.98621279
+2416;NANDUVAi 2;São Borja;Aceramico;RS;-55.69976923;-28.98210953
+2417;NANDUVAi;São Borja;Aceramico;RS;-55.69636178;-28.98373709
+2418;RS-BIC-022;São Borja;Aceramico;RS;-55.59947932;-28.99533403
+2419;Arroio Arara;São Francisco de Assis;Aceramico;RS;-55.34333333;-29.59611111
+2420;Arroio Inhacunda 3;São Francisco de Assis;Aceramico;RS;-55.26388889;-29.57777778
+2421;Arroio Inhacunda 1;São Francisco de Assis;Aceramico;RS;-55.23472222;-29.59111111
+2422;Jaguari Mirim;São Francisco de Assis;Aceramico;RS;-55.08468418;-29.5336246
+2423;RS-PIR-001;São Luiz Gonzaga;Aceramico;RS;-54.70898644;-28.49040967
+2424;RS-IJU-024;São Miguel das Missões;Aceramico;RS;-54.55248472;-28.42822481
+2425;RS-IJU-022;São Miguel das Missões;Aceramico;RS;-54.55034907;-28.4216904
+2426;RS-IJU-018;São Miguel das Missões;Aceramico;RS;-54.53867167;-28.41649946
+2427;Pedro de Almeida;Sertão;Aceramico;RS;-52.12166017;-27.96653897
+2428;BICA;Uruguaiana;Aceramico;RS;-56.99024606;-29.76002768
+2429;RS-I-69: Laranjito;Uruguaiana;Aceramico;RS;-56.94333333;-29.57833333
+2430;VARIANTE 1;Uruguaiana;Aceramico;RS;-56.93566604;-29.73955284
+2431;VARIANTE 2;Uruguaiana;Aceramico;RS;-56.93485182;-29.75129391
+2432;RS-I-72: Palmito 1;Uruguaiana;Aceramico;RS;-56.90972222;-29.54638889
+2433;Palmito;Uruguaiana;Aceramico;RS;-56.90863333;-29.5492
+2434;CASA DE PEDRA;Uruguaiana;Aceramico;RS;-56.9051658;-29.71019428
+2435;RS-I-73: Sanchuri 1;Uruguaiana;Aceramico;RS;-56.90055556;-29.53888889
+2436;MENEZES;Uruguaiana;Aceramico;RS;-56.88064029;-29.67760316
+2437;RS-I-67: Touro Passo 1;Uruguaiana;Aceramico;RS;-56.87222222;-29.67
+2438;RS-I-68: Ribeiro;Uruguaiana;Aceramico;RS;-56.85694444;-29.67611111
+2439;TORO-PASSO;Uruguaiana;Aceramico;RS;-56.84730025;-29.67703645
+2440;SERVO DE PEDRA;Uruguaiana;Aceramico;RS;-56.7628811;-29.62542439
+2441;Ernani Schmidt;Venâncio Aires;Aceramico;RS;-52.31281918;-29.49250579
+2442;Roni Kramer;Venâncio Aires;Aceramico;RS;-52.30241214;-29.47723105
+2443;Armandio da Silva;Venâncio Aires;Aceramico;RS;-52.30170471;-29.42990642
+2444;Arthur Schwin;Venâncio Aires;Aceramico;RS;-52.26151216;-29.53355763
+2445;Tereza da Costa;Venâncio Aires;Aceramico;RS;-52.19857405;-29.64484737
+2446;Alberto Vogel;Venâncio Aires;Aceramico;RS;-52.13153014;-29.68193014
+2447;Joao Olimpio dos Santos;Venâncio Aires;Aceramico;RS;-52.05583729;-29.63812848
+2448;Eduardo L. Guedes;Venâncio Aires;Aceramico;RS;-52.03467203;-29.69982292
+2449;Sitio Voese;Vera Cruz;Aceramico;RS;-52.62502099;-29.65259619
+2450;Joao Baumgarten;Vera Cruz;Aceramico;RS;-52.57066337;-29.68458036
+2451;Claudino Hoff;Vera Cruz;Aceramico;RS;-52.56903999;-29.68651253
+2452;Sitio do Muito  M U;Veranópolis;Aceramico;RS;-51.45791399;-28.89043453
+2453;Humaitá 2;Vitória das Missões;Aceramico;RS;-54.45242848;-28.36629364
+2454;Humaitá 3;Vitória das Missões;Aceramico;RS;-54.44201016;-28.36307612
+2455;RS-IJU-013;Vitória das Missões;Aceramico;RS;-54.43867959;-28.36627946
+2456;Humaitá;Vitória das Missões;Aceramico;RS;-54.42095329;-28.35486633
+2457;RS-IJU-010;Vitória das Missões;Aceramico;RS;-54.40145129;-28.34408483
+2458;RS-S-359: Aterrado;Santo Antônio da Patrulha;Aceramico;RS;-50.5;-29.7333
+2459;Pessegueiro;Itaqui;Aceramico;RS;-56.39;-29.083056
+2460;Touro Passo I;Uruguaiana;Aceramico;RS;-57.075556;-29.789167
+2461;RS-I-70: Imbaa;Uruguaiana;Aceramico;RS;-56.96666667;-29.64333333
+2462;Laranjito;Uruguaiana;Aceramico;RS;-56.93;-29.613333
+2463;Palmito 2;Uruguaiana;Aceramico;RS;-56.865;-29.532222
+2464;Milton Almeida;Uruguaiana;Aceramico;RS;-56.663889;-29.718056
+2465;RS-IJ-68;São Borja;Aceramico;RS;-56.004939;-28.611719
+2466;RS-I-99;Uruguaiana;Aceramico;RS;-56.558939;-29.286989
+2467;Rio Grande do Sul (OSO-1);Maquiné;Aceramico;RS;-50.2875;-29.616667
+2468;Sangao;Santo Antônio da Patrulha;Aceramico;RS;-50.562222;-29.7725
+2469;Garivaldino;Montenegro;Aceramico;RS;-51.640667;-29.584389
+2470;Marimbondo;Santo Antônio da Patrulha;Aceramico;RS;-50.55445806;-29.76171449
+2471;Pilger;Paverama;Aceramico;RS;-51.727792;-29.512638
+2472;Monjolo;Triunfo;Aceramico;RS;-51.584969;-29.803822
+2473;ALMERI NICOLAU DUTRA;Alpestre;Aceramico;RS;-53.01465422;-27.15144946
+2474;Praia de Seixos da Barra IV;Bom Jesus;Aceramico;RS;-50.42828111;-28.43289443
+2475;Praia de seixos do Rio Morto II;Bom Jesus;Aceramico;RS;-50.38102493;-28.44655235
+2476;Praia de Seixos da Ponte II;Bom Jesus;Aceramico;RS;-50.29310981;-28.45033036
+2477;SiTIO DO DEPRIMIDO;Bom Princípio;Aceramico;RS;-51.354899;-29.439658
+2478;Sanga Felisbino;Braga;Aceramico;RS;-53.74655864;-27.54075479
+2479;Três Sangas;Braga;Aceramico;RS;-53.74319894;-27.54437218
+2480;U J w 03;Caibaté;Aceramico;RS;-54.62551878;-28.26486999
+2481;OFICINA LiTICA RST 471;Canguçu;Aceramico;RS;-52.79895008;-31.10136136
+2482;U J z  04;Catuípe;Aceramico;RS;-54.01832497;-28.13571886
+2483;U V g 01;Cerro Grande;Aceramico;RS;-53.15678281;-27.62962894
+2484;U V g 02;Cerro Grande;Aceramico;RS;-53.15555082;-27.62777108
+2485;U V g 03;Cerro Grande;Aceramico;RS;-53.15144427;-27.62605711
+2486;U V b 04;Cerro Grande;Aceramico;RS;-53.12771945;-27.6152512
+2487;Sao Bras 01;Chuvisca;Aceramico;RS;-51.92448684;-30.75587199
+2488;U U h  01;Erval Grande;Aceramico;RS;-52.56004778;-27.34036385
+2489;Praia 3;Faxinalzinho;Aceramico;RS;-52.72356005;-27.38699433
+2490;UUU 126;Garruchos;Aceramico;RS;-55.71082228;-28.24542599
+2491;Rio dos indios;GetÃºlio Vargas;Aceramico;RS;-52.14357797;-27.87085049
+2492;Arroio dos Ferreiros;Gravataí;Aceramico;RS;-50.97817819;-29.93658779
+2493;U J J 06;Guarani das Missões;Aceramico;RS;-54.55284775;-28.26479258
+2494;U U h  03;Itatiba do Sul;Aceramico;RS;-52.5054478;-27.31876725
+2495;U V c  02;Liberato Salzano;Aceramico;RS;-53.08383151;-27.58951215
+2496;U V k  02;Liberato Salzano;Aceramico;RS;-53.0641381;-27.56283227
+2497;DIQUE 1;Maximiliano de Almeida;Aceramico;RS;-51.77804795;-27.52942598
+2498;SiTIO DOS VETERINaRIOS;Maximiliano de Almeida;Aceramico;RS;-51.77672819;-27.56601804
+2499;SiTIO DAS COMADRES;Maximiliano de Almeida;Aceramico;RS;-51.77667414;-27.57129034
+2500;Lajeado do Tigre;Miraguaí;Aceramico;RS;-53.77839373;-27.44916443
+2501;Cullman;Miraguaí;Aceramico;RS;-53.77542582;-27.45258534
+2502;Bordinhao;Miraguaí;Aceramico;RS;-53.76695148;-27.46659852
+2503;Sanga agua Fria 2;Miraguaí;Aceramico;RS;-53.75992458;-27.49018391
+2504;RST124;Muçum;Aceramico;RS;-51.84132251;-29.14839202
+2505;JARDIM 01;Muitos Capões;Aceramico;RS;-51.4025219;-28.55639759
+2506;Praia 1;Nonoai;Aceramico;RS;-52.73528007;-27.33520385
+2507;Praia 2;Nonoai;Aceramico;RS;-52.72939903;-27.33591762
+2508;Praia 4;Nonoai;Aceramico;RS;-52.71460791;-27.39134676
+2509;QUARAi - RST 377;Quaraí;Aceramico;RS;-56.50583333;-30.24725
+2510;RS-IBI-072;Quaraí;Aceramico;RS;-55.92174974;-30.25583206
+2511;GEORGINA CORREA;Rio dos Índios;Aceramico;RS;-52.85719087;-27.17156516
+2512;rs  msg 110 praia IV;Santa Vitória do Palmar;Aceramico;RS;-53.34973131;-33.71151477
+2513;U J c 05;Santo Ângelo;Aceramico;RS;-54.49715467;-28.27029195
+2514;U J J 08;Santo Ângelo;Aceramico;RS;-54.47734372;-28.27246261
+2515;U J J 09;Santo Ângelo;Aceramico;RS;-54.4548137;-28.2710972
+2516;U J J 10;Santo Ângelo;Aceramico;RS;-54.4516832;-28.27246429
+2517;U J b  02;Santo Ângelo;Aceramico;RS;-54.39392845;-28.27599333
+2518;U J b  03;Santo Ângelo;Aceramico;RS;-54.39125126;-28.27837807
+2519;U J t 01;Santo Ângelo;Aceramico;RS;-54.35200221;-28.27852458
+2520;La de Ovelha - ST18;São Borja;Aceramico;RS;-55.62005074;-28.89235274
+2521;Joao de Barro - ST17;São Borja;Aceramico;RS;-55.61585954;-28.89432273
+2522;U M t 02;São Luiz Gonzaga;Aceramico;RS;-55.00123932;-28.26811479
+2523;U M t 03;São Luiz Gonzaga;Aceramico;RS;-54.99489069;-28.26859024
+2524;Sitio V8 - Oficina Litica;São Martinho da Serra;Aceramico;RS;-53.91673049;-29.55916967
+2525;Dalabrida;Tenente Portela;Aceramico;RS;-53.78897316;-27.41516175
+2526;U V t  02;Trindade do Sul;Aceramico;RS;-52.94073362;-27.49867546
+2527;SeRGIO LUIS BAARS;Ubiretama;Aceramico;RS;-54.68233333;-28.055
+2528;Sitio  da BR - 290;Uruguaiana;Aceramico;RS;-57.00154257;-29.81250018
+2529;URUGUAIANA RST 377;Uruguaiana;Aceramico;RS;-56.43305;-30.05701667
+3155;Sitio do Areal 1;(copiado);Aceramico;(copiado);-56.2230338;-30.45960065
+3156;Romildo Petermann A;(copiado);Aceramico;(copiado);-53.26681246;-29.43186195
+3157;RS-MSG-069 BARRANCO DA MANGUEIRA;(copiado);Aceramico;(copiado);-53.24042232;-33.61147737
+3158;RS-EG-02;(copiado);Aceramico;(copiado);-52.66418091;-27.30143645
+3159;Valdir Goettems;(copiado);Aceramico;(copiado);-52.31810008;-29.51000531
+3160;Sitio Ponta - Ponta;(copiado);Aceramico;(copiado);-51.45410453;-28.88704463
+3161;RS-SIN-004;(copiado);Aceramico;(copiado);-50.89897582;-29.68681492

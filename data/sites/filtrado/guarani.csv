@@ -1,0 +1,406 @@
+"id","nome","Municipio","Classificação.autora","UF","decimallon","decimallat"
+"1","El Arbolito","Colonia del Sacramento","Guarani","URG",-58.26, -34.127
+"2","Isla Vizcaino","Río Negro","Guarani","URG",-58.38041, -33.40143
+"3","Yaguareté","(copiado","Guarani","URG",-58.27454, -33.12453
+"4","Punta Negra Este","Río Negro","Guarani","URG",-58.23621, -33.10343
+"5","Itapiranga","Itapiranga","Guarani","SC",-53.75, -27.183333
+"6","Sao Carlos","Águas de Chapecó","Guarani","SC",-53.016667, -27.1
+"7","Barra escondida 1","Mondaí","Guarani","SC",-53.433333, -27.133333
+"8","Joao A. Guarantier","Volta Grande","Guarani","SC",-53.033333, -27.083333
+"9","Linha Lampari","Águas de Chapecó","Guarani","SC",-53.0401163, -27.12965604
+"14","Linha Policia 6 ACH LP 6","Águas de Chapecó","Guarani","SC",-53.03140784, -27.11942153
+"16","Armindo Pohlmann","Alto Bela Vista","Guarani","SC",-51.97608378, -27.39429036
+"17","Andre Davidiuk Malazkiewicz II","Alto Bela Vista","Guarani","SC",-51.96599797, -27.36957145
+"18","Paulino Merib","Alto Bela Vista","Guarani","SC",-51.95460141, -27.47064759
+"19","Andre Davidiuk Malazkiewicz","Alto Bela Vista","Guarani","SC",-51.94101067, -27.46605494
+"20","Gaudêncio Machado","Alto Bela Vista","Guarani","SC",-51.93985515, -27.45032816
+"22","Antonio Dilson Castro","Alto Bela Vista","Guarani","SC",-51.92753821, -27.44643868
+"23","Adalicio Fischer I","Alto Bela Vista","Guarani","SC",-51.89944958, -27.48392387
+"24","Victor Paulino Rech","Alto Bela Vista","Guarani","SC",-51.89899975, -27.44345714
+"25","Rui Sargafredo","Alto Bela Vista","Guarani","SC",-51.89799864, -27.49971299
+"27","U-381: Batista Recttor","Alto Bela Vista","Guarani","SC",-51.89055393, -27.42997028
+"28","Marlene Maria Rodrigues","Alto Bela Vista","Guarani","SC",-51.88653898, -27.51868065
+"30","Sirio Lohamann","Alto Bela Vista","Guarani","SC",-50.86911767, -27.52221199
+"31","Barranca do rio Parati 2","Araquari","Guarani","SC",-48.70878597, -26.35843833
+"32","SC-ARA-058","Araranguá","Guarani","SC",-49.46070881, -28.90738185
+"33","SC-ARA-060","Araranguá","Guarani","SC",-49.45090289, -28.91230498
+"34","SC-ARA-061","Araranguá","Guarani","SC",-49.42105045, -28.91816692
+"35","Aldeia Levandoski","Araranguá","Guarani","SC",-49.38194667, -28.90990578
+"36","Aldeia da Balsa","Araranguá","Guarani","SC",-49.37534774, -28.92663829
+"37","SC-ARA-049","Araranguá","Guarani","SC",-49.36438453, -28.9395724
+"39","SC-ARA-055","Araranguá","Guarani","SC",-49.35444948, -28.91908396
+"40","Campo Mae Luiza 008","Araranguá","Guarani","SC",-49.35359663, -28.89580039
+"43","SC-ARA-031 - Barra do Ararangua","Araranguá","Guarani","SC",-49.349282, -28.929985
+"45","Campo Mae Luiza 011","Araranguá","Guarani","SC",-49.34526804, -28.88946269
+"47","Ilha do Linguado 2","Balneário Barra do Sul","Guarani","SC",-48.66332466, -26.36342531
+"48","Santo Antônio","Balneário Piçarras","Guarani","SC",-48.685818, -26.748839
+"49","Landim","Caibi","Guarani","SC",-53.30516509, -27.1206896
+"51","Joao Barufaldi","Caibi","Guarani","SC",-53.28718724, -27.11989172
+"52","SC-CH-119","Chapecó","Guarani","SC",-52.76080263, -27.24257822
+"54","SC-CH-173","Chapecó","Guarani","SC",-52.75800537, -27.22779301
+"57","SC-CH-184","Chapecó","Guarani","SC",-52.75120803, -27.23732821
+"58","SC-CH-134","Chapecó","Guarani","SC",-52.74669874, -27.25764752
+"59","SC-CH-165","Chapecó","Guarani","SC",-52.73780992, -27.23671891
+"60","SC-CH-194","Chapecó","Guarani","SC",-52.72068631, -27.23400886
+"61","SC-CH-158","Chapecó","Guarani","SC",-52.70415111, -27.25312662
+"62","SC-CH-142","Chapecó","Guarani","SC",-52.69368026, -27.28191111
+"65","Guilherme Jaeger C (Reducao de Candelaria","Chapecó","Guarani","SC",-52.61519843, -27.10045517
+"66","Navilho Zucchi","Concórdia","Guarani","SC",-52.24683464, -27.27935353
+"67","Edvino Thome","Concórdia","Guarani","SC",-52.23526568, -27.27467185
+"68","Darci Fernandes da Silva","Concórdia","Guarani","SC",-52.2304634, -27.2637707
+"69","Santo Alberti","Concórdia","Guarani","SC",-52.21519242, -27.32709336
+"70","Pedro Talkovsky","Concórdia","Guarani","SC",-52.09260392, -27.34545863
+"71","Arlindo Schneider IV","Concórdia","Guarani","SC",-52.0126216, -27.35840823
+"72","Leopoldo Holhn","Concórdia","Guarani","SC",-52.00095058, -27.37205396
+"74","Dallagnoll","Cunha Porã","Guarani","SC",-53.16733685, -26.89102982
+"75","Costeira de Pirajubae","Florianópolis","Guarani","SC",-48.52025034, -27.64607632
+"76","sao Joao do Rio Vermelho IV","Florianópolis","Guarani","SC",-48.40526784, -27.48580593
+"77","Fazenda Garopaba 1","Garopaba","Guarani","SC",-48.6615519, -28.06914114
+"78","Garopaba 06","Garopaba","Guarani","SC",-48.644085, -28.023466
+"79","SC-ARA-001 - Zulemar Maria de Souza","Içara","Guarani","SC",-49.2965521, -28.83719911
+"80","Lombas Pedreira I","Içara","Guarani","SC",-49.24898512, -28.81063105
+"81","Balsinha 6","Imaruí","Guarani","SC",-48.81501358, -28.34839942
+"82","Balsinha 5","Imaruí","Guarani","SC",-48.75734405, -28.13424624
+"83","SC-IMB-01","Imbituba","Guarani","SC",-48.72144757, -28.17930185
+"85","Baixo Rio D' Una I","Imbituba","Guarani","SC",-48.70792664, -28.18922697
+"86","Dunas da Guaiúba","Imbitubakj","Guarani","SC",-48.713878, -28.30069
+"88","Pedro Lopes Vargas","Ipira","Guarani","SC",-51.87807171, -27.43793944
+"90","Joao Salaminka","Ipira","Guarani","SC",-51.84655734, -27.4635106
+"91","Silvino Prediger","Itá","Guarani","SC",-52.40727902, -27.27691704
+"92","Valdemar Stentzeler","Itá","Guarani","SC",-52.39086531, -27.25032606
+"94","Otto Aigner I","Itá","Guarani","SC",-52.38045087, -27.25674787
+"97","Sao Pedro Canisio III","Itapiranga","Guarani","SC",-53.82694333, -27.17097661
+"99","Corredeira Dourado","Itapiranga","Guarani","SC",-53.81765318, -27.15893889
+"100","Wilson Buss","Itapiranga","Guarani","SC",-53.81061205, -27.15245805
+"102","Lucas Queiroz","Itapiranga","Guarani","SC",-53.79158205, -27.15374037
+"104","Rio Macaco Branco","Itapiranga","Guarani","SC",-53.76149498, -27.14960842
+"107","Jose Emilio Welter","Itapiranga","Guarani","SC",-53.75596206, -27.13868301
+"108","Corredeira Capela II","Itapiranga","Guarani","SC",-53.75550376, -27.16273636
+"112","Tarcisio Ternus","Itapiranga","Guarani","SC",-53.73946313, -27.18946803
+"113","Maria Goretti","Itapiranga","Guarani","SC",-53.706896, -27.050117
+"114","Arroio Santa Fe II","Itapiranga","Guarani","SC",-53.69745059, -27.15968786
+"117","Posto AgroPecuario","Itapiranga","Guarani","SC",-53.68678677, -27.15960387
+"118","Orlando Pils","Itapiranga","Guarani","SC",-53.67515659, -27.15748938
+"119","Arroio Vitória II","Itapiranga","Guarani","SC",-53.64921891, -27.17480916
+"120","JBS","Itapiranga","Guarani","SC",-53.64790226, -27.21258499
+"126","Arroio Lajeado","Itapiranga","Guarani","SC",-53.64437461, -27.18969789
+"131","Sao Pedro Canisio II","Itapiranga","Guarani","SC",-53.63261175, -27.19536012
+"133","Audt","Itapiranga","Guarani","SC",-53.63144481, -27.20753569
+"134","Silvio Theisen","Itapiranga","Guarani","SC",-53.61748963, -27.1842747
+"140","Linha Glória VI","Itapiranga","Guarani","SC",-53.60709083, -27.18528962
+"141","Lote Colonial 6","Itapiranga","Guarani","SC",-53.5879944, -27.17319189
+"144","Adalibio Ritter","Itapiranga","Guarani","SC",-53.57489576, -27.16688239
+"149","Olho D' agua XI","Jaguaruna","Guarani","SC",-49.183346, -28.7465335
+"150","Jaboticabeira VI","Jaguaruna","Guarani","SC",-48.97519674, -28.58061313
+"151","riacho dos francisco II","Jaguaruna","Guarani","SC",-48.9453479, -28.61316257
+"152","Aldeia do Tuquarucu","Laguna","Guarani","SC",-48.90163522, -28.4331188
+"153","Corredeira das Antas","Mondaí","Guarani","SC",-53.54591644, -27.17371879
+"154","Nelson Kuffel","Mondaí","Guarani","SC",-53.53590721, -27.18348283
+"155","Joao Fritzen","Mondaí","Guarani","SC",-53.5290325, -27.19092486
+"156","Odemar Krein","Mondaí","Guarani","SC",-53.50196233, -27.20143571
+"158","Helio Gabriel","Mondaí","Guarani","SC",-53.49896153, -27.17367038
+"160","Terra Nova","Mondaí","Guarani","SC",-53.45868866, -27.11622589
+"161","Paul Ramminger","Mondaí","Guarani","SC",-53.45232579, -27.10744895
+"163","Egon Ulrich","Mondaí","Guarani","SC",-53.40257808, -27.12083393
+"164","Bottega","Mondaí","Guarani","SC",-53.36144867, -27.09376516
+"165","Alcides Moratelli","Nova Itaberaba","Guarani","SC",-52.91979775, -26.92945135
+"168","Areal I","Palhoça","Guarani","SC",-48.6710254, -27.8907257
+"169","Pinheira","Palhoça","Guarani","SC",-48.66409093, -27.90331289
+"170","Praia da Pinheira 2","Palhoça","Guarani","SC",-48.58813932, -27.88546486
+"171","Dorival Santos","Palmitos","Guarani","SC",-53.31879314, -27.20236741
+"175","Claus R. Papke e Curt F. Geib","Palmitos","Guarani","SC",-53.31583291, -27.21685478
+"177","Orlando Knoll","Palmitos","Guarani","SC",-53.31355438, -27.19255466
+"178","Lauro Santos","Palmitos","Guarani","SC",-53.29796845, -27.16328423
+"179","Edelvira Silva","Palmitos","Guarani","SC",-53.29374097, -27.19385497
+"180","Natalino Felkiker e Celio Felkiker","Palmitos","Guarani","SC",-53.19679236, -27.18842342
+"182","Lourival Hoffmann","Palmitos","Guarani","SC",-53.18499606, -27.18794903
+"185","Joao Felkiker","Palmitos","Guarani","SC",-53.15134676, -27.1404043
+"186","Helio Rodrigues da Silva","Palmitos","Guarani","SC",-53.08865556, -27.16281257
+"187","Bruno Jose Hippler","Palmitos","Guarani","SC",-53.07234571, -27.13959872
+"191","Albino Pessatto","Palmitos","Guarani","SC",-53.14338934, -27.11404755
+"192","Andre Ilustre de Souza","Palmitos","Guarani","SC",-53.10995282, -27.16752962
+"194","Balsinha 7","Paulo Lopes","Guarani","SC",-48.78712685, -28.09117469
+"195","U-389: Roberto Chaves","Piratuba","Guarani","SC",-51.85239874, -27.51634837
+"196","U-390 - Gaudêncio Machado","Piratuba","Guarani","SC",-51.84224762, -27.49831032
+"197","Ervino Koller III","Piratuba","Guarani","SC",-51.8386161, -27.52137915
+"199","U-388: Celso Machado","Piratuba","Guarani","SC",-51.83826568, -27.45372987
+"200","U-462","Piratuba","Guarani","SC",-51.81600277, -27.51352949
+"204","U-392: Altair Borges do Nascimento","Piratuba","Guarani","SC",-51.80516937, -27.5138073
+"206","Osni de Moraes","Piratuba","Guarani","SC",-51.80239162, -27.525474
+"207","U - 478","Piratuba","Guarani","SC",-51.79581272, -27.48893906
+"208","Moises de Souza","Piratuba","Guarani","SC",-51.79461375, -27.51408511
+"210","U- 479","Piratuba","Guarani","SC",-51.74803582, -27.48928528
+"212","SC-URG-01","São Carlos","Guarani","SC",-53.04592934, -27.07214487
+"213","SC-URG-003","São Carlos","Guarani","SC",-53.034923, -27.067287
+"214","Sitio Guarani","São Francisco do Sul","Guarani","SC",-48.58332713, -26.22467989
+"215","Enseada I","São Francisco do Sul","Guarani","SC",-48.49983918, -26.23392696
+"216","Rio Uruguai","Itapiranga","Guarani","SC",-53.73, -27.17
+"218","Arroio Corrente V","Jaguaruna","Guarani","SC",-49.0358, -28.6852
+"219","Olho D'agua I ","Jaguaruna","Guarani","SC",-49.1972, -28.7917
+"220","Sibelco","Jaguaruna","Guarani","SC",-48.9991, -28.6213
+"221","Morro Bonito II ","Jaguaruna","Guarani","SC",-48.9918, -28.6129
+"222","Morro Bonito I ","Jaguaruna","Guarani","SC",-48.9639, -28.6063
+"223","Laranjal I ","Jaguaruna","Guarani","SC",-48.9379, -28.6201
+"226","Aldeia da Lagoa Mae Luzia","Araranguá","Guarani","SC",-49.3231, -28.8659
+"228","Ita ","Itá","Guarani","SC",-52.508333, -27.270833
+"229","Poco Grande","Araquari","Guarani","SC",-48.8438, -26.4446
+"230","Aldeia da ZPE","Imbituba","Guarani","SC",-48.6967, -28.2166
+"232","Saltinho do Rio Uruguai 02","Águas de Chapecó","Guarani","SC",-53.03573748, -27.14573911
+"235","Linha_Uruguai_Sul","Porto Lucena","Guarani","RS",-55.05, -27.816667
+"236","Abrigo do Canhembora 7","Nova Palma","Guarani","RS",-53.25, -29.416667
+"237","Ilha Comandai","Porto Lucena","Guarani","RS",-55.064927, -27.802887
+"238","Pedra Grande 7","São Pedro do Sul","Guarani","RS",-54.112058, -29.652223
+"239","RS-VZ-45: Parizinho 3","Tenente Portela","Guarani","RS",-53.73333333, -27.31555555
+"240","Barro do Turvo 3","Três Passos","Guarani","RS",-54.100193, -27.304807
+"241","Elias dal Pra","Paraíso do Sul","Guarani","RS",-53.05, -29.689167
+"242","Parizinho-2","Salto, São Paulo","Guarani","RS",-53.75, -28.3
+"243","Parizinho-1","Salto, São Paulo","Guarani","RS",-53.733333, -28.3
+"245","Bassani 1","Maquiné","Guarani","RS",-50.12421003, -29.75536037
+"246","Palmeira 2","Parobé","Guarani","RS",-50.916667, -29.666667
+"247","Passo Fundo","Osório","Guarani","RS",-50.216667, -29.933333
+"248","Ilha Chico Manoel","Porto Alegre","Guarani","RS",-51.16321841, -30.26534867
+"249","RS-T-132","Pouso Novo","Guarani","RS",-52.2, -29.17
+"250","Wilmoth Ropke ","Ibirama","Guarani","RS",-53.27, -29.44
+"251","Panambi 3","Alecrim","Guarani","RS",-54.901, -27.692
+"252","RS-T-117","Bom Retiro do Sul","Guarani","RS",-51.9456, -29.6111
+"253","RS-03","Muçum","Guarani","RS",-51.7418, -29.1361
+"254","Lagoa da Porteira 02","Palmares do Sul","Guarani","RS",-50.3315, -30.38366667
+"255","Edi Mundt","Agudo","Guarani","RS",-53.26490985, -29.44967608
+"256","RS-URG-09","Alpestre","Guarani","RS",-53.06607484, -27.09973756
+"259","RS-URG-03","Alpestre","Guarani","RS",-53.0292844, -27.10906432
+"262","ALCIDES DUTRA","Alpestre","Guarani","RS",-53.01797353, -27.15594138
+"263","OLiVIO PEDROSO.","Alpestre","Guarani","RS",-53.00606327, -27.19009181
+"264","SiTIO DO PORTINHO","Alpestre","Guarani","RS",-53.00064581, -27.21169413
+"265","RS-T-113","Arroio do Meio","Guarani","RS",-51.90836724, -29.39310959
+"266","Tupancy","Arroio do Sal","Guarani","RS",-49.84672563, -29.49070611
+"267","Itapeva 3","Arroio do Sal","Guarani","RS",-49.83969608, -29.43226626
+"270","Itapeva 1","Arroio do Sal","Guarani","RS",-49.81967342, -29.41465518
+"271","Varcelino Ferri","Bento Gonçalves","Guarani","RS",-51.67527778, -29.06361111
+"272","Walter F. Wachholz","Cachoeira do Sul","Guarani","RS",-53.09333959, -29.86657692
+"273","Atalibio L. Carvalho","Cachoeira do Sul","Guarani","RS",-53.07440978, -29.83265615
+"274","Ary Carvalho Bernardes","Cachoeira do Sul","Guarani","RS",-53.06217988, -29.91670551
+"275","Quido P. Stringhini","Cachoeira do Sul","Guarani","RS",-53.05244647, -29.91021738
+"276","BR 153","Cachoeira do Sul","Guarani","RS",-52.96969318, -29.90021121
+"277","Herminio Bonnel","Cachoeira do Sul","Guarani","RS",-52.89276513, -30.03298937
+"278","Capane 1","Cachoeira do Sul","Guarani","RS",-52.88038764, -30.07814207
+"280","Evaldo Katzer","Cachoeira do Sul","Guarani","RS",-49.7355845, -29.35584305
+"281","Ataide Rodrigues Lucas - 1 e 2","Camaquã","Guarani","RS",-52.01123135, -30.85840977
+"282","Dejalmo Martins Ribeiro","Camaquã","Guarani","RS",-51.98165955, -30.85998176
+"285","Bolicho Manuel Santana","Camaquã","Guarani","RS",-51.96860936, -30.84567062
+"286","Amarante Rodrigues","Camaquã","Guarani","RS",-51.80431718, -30.84889759
+"287","Alarico Meireles","Camaquã","Guarani","RS",-51.78922753, -30.76975875
+"288","Raul Silveira","Camaquã","Guarani","RS",-51.78141066, -30.92192551
+"289","Emilio Alves Farias","Camaquã","Guarani","RS",-51.75551407, -30.73183653
+"290","Fausto Crespo","Camaquã","Guarani","RS",-51.74599697, -31.10657962
+"291","Wladislau Schmievski 1","Camaquã","Guarani","RS",-51.7426285, -30.72963705
+"293","Wladislau Schmivievski","Camaquã","Guarani","RS",-51.73798985, -30.73773028
+"294","Arroio Molha Grande","Candelária","Guarani","RS",-52.794849, -29.64863893
+"295","Candelaria 1","Candelária","Guarani","RS",-52.76716915, -29.66840902
+"296","Jose Melz","Candelária","Guarani","RS",-52.76275561, -29.55972337
+"297","Sem Indicacao","Canguçu","Guarani","RS",-52.67879001, -31.39648343
+"299","ALDEIA GUARANI RST 471","Canguçu","Guarani","RS",-52.65043392, -30.94325491
+"300","Idiciano K. Borges","Canguçu","Guarani","RS",-52.52699006, -31.14350128
+"301","Rio dos Sinos 2","Caraá","Guarani","RS",-50.4144394, -29.76509455
+"303","RST 108","Colinas","Guarani","RS",-51.87264986, -29.38363741
+"306","Gava II","Cotiporã","Guarani","RS",-51.66192805, -29.06273527
+"307","Torre 19","Dois Irmãos","Guarani","RS",-51.12135025, -29.60523817
+"308","Torre 24","Dois Irmãos","Guarani","RS",-51.11255754, -29.59245728
+"309","Sitio da Casa Azul","Dom Feliciano","Guarani","RS",-52.09858134, -30.70205585
+"310","Sitio do Armazem","Dom Feliciano","Guarani","RS",-52.08525062, -30.70141905
+"311","RS-119","Eldorado do Sul","Guarani","RS",-51.30501539, -30.00372258
+"312","Ponte do Jacui","Eldorado do Sul","Guarani","RS",-51.27272082, -29.99371301
+"315","Torre 3","Estância Velha","Guarani","RS",-51.15167595, -29.64905996
+"316","RS-FA-24","Faxinalzinho","Guarani","RS",-52.71120401, -27.31334247
+"318","RS-FA-15","Faxinalzinho","Guarani","RS",-52.70071269, -27.29991367
+"319","RS-FA-55","Faxinalzinho","Guarani","RS",-52.67887183, -27.29674781
+"320","GOODYEAR","Glorinha","Guarani","RS",-50.79944444, -29.9075
+"321","Santa Rita","Guaíba","Guarani","RS",-51.31864155, -30.0853077
+"322","Sitio Arqueológico Arroio do Conde","Guaíba","Guarani","RS",-51.30967261, -30.05432113
+"323","Albino Glazel  A","Ibarama","Guarani","RS",-53.28574963, -29.43853893
+"327","Ilvo Menegassi","Ibarama","Guarani","RS",-53.27685724, -29.42939903
+"328","Armando Hall     A e B","Ibarama","Guarani","RS",-53.25546551, -29.42439522
+"329","Deobaldo Ulrich","Ibarama","Guarani","RS",-53.25098552, -29.39928226
+"333","Rejane Puntell","Ibarama","Guarani","RS",-53.22740927, -29.35939584
+"334","Lajeadinho","Igrejinha","Guarani","RS",-50.75065728, -29.58430681
+"335","RST 107","Lajeado Grande","Guarani","RS",-52.02268922, -29.40689244
+"336","RST 102","Lajeado Grande","Guarani","RS",-51.95474284, -29.44392874
+"337","U - 470","Machadinho","Guarani","RS",-51.80196025, -27.4991409
+"342","U-452","Machadinho","Guarani","RS",-51.78888889, -27.50638889
+"343","Amancio Rodrigues Pimentel","Machadinho","Guarani","RS",-51.77166667, -27.52888889
+"344","U - 487","Machadinho","Guarani","RS",-51.77080489, -27.49116515
+"346","Jazida de Areia Walter Medeiros","Maquiné","Guarani","RS",-50.1615666, -29.74281986
+"348","Bassani 2","Maquiné","Guarani","RS",-50.12352136, -29.74179211
+"349","Ireno Petrini","Marques de Souza","Guarani","RS",-52.15737974, -29.25403365
+"350","RST 110","Marques de Souza","Guarani","RS",-52.15169861, -29.23469771
+"351","Fredolin Chütz 2","Mata","Guarani","RS",-54.44116667, -29.52816667
+"352","Joana M Oliveira","Mato Queimado","Guarani","RS",-54.67146517, -28.26763336
+"353","U-447","Maximiliano de Almeida","Guarani","RS",-51.82861111, -27.51555555
+"357","U-367: Jose Sudback","Maximiliano de Almeida","Guarani","RS",-51.78472222, -27.52055555
+"360","Bacupari","Mostardas","Guarani","RS",-50.38335715, -30.50153281
+"362","RS-NO-185","Nonoai","Guarani","RS",-52.80034024, -27.20641481
+"364","RS-NO-179","Nonoai","Guarani","RS",-52.78508578, -27.21013003
+"367","RS-NO-165","Nonoai","Guarani","RS",-52.77493565, -27.21684781
+"368","RS-NO-126","Nonoai","Guarani","RS",-52.77193448, -27.25556121
+"369","RS-NO-147","Nonoai","Guarani","RS",-52.77069352, -27.23905978
+"371","RS-NO-159","Nonoai","Guarani","RS",-52.76665229, -27.2114197
+"379","Sitio do Chapeu","Novo Hamburgo","Guarani","RS",-51.00369027, -29.74384232
+"380","Sitio Bier Scharlau","Novo Hamburgo","Guarani","RS",-50.98864525, -29.72269638
+"381","Torre 135 / Torre 136","Osório","Guarani","RS",-50.33486831, -29.88028669
+"382","drink shampoo","Osório","Guarani","RS",-50.252792, -29.87017839
+"383","Lauro Rodrigues","Osório","Guarani","RS",-50.25225625, -29.85037581
+"384","Areal Moro","Osório","Guarani","RS",-50.23171746, -29.88277274
+"385","Capao da Areia","Osório","Guarani","RS",-50.16666667, -29.98333333
+"386","RS - LC - 96","Palmares do Sul","Guarani","RS",-50.47816667, -30.369
+"387","Leonardo Boeira","Palmares do Sul","Guarani","RS",-50.38304639, -30.4483637
+"388","Fazenda Joao Terra","Palmares do Sul","Guarani","RS",-50.3555, -30.41716667
+"389","RS-LC-89","Palmares do Sul","Guarani","RS",-50.35255978, -30.35232935
+"390","RS-LC-92","Palmares do Sul","Guarani","RS",-50.35245206, -30.3986751
+"392","RS-LC-85","Palmares do Sul","Guarani","RS",-50.34656483, -30.36667448
+"395","RS-SIN-005","Parobé","Guarani","RS",-50.90445992, -29.66951797
+"396","RS-SIN-004","Parobé","Guarani","RS",-50.89897582, -29.68681492
+"397","Las Acacias","Pelotas","Guarani","RS",-52.26566786, -31.76808742
+"399","Jose Hillal/ Hospital","Pelotas","Guarani","RS",-52.23605796, -31.75319171
+"400","Toto","Pelotas","Guarani","RS",-52.19542019, -31.7232087
+"401","Arroio Sujo","Pelotas","Guarani","RS",-52.16431427, -31.70311342
+"402","Lagoinha","Pelotas","Guarani","RS",-52.04948727, -31.60817847
+"403","Soteia","Pelotas","Guarani","RS",-52.01611246, -31.63146268
+"404","Adelar Konrad","Pinhal Grande","Guarani","RS",-53.23988555, -29.41178412
+"406","Pedro Osório Stieler","Pinhal Grande","Guarani","RS",-53.22953396, -29.39072038
+"407","Praca da Alfandega","Porto Alegre","Guarani","RS",-51.23109483, -30.02948478
+"409","Vila Restinga","Porto Alegre","Guarani","RS",-51.13285397, -30.15116227
+"410","Sitio Guarani Paina l (RS-PA-01","Quevedos","Guarani","RS",-54.03319383, -29.38876327
+"411","Sitio Guarani Paina ll (RS-PA-02","Quevedos","Guarani","RS",-54.02935415, -29.40357725
+"412","VEREADOR NELSON ELLI.","Rio dos Índios","Guarani","RS",-52.96144107, -27.17435155
+"414","ALBINO CAVASATTO","Rio dos Índios","Guarani","RS",-52.85474094, -27.17109216
+"416","RS-RI-103","Rio dos Índios","Guarani","RS",-52.83940713, -27.21260439
+"418","RS-RI-55","Rio dos Índios","Guarani","RS",-52.82399298, -27.20771546
+"421","Quiterio Pereira","Rio Grande","Guarani","RS",-52.55225888, -32.53929298
+"422","Roger Llopart/Mario Rodrigues","Rio Grande","Guarani","RS",-52.50417717, -32.51727397
+"423","Floriano Fonseca Peixoto","Rio Grande","Guarani","RS",-52.44217462, -32.28313706
+"424","Palma","Rio Grande","Guarani","RS",-52.33027184, -32.04706299
+"425","Edmar Mendes da Costa","Rio Grande","Guarani","RS",-52.29765604, -31.86911305
+"427","Marcelino do Amaral Brancao","Rio Grande","Guarani","RS",-52.28437834, -32.03025254
+"428","Valpirio Mendes Borges","Rio Grande","Guarani","RS",-52.27510578, -31.85893998
+"429","Fernando Lopes","Rio Grande","Guarani","RS",-52.27461673, -31.99215694
+"431","Valdir Texeira Machado","Rio Grande","Guarani","RS",-52.25798818, -31.86011181
+"432","Pedro Ferreira","Rio Grande","Guarani","RS",-52.25515526, -32.04603392
+"433","alvaro Bastos","Rio Grande","Guarani","RS",-52.24836133, -31.88772085
+"434","Carlos Costa Amaral","Rio Grande","Guarani","RS",-52.2464449, -31.98940581
+"439","Lacides Antunes Goncalves","Rio Grande","Guarani","RS",-52.24373988, -32.00465057
+"440","Quiteria Barreira 3 - 04","Rio Grande","Guarani","RS",-52.24354668, -32.01466563
+"442","Fazenda Soares","Rio Grande","Guarani","RS",-52.2426911, -31.9126744
+"444","Fazenda Jose Lerchmann","Rio Grande","Guarani","RS",-52.23899867, -31.92834384
+"445","Povo Novo","Rio Grande","Guarani","RS",-52.22470691, -31.92106718
+"446","Sitio Mujica","Rio Grande","Guarani","RS",-52.21710625, -32.15000262
+"447","Justiniano Nunes","Rio Grande","Guarani","RS",-52.21088382, -32.0387878
+"448","Nelson Reis de Oliveira","Rio Grande","Guarani","RS",-52.20321045, -32.08122278
+"449","Rosalvo Costa","Rio Grande","Guarani","RS",-52.17796099, -31.91226265
+"450","alvaro dos Santos Silva / Antônio Cruz","Rio Grande","Guarani","RS",-52.1682149, -32.11210395
+"451","Familia Zogbi","Rio Grande","Guarani","RS",-52.15704421, -32.10543186
+"452","Campos da Hidraulica","Rio Grande","Guarani","RS",-52.12709389, -32.05192817
+"453","Alberto Tavares Pereira","Rio Grande","Guarani","RS",-52.10706028, -32.03488362
+"454","Aldeia da Quaresma","Rolador","Guarani","RS",-54.91825294, -28.20020471
+"455","Estancia Velha 1","Santa Maria","Guarani","RS",-54.0150595, -29.68923765
+"456","Manuel E. Casanego","Santa Maria","Guarani","RS",-54.00566116, -29.65193131
+"457","Iva Teixeira Galvao","Santa Maria","Guarani","RS",-53.99242214, -29.72207719
+"459","Eugênio Luiz de avila","Santa Maria","Guarani","RS",-53.9568918, -29.74647849
+"460","Jorge Henrique Pedro Rech","Santa Maria do Herval","Guarani","RS",-53.85916789, -29.71651046
+"461","Seminario Sao jose","Santa Maria do Herval","Guarani","RS",-53.80485557, -29.71636524
+"463","Rodolfo Gomes da Silva","Santa Maria do Herval","Guarani","RS",-53.79591953, -29.70785959
+"464","Francisco Barrachini","Santa Maria do Herval","Guarani","RS",-53.78505895, -29.69956513
+"465","Rincao dos Flores","Santa Maria do Herval","Guarani","RS",-53.81495262, -29.68681959
+"466","Morro da Flecha 2","São Francisco de Paula","Guarani","RS",-50.38701338, -29.48088575
+"467","Goiabeira 2","São Francisco de Paula","Guarani","RS",-50.37417766, -29.48324471
+"468","RS LC 73","São José do Norte","Guarani","RS",-52.01981057, -31.9730265
+"469","Patricia","São Luiz Gonzaga","Guarani","RS",-54.98972548, -28.26878145
+"470","Antônio Halmenschlager","São Luiz Gonzaga","Guarani","RS",-54.88580105, -28.33646767
+"471","Sao Lourenco Martir","São Luiz Gonzaga","Guarani","RS",-54.70915557, -28.46262254
+"472","Reducao de Sao Miguel Arcanjo","São Miguel das Missões","Guarani","RS",-54.55586675, -28.54805452
+"473","Sitio Litico de Cacadores Coletores de Floresta com Insercao Ceramica","São Miguel das Missões","Guarani","RS",-54.55083333, -28.59722222
+"474","Sr. Solon","Sentinela do Sul","Guarani","RS",-51.58616119, -30.61071478
+"475","Bibico Curtinaz Pacheco","Sentinela do Sul","Guarani","RS",-51.54128078, -30.54131009
+"477","PARNA V","Tavares","Guarani","RS",-51.15361111, -31.41611111
+"478","Estelvadino Luis Rodrigues II","Tavares","Guarani","RS",-51.14944444, -31.44638889
+"479","Napoleao Araújo Brum","Tavares","Guarani","RS",-51.13027778, -31.38694444
+"480","Capororoca I","Tavares","Guarani","RS",-51.04805556, -31.28444444
+"481","Parizinho 4","Tenente Portela","Guarani","RS",-53.73535115, -27.34285421
+"482","Familia Nunes","Terra de Areia","Guarani","RS",-50.0950486, -29.61400863
+"483","Sanga Funda","Terra de Areia","Guarani","RS",-50.08114961, -29.62299562
+"484","Sitio Lima","Terra de Areia","Guarani","RS",-50.04664988, -29.57471989
+"485","Mars","Terra de Areia","Guarani","RS",-50.04590638, -29.6231439
+"487","Sitio do Onildo Aguiar","Terra de Areia","Guarani","RS",-50.03777492, -29.57979084
+"488","Sitio do Areal 2","Terra de Areia","Guarani","RS",-50.02484864, -29.58196168
+"489","Sitio arqueológico Trovoada","Terra de Areia","Guarani","RS",-50.01496314, -29.69087143
+"490","Fazenda Santo Antônio (Irma da Giza","Terra de Areia","Guarani","RS",-49.99655976, -29.59874775
+"491","Familia Machado","Torres","Guarani","RS",-49.77757545, -29.32181162
+"492","RS LN - 021","Torres","Guarani","RS",-49.77661667, -29.40068333
+"494","Balneario de Itapeva","Torres","Guarani","RS",-49.77034225, -29.391706
+"497","Sambaqui da Itapeva 1","Torres","Guarani","RS",-49.75911691, -29.3843464
+"500","RS - LN - 016","Torres","Guarani","RS",-49.75506667, -29.3656
+"505","RS - LN - 019","Torres","Guarani","RS",-49.74893333, -29.35336667
+"508","JAZIDA DE AREIA 5","Três Cachoeiras","Guarani","RS",-49.93032434, -29.46180802
+"509","Chimarrao","Três Cachoeiras","Guarani","RS",-49.97827509, -29.49777391
+"510","Arroio Itaparú 1","Três Coroas","Guarani","RS",-50.7936011, -29.49364491
+"511","Três Coroas","Três Coroas","Guarani","RS",-50.77917319, -29.5153004
+"512","Rodeio Bonito 1","Três Coroas","Guarani","RS",-50.70982868, -29.48784777
+"514","RS-BJC-002","Triunfo","Guarani","RS",-51.43692064, -29.87239543
+"515","Vitelio Martini","Uruguaiana","Guarani","RS",-57.08585281, -29.76191347
+"516","RS-343","Uruguaiana","Guarani","RS",-57.04478482, -29.70757634
+"518","Fagundes","Uruguaiana","Guarani","RS",-56.99527809, -29.65142997
+"519","Balneario S. Marcos","Uruguaiana","Guarani","RS",-56.84587536, -29.50630601
+"521","RS-Q-1: Colônia Rizicola","Uruguaiana","Guarani","RS",-56.8, -29.53333333
+"522","Valdir Goettems","Venâncio Aires","Guarani","RS",-52.31810008, -29.51000531
+"523","Sergio Roesler","Venâncio Aires","Guarani","RS",-52.29908205, -29.54759712
+"524","Arno Kistemacher","Venâncio Aires","Guarani","RS",-52.2928419, -29.61673655
+"525","Helmuth Bergmann","Venâncio Aires","Guarani","RS",-52.27674474, -29.5522174
+"526","Valerno Konrad","Venâncio Aires","Guarani","RS",-52.22824181, -29.53135064
+"527","Jose Armindo da Rosa","Venâncio Aires","Guarani","RS",-52.20204269, -29.64986042
+"528","Alvicio Böhm","Venâncio Aires","Guarani","RS",-52.09724356, -29.66509963
+"529","""Arquilau Vargas \""""B\""""""","Venâncio Aires","Guarani","RS",-52.09288003, -29.60881642
+"532","""Jose Armindo Roia \""""A\""""""","Venâncio Aires","Guarani","RS",-52.07883201, -29.62455138
+"533","""Paulo Deorr  \""""B\""""""","Venâncio Aires","Guarani","RS",-52.0787888, -29.6819742
+"540","Libório Wilms","Venâncio Aires","Guarani","RS",-52.07248265, -29.649185
+"541","""Manoel Israel de Freitas \""""A\""""""","Venâncio Aires","Guarani","RS",-52.06398848, -29.62738759
+"542","""Joao Ornelio dos Santos \""""B\""""""","Venâncio Aires","Guarani","RS",-52.05251465, -29.62655865
+"543","Joao Orlando Fischer","Venâncio Aires","Guarani","RS",-52.17924109, -29.46581789
+"544","Laureano Holdenburg","Vera Cruz","Guarani","RS",-52.58732067, -29.66611873
+"545","Ilha do Junco","Viamão","Guarani","RS",-51.06555481, -30.35477337
+"546","Novo Lar de Menores","Viamão","Guarani","RS",-51.05095414, -30.08936608
+"547","Praia da Pedreira","Viamão","Guarani","RS",-51.05035313, -30.35631421
+"548","Lagoa Negra 1","Viamão","Guarani","RS",-50.98983345, -30.35811931
+"549","Nei Bueno","Viamão","Guarani","RS",-50.92395563, -30.32888646
+"550","RS-IJU-016","Vitória das Missões","Guarani","RS",-54.51389491, -28.3989974
+"551","Bento Prestes","Encruzilhada do Sul","Guarani","RS",-52.892, -30.845
+"552","Reinaldo Kappel ","Candelária","Guarani","RS",-52.681, -29.729
+"553","RS-RP-86","Santa Cruz do Sul","Guarani","RS",-52.463029, -29.685423
+"554","Bom Jardim Velho","Paverama","Guarani","RS",-51.744271, -29.526978
+"556","SC-U-470","Machadinho","Guarani","RS",-51.67, -27.56
+"557","Saudade","Uruguaiana","Guarani","RS",-57.075626, -29.737054
+"558","Carumbe","Uruguaiana","Guarani","RS",-57.128498, -29.779675
+"560","Totó","Pelotas","Guarani","RS",-52.195, -31.711
+"561","Camping","Pelotas","Guarani","RS",-52.17478191, -31.71114057
+"562","Ribes","Pelotas","Guarani","RS",-52.405, -31.503
+"563","Mondai","Vicente Dutra","Guarani","RS",-53.416667, -27.2
+"564","RS-T-114","Marques de Souza","Guarani","RS",-52.12836852, -29.28116622
+"565","Posto Fiscal","Pinhal da Serra","Guarani","RS",-51.1854, -27.8342
+"566","Santa Rita ","Charqueadas","Guarani","RS",-51.533, -29.981
+"567","Fazenda Soares ","Rio Grande","Guarani","RS",-52.222, -31.847
+"568","Lincoln Steuernagel ","Pinhal Grande","Guarani","RS",-53.332, -29.417
+"569","Joao Cantarelli","Restinga Seca","Guarani","RS",-53.383, -29.824
+"570","Jeronimo Rodrigues ","Agudo","Guarani","RS",-53.249, -29.761
+"571","Arnildo Drew","Santa Maria do Herval","Guarani","RS",-53.644, -29.678
+"572","Capane","Restinga Seca","Guarani","RS",-53.17, -29.836
+"573","Eri Rampellotto","Faxinal Soturno","Guarani","RS",-53.536, -29.532
+"574","Albino Mazzari","Ivorá","Guarani","RS",-53.6, -29.48
+"575","Emilio Kieffer","Paraíso do Sul","Guarani","RS",-53.555, -29.659
+"578","Adolfo Schenkel","Alto Bela Vista","Guarani","RS",-51.565, -29.372
+"579","Barra do Santo Cristo 1","Porto Mauá","Guarani","RS",-54.72, -27.568
+"580","Itajuba 1","Porto Mauá","Guarani","RS",-54.668, -27.544
+"581","Tres Bocas 2","Porto Mauá","Guarani","RS",-54.656, -27.529
+"583","Oscar Mendes","Rio Grande","Guarani","RS",-52.42805, -32.575655
+"584","SC-CHA-02","(copiado","Guarani","(copiado",-53.05296388, -27.0016644
+"587","SC-CHA-03","(copiado","Guarani","(copiado",-53.03471044, -26.97833735
+"588","RS-MSG-117","(copiado","Guarani","(copiado",-52.57967577, -32.5209574
+"592","Quiteria Barreira 3 - 01","(copiado","Guarani","(copiado",-52.19536336, -32.00985167
+"593","RS - LC - 88","(copiado","Guarani","(copiado",-50.3635, -30.35533333
+"599","Tapera","(copiado","Guarani","(copiado",-48.57, -27.69

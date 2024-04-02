@@ -1,0 +1,339 @@
+"id","nome","Municipio","Classificação.autora","UF","decimallon","decimallat"
+"1","Vacas_Gordas","Urubici","Proto_Je","SC",-49.666667, -28.133333
+"2","Pinheiro Preto II","Concórdia","Proto_Je","SC",-52.175, -27.266667
+"3","Icara ","Içara","Proto_Je","SC",-49.3, -28.71
+"4","Cel. Passos Maia","Passos Maia","Proto_Je","SC",-52.061, -26.782
+"5","Copetti","Urubici","Proto_Je","SC",-49.696, -27.9283
+"6","Morro do Avencal 1 (Urubici-01","Urubici","Proto_Je","SC",-49.6124, -28.0278
+"7","Rio Urubici (Urubici-4","Urubici","Proto_Je","SC",-49.5975, -28.0004
+"8","Anderman","Urubici","Proto_Je","SC",-49.5766, -27.9903
+"9","Aripol","Urubici","Proto_Je","SC",-49.5561, -28.0893
+"10","SC-CL-63","São José do Cerrito","Proto_Je","SC",-50.7188, -27.6013
+"11","SC-CL-51","São José do Cerrito","Proto_Je","SC",-50.6064, -27.6372
+"13","Rincao dos Albinos ","São José do Cerrito","Proto_Je","SC",-50.6373, -27.5517
+"17","SC-CL-94","São José do Cerrito","Proto_Je","SC",-50.5926, -27.6416
+"20","Induma - SC-TA-04","Taió","Proto_Je","SC",-49.96718119, -27.03703542
+"21","Campos de Lages","Lages","Proto_Je","SC",-50.32, -27.81
+"22","Giacomo Bagatini IV","Abdon Batista","Proto_Je","SC",-51.08689281, -27.55965802
+"23","Aristides Bortoli","Abdon Batista","Proto_Je","SC",-51.07800319, -27.53703942
+"24","Giacomo Bagatini III","Abdon Batista","Proto_Je","SC",-51.07214419, -27.56004563
+"26","Capao do indio","Abdon Batista","Proto_Je","SC",-51.07022169, -27.56915792
+"29","Edilio Manica","Abdon Batista","Proto_Je","SC",-51.05576973, -27.59071174
+"30","SPC.LT.SR.24","Abdon Batista","Proto_Je","SC",-51.03583693, -27.56439531
+"32","SPC.LT.SR.21","Abdon Batista","Proto_Je","SC",-51.0195064, -27.56026381
+"34","SPC.LT.SR.19","Abdon Batista","Proto_Je","SC",-51.00487882, -27.55600394
+"35","SPC.LT.SR.18","Abdon Batista","Proto_Je","SC",-50.97224536, -27.54245042
+"36","Volta Grande II","Abelardo Luz","Proto_Je","SC",-52.1617851, -26.68194667
+"37","Rio Caixao II","Alfredo Wagner","Proto_Je","SC",-49.4113859, -27.73461224
+"38","George Wagner","Alfredo Wagner","Proto_Je","SC",-49.3944123, -27.69953216
+"39","Jacó Schüller","Alfredo Wagner","Proto_Je","SC",-49.39394338, -27.7495197
+"40","Santilia Schimidt Wagner","Alfredo Wagner","Proto_Je","SC",-49.39264296, -27.71992764
+"43","Cilio Ataide de Barros","Anita Garibaldi","Proto_Je","SC",-51.2181584, -27.7154229
+"44","Darci Mota Sutil","Anita Garibaldi","Proto_Je","SC",-51.20330719, -27.72071764
+"46","Joao Maria Fernandes","Anita Garibaldi","Proto_Je","SC",-51.1836327, -27.76888224
+"49","Isaltino Freski I","Anita Garibaldi","Proto_Je","SC",-51.17446922, -27.79499274
+"50","Silvio Fernandes I","Anita Garibaldi","Proto_Je","SC",-51.16928994, -27.76088406
+"51","Vivaldino Fernandes da Silva","Anita Garibaldi","Proto_Je","SC",-51.0658582, -27.68631138
+"52","SC-ARA-063","Araranguá","Proto_Je","SC",-49.41968997, -28.91657172
+"53","Fazendinha 01","Biguaçu","Proto_Je","SC",-48.72168428, -27.4436841
+"55","Fazenda de Fora 01","Biguaçu","Proto_Je","SC",-48.70830349, -27.41036504
+"56","SC-CL-8","Bocaina do Sul","Proto_Je","SC",-49.91629555, -27.79207864
+"57","SC-CL-7","Bocaina do Sul","Proto_Je","SC",-49.88402132, -27.74004498
+"58","Lages I","Bocaina do Sul","Proto_Je","SC",-49.84228864, -27.74630947
+"59","Reunidas IV","Bom Retiro do Sul","Proto_Je","SC",-49.52764801, -27.84577955
+"60","Reunidas III","Bom Retiro do Sul","Proto_Je","SC",-49.50026231, -27.84944689
+"61","Reunidas I","Bom Retiro do Sul","Proto_Je","SC",-49.48882423, -27.87389904
+"62","Reunidas VII","Bom Retiro do Sul","Proto_Je","SC",-49.46337816, -27.87269718
+"63","Reunidas VI","Bom Retiro do Sul","Proto_Je","SC",-49.46077064, -27.89261469
+"64","Reunidas V","Bom Retiro do Sul","Proto_Je","SC",-49.44840595, -27.89772891
+"66","SPC.UHE.SR.01","Brunópolis","Proto_Je","SC",-50.81108232, -27.43226538
+"67","Sebastiao Costa","Campo Belo do Sul","Proto_Je","SC",-50.83443415, -27.70487926
+"69","Helio Camargo","Campo Belo do Sul","Proto_Je","SC",-50.82926106, -27.69191828
+"71","Joao da Silva 2","Campo Belo do Sul","Proto_Je","SC",-50.82000491, -27.73928364
+"73","Airton Ribeiro 1","Campo Belo do Sul","Proto_Je","SC",-50.81847749, -27.71196403
+"76","Juvenil Moraes","Campo Belo do Sul","Proto_Je","SC",-50.81317445, -27.64515206
+"77","Luis Carlos 3","Campo Belo do Sul","Proto_Je","SC",-50.80320197, -27.73404279
+"78","Cassiano Matos","Campo Belo do Sul","Proto_Je","SC",-50.80075698, -27.65576041
+"80","Plinio Luerce","Campo Belo do Sul","Proto_Je","SC",-50.79681992, -27.64658253
+"82","Davi & Sebastiao","Campo Belo do Sul","Proto_Je","SC",-50.79162257, -27.73032452
+"86","Valmor Baggio 6","Campo Belo do Sul","Proto_Je","SC",-50.78255482, -27.6933785
+"88","Carlos Rossetto","Campo Belo do Sul","Proto_Je","SC",-50.77978615, -27.66298696
+"90","Alceu de Oliveira 2","Campo Belo do Sul","Proto_Je","SC",-50.77924039, -27.6368689
+"93","Valmor Baggio 4","Campo Belo do Sul","Proto_Je","SC",-50.76809642, -27.68663847
+"94","Antônio Branco","Campo Belo do Sul","Proto_Je","SC",-50.76412281, -27.64328981
+"97","Ernani Garcia","Campo Belo do Sul","Proto_Je","SC",-50.75815109, -27.6713015
+"98","Celio Marques","Campo Belo do Sul","Proto_Je","SC",-50.75482397, -27.70816461
+"99","Reni Camargo","Campo Belo do Sul","Proto_Je","SC",-50.75185771, -27.73699352
+"100","Abreu e Garcia 2","Campo Belo do Sul","Proto_Je","SC",-50.74428568, -27.66870372
+"102","Milton da Silva","Campo Belo do Sul","Proto_Je","SC",-50.74311315, -27.69747271
+"103","Ernani Garcia 3","Campo Belo do Sul","Proto_Je","SC",-50.73967299, -27.67689226
+"104","Travessao","Campo Belo do Sul","Proto_Je","SC",-50.73000284, -27.6505671
+"105","Grande Morada","Campo Belo do Sul","Proto_Je","SC",-50.67085764, -27.90682941
+"106","Vilmar Vieira Branco","Campos Novos","Proto_Je","SC",-51.48545316, -27.53875956
+"107","Dirceu Carneiro","Campos Novos","Proto_Je","SC",-51.45194547, -27.53741004
+"108","Banhado Seco I","Capão Alto","Proto_Je","SC",-50.53489553, -27.901608
+"110","SC-CL-19","Capão Alto","Proto_Je","SC",-50.52018315, -27.93360422
+"112","Aroeira","Capão Alto","Proto_Je","SC",-50.37442327, -27.93295603
+"113","Otacilia Mendes","Celso Ramos","Proto_Je","SC",-51.33585503, -27.66095848
+"114","SC-CH-122","Chapecó","Proto_Je","SC",-52.76142702, -27.24311192
+"115","SC-CH-181","Chapecó","Proto_Je","SC",-52.76120578, -27.20146058
+"128","SC-CH-172","Chapecó","Proto_Je","SC",-52.75663389, -27.23304519
+"134","SC-CH-177","Chapecó","Proto_Je","SC",-52.75390568, -27.21874637
+"135","SC-CH-133","Chapecó","Proto_Je","SC",-52.75358334, -27.25422187
+"149","SC-CH-47","Chapecó","Proto_Je","SC",-52.74973623, -27.24587602
+"171","SC-CH-64","Chapecó","Proto_Je","SC",-52.74464208, -27.23781635
+"172","SC-CH-186","Chapecó","Proto_Je","SC",-52.74460137, -27.22678727
+"179","SC-CH-138","Chapecó","Proto_Je","SC",-52.74337978, -27.25335651
+"213","SC-CH-79","Chapecó","Proto_Je","SC",-52.73399323, -27.23939278
+"220","SC-CH-52","Chapecó","Proto_Je","SC",-52.72370158, -27.24123478
+"221","SC-CH-190","Chapecó","Proto_Je","SC",-52.72359833, -27.2319123
+"231","SC-CH-32","Chapecó","Proto_Je","SC",-52.7136888, -27.23955252
+"240","SC-CH-159","Chapecó","Proto_Je","SC",-52.70533664, -27.25139725
+"242","SC-CH-150","Chapecó","Proto_Je","SC",-52.70298904, -27.26435097
+"244","SC-CH-21","Chapecó","Proto_Je","SC",-52.70280927, -27.24194176
+"250","SC-CH-156","Chapecó","Proto_Je","SC",-52.70151193, -27.2754618
+"264","SC-CH-12","Chapecó","Proto_Je","SC",-52.6952754, -27.25322539
+"267","SC-CH-145","Chapecó","Proto_Je","SC",-52.69404985, -27.28163585
+"275","SC-CH-16","Chapecó","Proto_Je","SC",-52.68984033, -27.24309176
+"279","SC-CH-140","Chapecó","Proto_Je","SC",-52.68867233, -27.27072533
+"283","SC-CH-03","Chapecó","Proto_Je","SC",-52.68703788, -27.26081648
+"284","Colônia dos Alves","Correia Pinto","Proto_Je","SC",-50.53113363, -27.54644492
+"286","Armildo Befart","Correia Pinto","Proto_Je","SC",-50.3038925, -27.55359027
+"287","Sitio Dirceu","Curitibanos","Proto_Je","SC",-50.54554958, -27.47170672
+"288","Gaboardi II","Curitibanos","Proto_Je","SC",-50.54236341, -27.32874831
+"289","Gaboardi I","Curitibanos","Proto_Je","SC",-50.54052174, -27.31940731
+"290","Doutor Pedrinho I","Doutor Pedrinho","Proto_Je","SC",-49.52103352, -26.65259318
+"291","Aldeia Fulvio Aducci","Florianópolis","Proto_Je","SC",-48.57249839, -27.59164445
+"292","Parque Rene Frey II","Fraiburgo","Proto_Je","SC",-50.92297543, -27.01491003
+"294","S.A. Serrinha","Ipumirim","Proto_Je","SC",-52.10812158, -27.09703729
+"295","Armando Vortmann","ItaÂ ","Proto_Je","SC",-52.39771919, -27.25001407
+"296","Estrada do Oeste 03","Joinville","Proto_Je","SC",-48.89727512, -26.1856166
+"300","Fazenda Pai Querê IV","Lages","Proto_Je","SC",-50.59706468, -28.34172458
+"301","Fazenda Santa Rosa II","Lages","Proto_Je","SC",-50.59209725, -28.36006111
+"303","Fazenda Guarda-Mor","Lages","Proto_Je","SC",-50.52247632, -28.34986965
+"304","Fazenda Sobradinho II","Lages","Proto_Je","SC",-50.52177687, -28.3738871
+"306","Fazenda Sobradinho I","Lages","Proto_Je","SC",-50.507798, -28.35993634
+"307","Adair da Silva Branco II","Lages","Proto_Je","SC",-50.50295322, -28.40321036
+"308","Fazenda Santa Vitória I","Lages","Proto_Je","SC",-50.46540557, -28.38496091
+"309","Fazenda Cadete","Lages","Proto_Je","SC",-50.4501354, -28.36926613
+"310","Praia de Seixos do Cachoeirao I","Lages","Proto_Je","SC",-50.40680317, -28.39868244
+"311","Bom Jardim","Lages","Proto_Je","SC",-50.35986683, -27.93150799
+"312","Fazenda Pinheirinho","Lages","Proto_Je","SC",-50.35587469, -28.3328195
+"313","Passo Fundo I","Lages","Proto_Je","SC",-50.32256815, -27.79224872
+"314","L. Beatriz Araújo Broering","Lages","Proto_Je","SC",-50.28268235, -27.88848397
+"315","SC-CL-33","Lages","Proto_Je","SC",-50.22534136, -27.6879615
+"317","SC-CL-30","Lages","Proto_Je","SC",-50.20737741, -27.68573847
+"319","Adilson Rafaeli II","Lages","Proto_Je","SC",-50.20401006, -27.66204075
+"321","SC-CL-28 I","Lages","Proto_Je","SC",-50.19273104, -27.72198826
+"323","SC - CL- 23","Lages","Proto_Je","SC",-50.17667178, -27.67889731
+"324","SC-CL-25","Lages","Proto_Je","SC",-50.1621363, -27.81474894
+"325","Fortim do Atalaia","Laguna","Proto_Je","SC",-48.759081, -28.500069
+"326","Iraci Idalino Nunes","Painel","Proto_Je","SC",-50.10751463, -28.12341985
+"327","Guarda do Embaú I","Palhoça","Proto_Je","SC",-48.58646118, -27.90398862
+"328","SC-CL-36","Palmeira","Proto_Je","SC",-50.15020761, -27.6223176
+"330","Santa Terezinha VI","Passos Maia","Proto_Je","SC",-51.980822, -26.57676
+"332","Sitio Craveiro I","Passos Maia","Proto_Je","SC",-51.945832, -26.66124
+"333","Gruta do Ribeirao Revolver","Presidente GetÃºlio","Proto_Je","SC",-49.606597, -27.057027
+"334","Estrutura Subterranea Alto Pomerano 01","Rio dos Cedros","Proto_Je","SC",-49.26680423, -26.70272382
+"335","Pedro Pereira Filho","Rio Rufino","Proto_Je","SC",-49.78644694, -27.87323834
+"336","Rio Leste I","Rio Rufino","Proto_Je","SC",-49.68726211, -27.90341566
+"337","SC-CHA-04","São Carlos","Proto_Je","SC",-53.02001937, -26.95667137
+"338","da Igreja Adventista","São Joaquim","Proto_Je","SC",-50.35588286, -28.40075295
+"340","SC-P-2: Luizinho 2","São Joaquim","Proto_Je","SC",-49.84068189, -28.47929769
+"341","Antônio Roque dos Anjos","São José do Cerrito","Proto_Je","SC",-50.89321059, -27.56154
+"342","Lajeado Goiabeira","São José do Cerrito","Proto_Je","SC",-50.8086779, -27.56085348
+"343","SPC.UHE.SR.07","São José do Cerrito","Proto_Je","SC",-50.8030324, -27.48125802
+"345","SC-CHA-05","Saudades","Proto_Je","SC",-53.03095004, -26.91751598
+"346","Barragem Taió 02","Taió","Proto_Je","SC",-50.04808153, -27.11030644
+"347","Sitio Timbe 01","Tijucas","Proto_Je","SC",-48.6949474, -27.30201156
+"348","Cafe 8","Timbó Grande","Proto_Je","SC",-50.7879935, -26.51379623
+"354","Fontana 01","Treze de Maio","Proto_Je","SC",-49.14144405, -28.56229229
+"355","Rio Capoeiras","Urubici","Proto_Je","SC",-49.63420846, -28.02759274
+"356","Morro do Cemiterio","Urubici","Proto_Je","SC",-49.59972999, -28.02185728
+"357","Gruta Lavatudo","Urubici","Proto_Je","SC",-49.59359925, -28.12713331
+"358","Donizete Fernandes","Urubici","Proto_Je","SC",-49.58329856, -28.03702352
+"361","S.A. Pedra Branca","Urubici","Proto_Je","SC",-49.56827614, -28.07448663
+"362","aguas Brancas","Urubici","Proto_Je","SC",-49.56637586, -27.95297199
+"363","Borguesan II","Urubici","Proto_Je","SC",-49.53651384, -27.99809289
+"364","S.A. Santo Antônio II","Urubici","Proto_Je","SC",-49.53620327, -28.01279234
+"366","SA Casa de Pedra","Urubici","Proto_Je","SC",-49.37918657, -28.0613819
+"367","Valentim Muniz de Oliveira","Urupema","Proto_Je","SC",-49.87716125, -27.98363263
+"368","Valdevino Machado","Vargem","Proto_Je","SC",-51.0080652, -27.44731411
+"369","Ludovico Poleze II","Vargem","Proto_Je","SC",-51.00259984, -27.4104799
+"371","Joao Maria da Silva Muniz","Vargem","Proto_Je","SC",-50.98096439, -27.39369543
+"372","SPC.LT.SR.17","Vargem","Proto_Je","SC",-50.93428147, -27.53155003
+"373","Joao Machado","Vargem","Proto_Je","SC",-50.92153115, -27.49392178
+"375","SPC.LT.SR.15","Vargem","Proto_Je","SC",-50.90721729, -27.52482687
+"377","SPC.LT.SR.11","Vargem","Proto_Je","SC",-50.85569097, -27.50356738
+"380","SPC.LT.SR.08","Vargem","Proto_Je","SC",-50.84292692, -27.50145006
+"382","SPC.LT.SR.06","Vargem","Proto_Je","SC",-50.83258384, -27.49879282
+"384","SPC.LT.SR.04","Vargem","Proto_Je","SC",-50.82036799, -27.4963581
+"387","Lajeado Perau das Flores","Xanxerê","Proto_Je","SC",-52.34702317, -26.93858297
+"388","Lajeado Salto do Reduto","Xavantina","Proto_Je","SC",-52.33886941, -27.038546
+"389","Michelon 3","Xaxim","Proto_Je","SC",-52.46042387, -27.07657782
+"390","Eduardo Fabiano","Zortéa","Proto_Je","SC",-51.60554212, -27.52148794
+"391","eder","Zortéa","Proto_Je","SC",-51.55044265, -27.51453089
+"392","Edineia","Campo Belo do Sul","Proto_Je","SC",-50.8442, -27.6846
+"395","Valdomiro 2","Campo Belo do Sul","Proto_Je","SC",-50.7957, -27.7186
+"397","Bonin 1 (Urubici-31","Urubici","Proto_Je","SC",-49.5496, -27.9985
+"403","Urubici","Urubici","Proto_Je","SC",-49.589, -28.006
+"404","Fazenda Bananeiras I","Lages","Proto_Je","SC",-50.4142, -28.3103
+"407","Murchao","Anita Garibaldi","Proto_Je","SC",-51.1182, -27.7173
+"410","Tapera","Florianópolis","Proto_Je","SC",-48.57, -27.69
+"411","Vargem do Cedro 8","Vargem","Proto_Je","SC",-48.9098, -28.1408
+"412","Rio do Meio","Florianópolis","Proto_Je","SC",-48.49655812, -27.43778908
+"413","Sao Joaquim","São Joaquim","Proto_Je","SC",-49.94, -28.31
+"414","Ponta do Costao do Ilhote","Laguna","Proto_Je","SC",-48.8374, -28.5999
+"417","Valmor Baggio 1","Campo Belo do Sul","Proto_Je","SC",-50.77559756, -27.70321657
+"418","SC-AB-48","Abdon Batista","Proto_Je","SC",-51.1199, -27.615
+"419","SC-AB-96","Abdon Batista","Proto_Je","SC",-51.0486, -27.6319
+"420","SC-AB-95","Abdon Batista","Proto_Je","SC",-51.0202, -27.6317
+"423","SC-AG-40","Anita Garibaldi","Proto_Je","SC",-51.1479, -27.6246
+"424","SC-AG-76","Anita Garibaldi","Proto_Je","SC",-51.0902, -27.6389
+"426","SC-AG-75","Anita Garibaldi","Proto_Je","SC",-51.0662, -27.6601
+"427","SC-AG-18","Anita Garibaldi","Proto_Je","SC",-51.0479, -27.6566
+"429","SC-AG-12","Anita Garibaldi","Proto_Je","SC",-51.0229, -27.6618
+"430","SC-CR-06","São José do Cerrito","Proto_Je","SC",-51.2058, -27.6425
+"431","SC-AB-04","Abdon Batista","Proto_Je","SC",-51.1412, -27.6001
+"432","Santa Barbara","Bom Jardim da Serra","Proto_Je","SC",-49.62640127, -28.19897606
+"433","Gruta do Ribeirao Herta - SC-VI-16","Ibirama","Proto_Je","SC",-49.57, -27.07
+"434","SC-RA-01","São Joaquim","Proto_Je","SC",-49.9369, -28.2933
+"438","Operario","Ibirama","Proto_Je","SC",-49.51178456, -27.04237165
+"440","RS-T-123","Arvorezinha","Proto_Je","RS",-52.2384, -28.8514
+"441","RS-T-130","Arvorezinha","Proto_Je","RS",-52.1026, -28.8858
+"442","RS-T-126","Itapuca","Proto_Je","RS",-52.2551, -28.8139
+"443","Boa Vista 2","Porto Lucena","Proto_Je","RS",-54.966667, -27.766667
+"444","Sapateiro 3 / Mangueira Nova-1 (Sapateiro 3","Bom Jesus","Proto_Je","RS",-50.1, -28.6
+"445","Passo da Cadeia","Bom Jesus","Proto_Je","RS",-50.094444, -28.483333
+"446","Fazenda Sao Marcos","Esmeralda","Proto_Je","RS",-51.2, -29.166667
+"447","Tres_Arvores","Passo Fundo","Proto_Je","RS",-52.483333, -28.166667
+"448","Bugres-1","São Francisco do Sul","Proto_Je","RS",-50.35, -29.3
+"449","Fazenda Carvalho 2","São José dos Ausentes","Proto_Je","RS",-49.880278, -28.496667
+"450","RS - A - 29","Vacaria","Proto_Je","RS",-50.92920781, -28.68175434
+"452","RS - A - 27","Vacaria","Proto_Je","RS",-50.93628475, -28.67507833
+"453","Matematico","São José do Cerrito","Proto_Je","RS",-50.15, -28.8
+"454","Leonardo Boeira Silveira ","Caxias do Sul","Proto_Je","RS",-51.033, -29.0779
+"455","Camboim 1","Arroio do Sal","Proto_Je","RS",-49.87578398, -29.52049167
+"457","Jardim Olivia 3","Arroio do Sal","Proto_Je","RS",-49.86239635, -29.51357342
+"458","Balneario Atlantico 1","Arroio do Sal","Proto_Je","RS",-49.84441969, -29.48121052
+"463","Torres Sul 5","Arroio do Sal","Proto_Je","RS",-49.81772964, -29.44454476
+"467","Sitio Schaefer","Barão","Proto_Je","RS",-51.48317073, -29.35802747
+"468","RS - P - 61","Bom Jesus","Proto_Je","RS",-50.69727821, -28.32631594
+"471","RS - P - 55","Bom Jesus","Proto_Je","RS",-50.6798979, -28.33556482
+"474","RS - P - 51","Bom Jesus","Proto_Je","RS",-50.66972715, -28.33856454
+"475","RS - P - 72","Bom Jesus","Proto_Je","RS",-50.30648334, -28.43843274
+"477","RS - P - 62","Bom Jesus","Proto_Je","RS",-50.29260287, -28.45264094
+"479","Prainha 2","Bom Jesus","Proto_Je","RS",-50.28333333, -28.46333333
+"482","RS - P - 64","Bom Jesus","Proto_Je","RS",-50.27567192, -28.45677617
+"483","RS - P - 67","Bom Jesus","Proto_Je","RS",-50.26533361, -28.45561953
+"484","RS - P - 70","Bom Jesus","Proto_Je","RS",-50.24788418, -28.43033187
+"485","Agenor Valim I","Cambará do Sul","Proto_Je","RS",-50.2072185, -29.1276012
+"486","Rubem Carvalho I","Cambará do Sul","Proto_Je","RS",-50.18806203, -29.13890356
+"487","Estrada da Serra Geral (Cambara","Cambará do Sul","Proto_Je","RS",-50.18273546, -29.0844665
+"489","Butia","Cambará do Sul","Proto_Je","RS",-50.17923112, -28.83341818
+"490","Ervino Bassani I","Cambará do Sul","Proto_Je","RS",-50.17178658, -29.00680798
+"491","Manoel Francisco Weber","Cambará do Sul","Proto_Je","RS",-50.16394505, -29.07020801
+"492","Aloise Emerich","Cambará do Sul","Proto_Je","RS",-50.13771478, -29.06187413
+"493","Varzinha","Cambará do Sul","Proto_Je","RS",-50.11631382, -28.87380736
+"494","Romario Jose Cardoso da Silva","Cambará do Sul","Proto_Je","RS",-50.08959772, -29.1087314
+"495","Ernani Lima","Cambará do Sul","Proto_Je","RS",-50.04916513, -29.10680824
+"496","Estrada Parque  Aparados da Serra.","Cambará do Sul","Proto_Je","RS",-50.04872172, -29.15610035
+"497","Parque Nacional da Serra Geral I","Cambará do Sul","Proto_Je","RS",-50.03289153, -29.16888383
+"498","Parque Nacional da Serra Geral II","Cambará do Sul","Proto_Je","RS",-50.01927863, -29.16329761
+"499","Toca Santa","Caxias do Sul","Proto_Je","RS",-50.99091868, -28.90262138
+"500","RS-EG-10","Erval Grande","Proto_Je","RS",-52.68498721, -27.28891193
+"503","RS-EG-11","Erval Grande","Proto_Je","RS",-52.67353713, -27.2994293
+"505","RS-EG-03","Erval Grande","Proto_Je","RS",-52.66150997, -27.30119744
+"509","RS-EG-01","Erval Grande","Proto_Je","RS",-52.65085158, -27.30809323
+"510","RS-FA-50","Faxinalzinho","Proto_Je","RS",-52.74077739, -27.32351931
+"515","RS-FA-39","Faxinalzinho","Proto_Je","RS",-52.73045845, -27.31823203
+"519","RS-FA-42","Faxinalzinho","Proto_Je","RS",-52.72592153, -27.328036
+"522","RS-FA-36","Faxinalzinho","Proto_Je","RS",-52.71915579, -27.32116955
+"529","RS-FA-30","Faxinalzinho","Proto_Je","RS",-52.70957427, -27.3243559
+"530","RS-FA-23","Faxinalzinho","Proto_Je","RS",-52.70900578, -27.3110046
+"539","RS-FA-21","Faxinalzinho","Proto_Je","RS",-52.69426411, -27.30107508
+"542","RS-FA-11","Faxinalzinho","Proto_Je","RS",-52.68813272, -27.31252191
+"548","RS-FA-13","Faxinalzinho","Proto_Je","RS",-52.67990337, -27.32029311
+"553","RS-FA-07","Faxinalzinho","Proto_Je","RS",-52.67403017, -27.30872013
+"561","Olmirio Silveira","Herveiras","Proto_Je","RS",-52.6510479, -29.48032749
+"562","RST 100","Ilópolis","Proto_Je","RS",-52.14907509, -28.89107845
+"563","RS-I-99: Ponta Leste","Itaqui","Proto_Je","RS",-56.76666667, -29.38333333
+"564","MAESA","Machadinho","Proto_Je","RS",-51.76827944, -27.51935712
+"567","Valmir da Silva","Machadinho","Proto_Je","RS",-51.75439475, -27.51749222
+"569","RGE","Machadinho","Proto_Je","RS",-51.73450812, -27.52200408
+"571","Guto","Machadinho","Proto_Je","RS",-51.71187257, -27.52132737
+"572","Venturino Rech","Machadinho","Proto_Je","RS",-51.68583619, -27.52084433
+"574","Joao Padron Torre II","Machadinho","Proto_Je","RS",-51.663673, -27.5211956
+"578","RS-NO-186","Nonoai","Proto_Je","RS",-52.7971934, -27.20909974
+"581","RS-NO-193","Nonoai","Proto_Je","RS",-52.79671168, -27.22185926
+"584","RS-NO-225","Nonoai","Proto_Je","RS",-52.7942344, -27.26379731
+"587","RS-NO-216","Nonoai","Proto_Je","RS",-52.79382874, -27.27564419
+"594","RS-NO-215","Nonoai","Proto_Je","RS",-52.79175745, -27.24537153
+"605","RS-NO-221","Nonoai","Proto_Je","RS",-52.78786054, -27.25553917
+"607","RS-NO-180","Nonoai","Proto_Je","RS",-52.78702114, -27.21247913
+"611","RS-NO-198","Nonoai","Proto_Je","RS",-52.78561382, -27.22298499
+"619","RS-NO-208","Nonoai","Proto_Je","RS",-52.78214554, -27.23469945
+"629","RS-NO-164","Nonoai","Proto_Je","RS",-52.77757317, -27.2163721
+"637","RS-NO-131","Nonoai","Proto_Je","RS",-52.77459059, -27.25174577
+"640","RS-NO-146","Nonoai","Proto_Je","RS",-52.77311816, -27.24168267
+"645","RS-NO-151","Nonoai","Proto_Je","RS",-52.77120663, -27.22873684
+"655","RS-NO-158","Nonoai","Proto_Je","RS",-52.76685491, -27.21338477
+"659","RS-NO-128","Nonoai","Proto_Je","RS",-52.76619161, -27.25962319
+"673","RS-NO-05","Nonoai","Proto_Je","RS",-52.75767207, -27.32341609
+"674","RS-NO-120","Nonoai","Proto_Je","RS",-52.75765426, -27.2652003
+"676","RS-NO-113","Nonoai","Proto_Je","RS",-52.75714425, -27.27836628
+"695","RS-NO-94","Nonoai","Proto_Je","RS",-52.74545612, -27.28644906
+"700","RS-NO-89","Nonoai","Proto_Je","RS",-52.74288689, -27.27420325
+"702","RS-NO-03","Nonoai","Proto_Je","RS",-52.74226789, -27.3328875
+"714","RS-NO-22","Nonoai","Proto_Je","RS",-52.73624097, -27.30865615
+"717","RS-NO-71","Nonoai","Proto_Je","RS",-52.73521255, -27.26395506
+"721","RS-NO-104","Nonoai","Proto_Je","RS",-52.73357622, -27.27995384
+"738","RS-NO-87","Nonoai","Proto_Je","RS",-52.72839892, -27.28966376
+"740","RS-NO-76","Nonoai","Proto_Je","RS",-52.72769323, -27.25188125
+"751","RS-NO-54","Nonoai","Proto_Je","RS",-52.7200584, -27.25844685
+"764","RS-NO-31","Nonoai","Proto_Je","RS",-52.71379362, -27.28787589
+"767","RS-NO-41","Nonoai","Proto_Je","RS",-52.71263834, -27.27512745
+"778","RS-NO-01","Nonoai","Proto_Je","RS",-52.69851973, -27.32774004
+"779","RS - LC - 88","Palmares do Sul","Proto_Je","RS",-50.3635, -30.35533333
+"780","Lagoa da Porteira 1 ","Palmares do Sul","Proto_Je","RS",-50.33166667, -30.38416667
+"782","RS - LC - 84","Palmares do Sul","Proto_Je","RS",-50.32233333, -30.39016667
+"783","Torre 60 e 61","Parobé","Proto_Je","RS",-50.81784757, -29.66443639
+"785","RS - PE - 50","Pinhal da Serra","Proto_Je","RS",-51.19303009, -27.84106064
+"786","RS - PE - 46","Pinhal da Serra","Proto_Je","RS",-51.18917079, -27.82927609
+"787","RS - PE - 42","Pinhal da Serra","Proto_Je","RS",-51.16962602, -27.84418782
+"788","RS - PE - 51","Pinhal da Serra","Proto_Je","RS",-51.14921876, -27.84881541
+"789","RS-RI-79","Rio dos Índios","Proto_Je","RS",-52.91052652, -27.22858413
+"790","RS-RI-104","Rio dos Índios","Proto_Je","RS",-52.85293699, -27.22312136
+"791","RS-RI-105","Rio dos Índios","Proto_Je","RS",-52.84541859, -27.21535033
+"794","RS-RI-101","Rio dos Índios","Proto_Je","RS",-52.84126019, -27.22399741
+"807","RS-RI-56","Rio dos Índios","Proto_Je","RS",-52.83306043, -27.21464613
+"809","RS-RI-92","Rio dos Índios","Proto_Je","RS",-52.83091837, -27.23860103
+"813","RS-RI-77","Rio dos Índios","Proto_Je","RS",-52.82300883, -27.23282856
+"814","RS-RI-68","Rio dos Índios","Proto_Je","RS",-52.82120027, -27.21351918
+"815","RS-RI-71","Rio dos Índios","Proto_Je","RS",-52.82095868, -27.25202565
+"826","RS-RI-63","Rio dos Índios","Proto_Je","RS",-52.80986207, -27.20907205
+"827","RS-RI-33","Rio dos Índios","Proto_Je","RS",-52.80749817, -27.23147723
+"828","RS-RI-12","Rio dos Índios","Proto_Je","RS",-52.80676803, -27.24753428
+"830","RS-RI-60","Rio dos Índios","Proto_Je","RS",-52.80567447, -27.21732141
+"833","RS-RI-02","Rio dos Índios","Proto_Je","RS",-52.8048377, -27.26745171
+"859","RS-RI-30","Rio dos Índios","Proto_Je","RS",-52.7978114, -27.23438185
+"881","Torre 83 (Estrutura escavada no vertice MV 10","Santo Antônio da Patrulha","Proto_Je","RS",-50.5283064, -29.7910987
+"882","Michelon 1","São Marcos","Proto_Je","RS",-51.08709112, -28.95139736
+"883","Fabro","São Marcos","Proto_Je","RS",-51.08588985, -28.97553365
+"884","Sogari","São Marcos","Proto_Je","RS",-51.06331045, -28.97967105
+"885","Morro da Antena","São Marcos","Proto_Je","RS",-51.0528924, -28.96114519
+"886","Gruta das Cabras","São Marcos","Proto_Je","RS",-51.0441432, -28.9250352
+"887","Norberto Koeller","Sinimbu","Proto_Je","RS",-52.65242444, -29.50096483
+"888","Tapejara 1","Tapejara","Proto_Je","RS",-52.01598292, -28.0248751
+"889","RS - A - 28","Vacaria","Proto_Je","RS",-50.97742382, -28.70316348
+"890","Torre 181-1 e 181-2","Vista Alegre do Prata","Proto_Je","RS",-51.78462045, -28.79167602
+"892","Irmaos Almeida ","Pinhal da Serra","Proto_Je","RS",-51.17, -27.86
+"896","RS-RP-164b","Herveiras","Proto_Je","RS",-52.6658, -29.4399
+"897","Virador I","Portão","Proto_Je","RS",-51.2782, -29.6295
+"901","Ita","Itá","Proto_Je","RS",-52.329, -27.27
+"902","Caipora ","São Francisco de Paula","Proto_Je","RS",-50.5, -29.4667
+"904","Leopoldo 7 ","Pinhal da Serra","Proto_Je","RS",-51.1795, -27.823
+"905","Darci Grazziotin","Bom Jesus","Proto_Je","RS",-50.4241, -28.6734
+"906","Morro da Formiga","Taquara","Proto_Je","RS",-50.7903, -29.6428
+"907","Ponta da Armacao I","(copiado","Proto_Je","(copiado",-48.49995487, -27.74985191
+"908","Galheta IV","(copiado","Proto_Je","(copiado",-48.7888, -28.5551

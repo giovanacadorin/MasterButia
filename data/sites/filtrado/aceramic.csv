@@ -1,0 +1,446 @@
+"id","nome","Municipio","Classificação.autora","UF","decimallon","decimallat"
+"1","Ponto Suarez e Cardillo (2019 9","Artigas","Aceramico","URG",-57.76661, -30.64977
+"2","Ponto Suarez e Cardillo (2019 7","Artigas","Aceramico","URG",-57.6734, -30.42707
+"3","Ponto Suarez e Cardillo (2019 5","Artigas","Aceramico","URG",-57.63285, -30.31892
+"4","Ponto Suarez e Cardillo (2019 3","Artigas","Aceramico","URG",-57.6236, -30.21006
+"5","Ponto Suarez e Cardillo (2019 6","Artigas","Aceramico","URG",-57.54889, -30.42849
+"6","Ponto Suarez e Cardillo (2019 2","Artigas","Aceramico","URG",-57.45284, -30.26058
+"7","Ponto Suarez e Cardillo (2019 1","Artigas","Aceramico","URG",-57.32903, -30.25666
+"8","Ponto Suarez e Cardillo (2019 23","Canelones","Aceramico","URG",-55.76797, -34.25145
+"9","Ponto Suarez e Cardillo (2019 28","Canelones","Aceramico","URG",-55.59579, -34.69401
+"10","Ponto Suarez e Cardillo (2019 16","Cerro Largo","Aceramico","URG",-54.45808, -32.04292
+"11","Ponto Suarez e Cardillo (2019 20","Colonia del Sacramento","Aceramico","URG",-57.38097, -33.95831
+"12","Ponto Suarez e Cardillo (2019 80","Durazno","Aceramico","URG",-56.99258, -33.04708
+"13","Ponto Suarez e Cardillo (2019 84","Durazno","Aceramico","URG",-56.86806, -32.82785
+"14","Ponto Suarez e Cardillo (2019 79","Durazno","Aceramico","URG",-56.71464, -32.87098
+"15","Ponto Suarez e Cardillo (2019 78","Durazno","Aceramico","URG",-56.65683, -32.89766
+"16","Ponto Suarez e Cardillo (2019 77","Durazno","Aceramico","URG",-56.58924, -32.95014
+"17","Ponto Suarez e Cardillo (2019 76","Durazno","Aceramico","URG",-56.55811, -32.86654
+"18","Ponto Suarez e Cardillo (2019 75","Durazno","Aceramico","URG",-56.48518, -32.92079
+"19","Ponto Suarez e Cardillo (2019 74","Durazno","Aceramico","URG",-56.34821, -32.87009
+"20","Ponto Suarez e Cardillo (2019 96","Durazno","Aceramico","URG",-56.20858, -32.66464
+"21","Ponto Suarez e Cardillo (2019 71","Durazno","Aceramico","URG",-56.09474, -32.77582
+"22","Ponto Suarez e Cardillo (2019 68","Durazno","Aceramico","URG",-56.03604, -32.54724
+"23","Ponto Suarez e Cardillo (2019 72","Durazno","Aceramico","URG",-55.99779, -32.80517
+"24","Ponto Suarez e Cardillo (2019 73","Durazno","Aceramico","URG",-55.8795, -32.80428
+"25","Ponto Suarez e Cardillo (2019 63","Durazno","Aceramico","URG",-55.65893, -32.56236
+"26","Ponto Suarez e Cardillo (2019 62","Durazno","Aceramico","URG",-55.52375, -32.52768
+"27","Ponto Suarez e Cardillo (2019 61","Durazno","Aceramico","URG",-55.42058, -32.51167
+"28","Ponto Suarez e Cardillo (2019 18","Florida","Aceramico","URG",-56.32366, -33.41044
+"29","Ponto Suarez e Cardillo (2019 17","Florida","Aceramico","URG",-55.63492, -33.29945
+"30","Ponto Suarez e Cardillo (2019 24","Lavalleja","Aceramico","URG",-55.62282, -34.24007
+"31","Ponto Suarez e Cardillo (2019 26","Lavalleja","Aceramico","URG",-55.55737, -34.58728
+"32","Ponto Suarez e Cardillo (2019 25","Lavalleja","Aceramico","URG",-55.52321, -34.41652
+"33","Ponto Suarez e Cardillo (2019 27","Lavalleja","Aceramico","URG",-55.42787, -34.59725
+"34","Ponto Suarez e Cardillo (2019 29","Maldonado","Aceramico","URG",-55.46487, -34.70824
+"35","Ponto Suarez e Cardillo (2019 30","Maldonado","Aceramico","URG",-55.37949, -34.66697
+"36","Ponto Suarez e Cardillo (2019 31","Maldonado","Aceramico","URG",-55.35103, -34.76659
+"37","Ponto Suarez e Cardillo (2019 32","Maldonado","Aceramico","URG",-55.26991, -34.71536
+"38","Ponto Suarez e Cardillo (2019 33","Maldonado","Aceramico","URG",-54.91416, -34.88185
+"39","Ponto Suarez e Cardillo (2019 12","Paysandú","Aceramico","URG",-57.89326, -31.53347
+"40","Ponto Suarez e Cardillo (2019 13","Paysandú","Aceramico","URG",-57.87761, -31.64589
+"41","Ponto Suarez e Cardillo (2019 81","Río Negro","Aceramico","URG",-57.19269, -33.01017
+"42","Ponto Suarez e Cardillo (2019 82","Río Negro","Aceramico","URG",-57.12776, -32.90167
+"43","Ponto Suarez e Cardillo (2019 83","Río Negro","Aceramico","URG",-57.00236, -32.8741
+"44","Ponto Suarez e Cardillo (2019 85","Río Negro","Aceramico","URG",-56.97568, -32.62773
+"45","Ponto Suarez e Cardillo (2019 86","Río Negro","Aceramico","URG",-56.84938, -32.63396
+"46","Ponto Suarez e Cardillo (2019 95","Río Negro","Aceramico","URG",-56.81203, -32.39649
+"47","Ponto Suarez e Cardillo (2019 87","Río Negro","Aceramico","URG",-56.71864, -32.64019
+"48","Ponto Suarez e Cardillo (2019 94","Río Negro","Aceramico","URG",-56.68751, -32.40005
+"49","Ponto Suarez e Cardillo (2019 15","Rivera","Aceramico","URG",-55.55665, -31.727
+"50","Ponto Suarez e Cardillo (2019 48","Rivera","Aceramico","URG",-53.6562, -33.14149
+"51","Ponto Suarez e Cardillo (2019 34","Rocha","Aceramico","URG",-54.43744, -34.6499
+"52","Ponto Suarez e Cardillo (2019 35","Rocha","Aceramico","URG",-54.23822, -34.60578
+"53","Ponto Suarez e Cardillo (2019 36","Rocha","Aceramico","URG",-54.076, -34.38095
+"54","Ponto Suarez e Cardillo (2019 37","Rocha","Aceramico","URG",-53.965, -34.40656
+"55","Ponto Suarez e Cardillo (2019 39","Rocha","Aceramico","URG",-53.86681, -34.29556
+"56","Ponto Suarez e Cardillo (2019 40","Rocha","Aceramico","URG",-53.85685, -34.03373
+"57","Ponto Suarez e Cardillo (2019 38","Rocha","Aceramico","URG",-53.84547, -34.39945
+"58","Ponto Suarez e Cardillo (2019 44","Rocha","Aceramico","URG",-53.71739, -33.89
+"59","Ponto Suarez e Cardillo (2019 47","Rocha","Aceramico","URG",-53.63913, -33.25249
+"60","Ponto Suarez e Cardillo (2019 43","Rocha","Aceramico","URG",-53.62917, -33.94835
+"61","Ponto Suarez e Cardillo (2019 46","Rocha","Aceramico","URG",-53.62205, -33.4204
+"62","Ponto Suarez e Cardillo (2019 41","Rocha","Aceramico","URG",-53.60497, -34.09776
+"63","Ponto Suarez e Cardillo (2019 42","Rocha","Aceramico","URG",-53.57651, -34.00242
+"64","Ponto Suarez e Cardillo (2019 11","Salto, São Paulo","Aceramico","URG",-57.77444, -31.04822
+"65","Ponto Suarez e Cardillo (2019 10","Salto, São Paulo","Aceramico","URG",-57.74598, -30.849
+"66","Ponto Suarez e Cardillo (2019 21","San Jose, California","Aceramico","URG",-57.12056, -33.94265
+"67","Ponto Suarez e Cardillo (2019 22","San Jose, California","Aceramico","URG",-56.73776, -34.11911
+"68","Ponto Suarez e Cardillo (2019 19","Soriano","Aceramico","URG",-57.34682, -33.75055
+"69","Ponto Suarez e Cardillo (2019 88","Tacuarembó","Aceramico","URG",-56.58968, -32.71756
+"70","Ponto Suarez e Cardillo (2019 93","Tacuarembó","Aceramico","URG",-56.58701, -32.60995
+"71","Ponto Suarez e Cardillo (2019 89","Tacuarembó","Aceramico","URG",-56.48918, -32.70689
+"72","Ponto Suarez e Cardillo (2019 90","Tacuarembó","Aceramico","URG",-56.45716, -32.61261
+"73","Ponto Suarez e Cardillo (2019 91","Tacuarembó","Aceramico","URG",-56.44026, -32.52723
+"74","Ponto Suarez e Cardillo (2019 69","Tacuarembó","Aceramico","URG",-56.21036, -32.56147
+"75","Ponto Suarez e Cardillo (2019 67","Tacuarembó","Aceramico","URG",-56.08317, -32.47609
+"76","Ponto Suarez e Cardillo (2019 66","Tacuarembó","Aceramico","URG",-55.98712, -32.4752
+"77","Ponto Suarez e Cardillo (2019 65","Tacuarembó","Aceramico","URG",-55.83859, -32.42362
+"78","Ponto Suarez e Cardillo (2019 64","Tacuarembó","Aceramico","URG",-55.71497, -32.40494
+"79","Ponto Suarez e Cardillo (2019 70","Tacuarembó","Aceramico","URG",-55.66916, -31.9618
+"80","Ponto Suarez e Cardillo (2019 55","Tacuarembó","Aceramico","URG",-55.64559, -32.07053
+"81","Ponto Suarez e Cardillo (2019 57","Tacuarembó","Aceramico","URG",-55.59845, -32.14257
+"82","Ponto Suarez e Cardillo (2019 60","Tacuarembó","Aceramico","URG",-55.56021, -32.3747
+"83","Ponto Suarez e Cardillo (2019 56","Tacuarembó","Aceramico","URG",-55.54331, -32.08031
+"84","Ponto Suarez e Cardillo (2019 53","Tacuarembó","Aceramico","URG",-55.54287, -31.9638
+"85","Ponto Suarez e Cardillo (2019 54","Tacuarembó","Aceramico","URG",-55.5024, -32.02339
+"86","Ponto Suarez e Cardillo (2019 58","Tacuarembó","Aceramico","URG",-55.49173, -32.24841
+"87","Ponto Suarez e Cardillo (2019 45","Treinta y Tres","Aceramico","URG",-54.16849, -33.39194
+"88","Ponto Suarez e Cardillo (2019 50","Treinta y Tres","Aceramico","URG",-53.57153, -32.94725
+"89","Ponto Suarez e Cardillo (2019 51","Treinta y Tres","Aceramico","URG",-53.35096, -32.80139
+"90","Laguna Canosa","Artigas","Aceramico","URG",-57.5805, -30.2993
+"92","CalpicalD03","Artigas","Aceramico","URG",-57.366, -30.4167
+"93","Mt Site","Canelones","Aceramico","URG",-55.546523, -34.782504
+"94","Tres Pinos","Colonia del Sacramento","Aceramico","URG",-57.784608, -34.396503
+"95","M8","Colonia del Sacramento","Aceramico","URG",-57.625306, -34.369303
+"96","Minas de Callorda","Durazno","Aceramico","URG",-56.425, -32.883333
+"97","Urupez II","Maldonado","Aceramico","URG",-55.147024, -34.703165
+"98","Puerto La Tuna","Montevideo","Aceramico","URG",-56.331491, -34.772634
+"99","Lago Castillos","Rocha","Aceramico","URG",-54.505697, -34.698649
+"100","Craneo Marcado","Rocha","Aceramico","URG",-53.977772, -34.293654
+"101","Guardia del Monte","Rocha","Aceramico","URG",-53.884732, -34.291101
+"102","Cabo Polonio","Rocha","Aceramico","URG",-53.793375, -34.401629
+"103","Isla Larga","Rocha","Aceramico","URG",-53.646822, -33.599425
+"104","La Esmeralda","Rocha","Aceramico","URG",-53.593937, -34.081508
+"105","Tigre (K87","Treinta y Tres","Aceramico","URG",-54.583, -33.3
+"106","Nené Montesdeoca","Río Negro","Aceramico","URG",-58.35163, -33.16715
+"107","Invernada dos Negros I I","Abdon Batista","Aceramico","SC",-51.06189726, -27.56787773
+"108","SC-CHA-028","Águas Frias","Aceramico","SC",-52.86296485, -26.89448884
+"109","Nelito Hang","Angelina","Aceramico","SC",-49.18204556, -27.54031942
+"110","Três Riachos I","Biguaçu","Aceramico","SC",-48.75179891, -27.47241855
+"111","Santa Terezinha I","Biguaçu","Aceramico","SC",-48.71645061, -27.49247152
+"112","Rússia I","Biguaçu","Aceramico","SC",-48.70687411, -27.50486606
+"114","Encruzilhada I","Campos Novos","Aceramico","SC",-51.41329391, -27.54421086
+"115","Encruzilhada II","Campos Novos","Aceramico","SC",-51.39957555, -27.54847597
+"116","Isidro Manfroi","Campos Novos","Aceramico","SC",-51.29050313, -27.55326065
+"117","Sebastiao Becker","Campos Novos","Aceramico","SC",-51.14246212, -27.55785172
+"118","Augustinho Wilpert","Campos Novos","Aceramico","SC",-51.13232318, -27.55846661
+"119","Sitio Santa Teresinha","Canoinhas","Aceramico","SC",-50.5036621, -26.03668124
+"120","SC-CHA-027","Coronel Freitas","Aceramico","SC",-52.85839571, -26.90685134
+"121","Sitio do Platô","Curitibanos","Aceramico","SC",-50.5224183, -27.46082301
+"122","Doutor Pedrinho II","Doutor Pedrinho","Aceramico","SC",-49.52052574, -26.67715997
+"123","Doutor Pedrinho III","Doutor Pedrinho","Aceramico","SC",-49.49396769, -26.70466629
+"124","SC-PIX-01","Ibicaré","Aceramico","SC",-51.35129134, -27.09250761
+"125","mirim doce 2","Mirim Doce","Aceramico","SC",-50.21639876, -27.19935008
+"126","Mirim doce","Mirim Doce","Aceramico","SC",-50.18641987, -27.19694039
+"127","SC-CHA-012","Nova Erechim","Aceramico","SC",-52.89504352, -26.85325629
+"129","SC-CHA-014","Nova Erechim","Aceramico","SC",-52.88927358, -26.87239611
+"132","SC-CHA-013","Nova Erechim","Aceramico","SC",-52.88037574, -26.87964523
+"133","SC-CHA-017","Nova Erechim","Aceramico","SC",-52.87583745, -26.86446988
+"134","Pedra Branca 01","Palhoça","Aceramico","SC",-48.697708, -27.627933
+"135","Aririú I","Palhoça","Aceramico","SC",-48.69471879, -27.67721497
+"136","Santa Terezinha IV","Passos Maia","Aceramico","SC",-51.978375, -26.572326
+"137","SC-CHA-07","Pinhalzinho","Aceramico","SC",-53.02387682, -26.83925006
+"138","Santa Rosa de Lima 2","Santa Rosa, Paraguay","Aceramico","SC",-49.14780339, -28.08755891
+"141","SC-CHA-02","São Carlos","Aceramico","SC",-53.05296388, -27.0016644
+"143","SC-URG-02","São Carlos","Aceramico","SC",-53.04240789, -27.04806288
+"144","SC-CHA-03","São Carlos","Aceramico","SC",-53.03471044, -26.97833735
+"145","Alto das Palmeiras","Taió","Aceramico","SC",-50.15783246, -27.06264769
+"146","Fazenda Piazera","Taió","Aceramico","SC",-50.15686725, -27.09460972
+"147","HCR-HIMASA","Taió","Aceramico","SC",-50.13858686, -27.10026766
+"149","Passo Manso","Taió","Aceramico","SC",-50.10988999, -27.05154611
+"150","Arno Zangheilini","Taió","Aceramico","SC",-50.09917083, -27.08825729
+"151","Orli Nardelli","Taió","Aceramico","SC",-50.09491264, -27.05960271
+"152","Claudenir Cardoso","Taió","Aceramico","SC",-50.09279932, -27.02926151
+"153","Barragem Taió 1","Taió","Aceramico","SC",-50.05390282, -27.09585625
+"154","Laudelino Lückmann","Taió","Aceramico","SC",-50.03387819, -27.12758164
+"155","Artur Melchert","Taió","Aceramico","SC",-50.03363386, -27.05177862
+"156","Cohab I","Taió","Aceramico","SC",-49.99680213, -27.12834178
+"157","Ribeirao dos Lobos 2","Taió","Aceramico","SC",-49.99072129, -27.19085013
+"159","SC-ARA-063 - Poco da Lontra","Turvo","Aceramico","SC",-49.608245, -28.904809
+"160","SC-IRA-001","Xanxerê","Aceramico","SC",-52.37873003, -26.96923062
+"161","Gruta do Presepio","Rio do Oeste","Aceramico","SC",-49.77737334, -27.21959766
+"162","Joao Roque Vingla I","Anita Garibaldi","Aceramico","SC",-51.1814059, -27.76636648
+"163","Sitio oficina litica santa catarina","Anita Garibaldi","Aceramico","SC",-51.01046563, -27.78947646
+"164","Laranjeiras III","Balneario CamboriÃº","Aceramico","SC",-48.58839197, -26.99668304
+"165","Estaleiro I","Balneario CamboriÃº","Aceramico","SC",-48.57821792, -27.02345354
+"166","Oficina Litica Ponta dos Naufragos","Barra Velha","Aceramico","SC",-48.68176668, -26.64009802
+"167","Oficina Litica Praia da Lagoinha","Bombinhas","Aceramico","SC",-48.4826564, -27.14759221
+"168","SPC.UHE.SR.02","Brunópolis","Aceramico","SC",-50.75581456, -27.41989243
+"169","Joao Batista Carneiro","Campos Novos","Aceramico","SC",-51.45973126, -27.53929839
+"170","Naufragados I","Florianópolis","Aceramico","SC",-48.560094, -27.835185
+"171","Oficina Litica das Orquideas","Florianópolis","Aceramico","SC",-48.54667786, -27.61327221
+"172","Ilha Irma do Meio I","Florianópolis","Aceramico","SC",-48.520823, -27.834801
+"173","Matadeiro I","Florianópolis","Aceramico","SC",-48.4955464, -27.75766912
+"174","Vera Muccillo","Florianópolis","Aceramico","SC",-48.47553142, -27.42765572
+"175","Sitio Arqueológico Pedra da Guincha","Florianópolis","Aceramico","SC",-48.466805, -27.69302
+"178","Ingleses III","Florianópolis","Aceramico","SC",-48.40373057, -27.41414018
+"179","Santinho III","Florianópolis","Aceramico","SC",-48.37020915, -27.44976134
+"180","Oficina litica da Vigia I","Garopaba","Aceramico","SC",-48.61040622, -28.01945539
+"182","Oficina Litica Ponta da Guaiúba","Imbitubakj","Aceramico","SC",-48.72115155, -28.28971966
+"183","Rio Bonito","Ituporanga","Aceramico","SC",-49.44413262, -27.54099159
+"184","Barragem Norte 2","José Boiteux","Aceramico","SC",-49.679137, -26.895029
+"185","Fazenda Pai Querê III","Lages","Aceramico","SC",-50.64783602, -28.32256587
+"186","Praia de Seixos da Barra I","Lages","Aceramico","SC",-50.42535138, -28.43271962
+"187","Praia de Seixos do Praiao","Lages","Aceramico","SC",-50.40850039, -28.42392788
+"188","Passo do Ira I","Lages","Aceramico","SC",-50.40032744, -28.39028652
+"189","Praia de Seixos da Invernada Velha","Lages","Aceramico","SC",-50.39094383, -28.38546988
+"190","Guarda do Embaú III","Palhoça","Aceramico","SC",-48.58409971, -27.90467807
+"191","Ilha do Papagaio I","Palhoça","Aceramico","SC",-48.580606, -27.855334
+"192","Oficina litica Praia Grande","Penha","Aceramico","SC",-48.59680412, -26.78129251
+"193","Enseada das Garoupas","Porto Belo","Aceramico","SC",-48.549659, -27.156981
+"195","Alto Palmeiras 1","Rio dos Cedros","Aceramico","SC",-49.369139, -26.546824
+"196","Laranjeiras VII","São Francisco do Sul","Aceramico","SC",-48.6711476, -26.2755059
+"197","Praia de Seixos do Cachoeirao II","São Joaquim","Aceramico","SC",-50.40626587, -28.39984452
+"198","Praia de Seixos da Serraria","São Joaquim","Aceramico","SC",-50.3908532, -28.44056705
+"200","Praia de Seixos da Ponte I","São Joaquim","Aceramico","SC",-50.29237179, -28.45073271
+"201","Praia de Seixos da Volta da Couve","São Joaquim","Aceramico","SC",-50.25298503, -28.44861764
+"202","Barragem Taió 03","Taió","Aceramico","SC",-50.09265488, -27.06853179
+"203","Cachoeira do Escorpiao","Timbé do Sul","Aceramico","SC",-49.89509954, -28.76826173
+"204","Arthur Piassoli II","Timbé do Sul","Aceramico","SC",-49.85815628, -28.82151053
+"205","Arthur Piassoli I","Timbé do Sul","Aceramico","SC",-49.84442176, -28.82817154
+"206","Oficina litica do rio Sao Francisco","Urubici","Aceramico","SC",-49.63393112, -27.95914859
+"207","Base Aerea II","Florianópolis","Aceramico","SC",-48.57174385, -27.67399435
+"208","RS-I-50: Lageado dos Fósseis","Alegrete","Aceramico","RS",-55.7, -29.583333
+"209","Pedra Grande 8","São Pedro do Sul","Aceramico","RS",-54.112058, -29.652223
+"210","Porto das Laranjeiras","Itaqui","Aceramico","RS",-56.305224, -28.950467
+"211","Schmitz","Bom Princípio","Aceramico","RS",-51.404167, -29.568056
+"212","RS-IBI-038","Alegrete","Aceramico","RS",-56.03341373, -29.416354
+"213","RS-IBI-051","Alegrete","Aceramico","RS",-56.02752179, -29.4299926
+"214","RS-IBI-039","Alegrete","Aceramico","RS",-56.02282313, -29.44374794
+"215","RS-IBI-053","Alegrete","Aceramico","RS",-56.01468192, -29.47213366
+"216","RS-IBI-052","Alegrete","Aceramico","RS",-56.00782852, -29.46102756
+"217","RS-IBI-047","Alegrete","Aceramico","RS",-55.99462844, -29.53104948
+"218","RS-IBI-040","Alegrete","Aceramico","RS",-55.97745614, -29.59980219
+"219","RS-IBI-042","Alegrete","Aceramico","RS",-55.9733116, -29.67247046
+"220","RS-IBI-041","Alegrete","Aceramico","RS",-55.97015702, -29.63723303
+"222","RS-IBI-046","Alegrete","Aceramico","RS",-55.96442628, -29.68642507
+"224","RS-IBI-045","Alegrete","Aceramico","RS",-55.95932267, -29.72132698
+"225","RS-IBI-085","Alegrete","Aceramico","RS",-55.95554508, -29.76461337
+"226","RS-IBI-043","Alegrete","Aceramico","RS",-55.95541715, -29.70610844
+"228","RS-IBI-060","Alegrete","Aceramico","RS",-55.95063003, -29.89258098
+"229","RS-IBI-059","Alegrete","Aceramico","RS",-55.94410427, -29.94374883
+"230","RS-IBI-081","Alegrete","Aceramico","RS",-55.94263504, -29.90042214
+"231","RS-IBI-080","Alegrete","Aceramico","RS",-55.94015008, -29.9912278
+"232","RS-IBI-079","Alegrete","Aceramico","RS",-55.93989851, -30.02366642
+"233","RS-IBI-030","Alegrete","Aceramico","RS",-55.84641129, -30.14018655
+"234","RS-IBI-029","Alegrete","Aceramico","RS",-55.83503613, -30.09391275
+"236","RS-IBI-027","Alegrete","Aceramico","RS",-55.83331806, -30.06877591
+"238","RS-IBI-026","Alegrete","Aceramico","RS",-55.8240295, -30.03747155
+"239","RS-IBI-025","Alegrete","Aceramico","RS",-55.81590558, -29.99586295
+"240","RS-IBI-024","Alegrete","Aceramico","RS",-55.80606839, -29.95419309
+"241","RS-IBI-064","Alegrete","Aceramico","RS",-55.7389757, -29.87088456
+"243","RS-IBI-061","Alegrete","Aceramico","RS",-55.7205023, -29.7792876
+"244","RS I 15 - edson dos Anjos","Alegrete","Aceramico","RS",-55.72023831, -29.8159167
+"245","Arroio Jararaca","Alegrete","Aceramico","RS",-55.71611111, -29.79805555
+"248","RS-IBI-062","Alegrete","Aceramico","RS",-55.70472528, -29.80917394
+"249","RS-IBI-023","Alegrete","Aceramico","RS",-55.69736094, -29.83209385
+"250","RS-URG-01","Alpestre","Aceramico","RS",-53.04429428, -27.1236658
+"251","RS-URG-11","Alpestre","Aceramico","RS",-53.03908958, -27.10419315
+"252","Sitio dos Polidores","Antônio Prado","Aceramico","RS",-51.45948309, -28.89274886
+"254","Morrinhos RS J 33C","Barão","Aceramico","RS",-51.85871147, -30.32056311
+"255","Morrinhos RS J33A","Barão do Triunfo","Aceramico","RS",-51.85080319, -30.31390535
+"257","RS-BJC-001","Barão do Triunfo","Aceramico","RS",-51.70117003, -30.42650712
+"258","RS - P - 74","Bom Jesus","Aceramico","RS",-50.70665172, -28.32317703
+"259","RS - P - 47","Bom Jesus","Aceramico","RS",-50.67183259, -28.33403819
+"261","RS - P - 53","Bom Jesus","Aceramico","RS",-50.67031115, -28.34437918
+"267","RS - P - 58","Bom Jesus","Aceramico","RS",-50.65989094, -28.3452653
+"268","RS - P - 76","Bom Jesus","Aceramico","RS",-50.51708077, -28.43686958
+"269","RS - P - 69","Bom Jesus","Aceramico","RS",-50.24873716, -28.43244873
+"271","RS-BIC-013","Bossoroca","Aceramico","RS",-55.19789088, -28.71342099
+"272","RS-BIC-005","Bossoroca","Aceramico","RS",-55.11998836, -28.67601281
+"274","RS-BIC-003","Bossoroca","Aceramico","RS",-55.10498753, -28.66296284
+"275","RS-BIC-001","Bossoroca","Aceramico","RS",-55.07676887, -28.65522867
+"276","Ferramenta","Bossoroca","Aceramico","RS",-55.06156936, -28.6823354
+"278","Menghin","Bossoroca","Aceramico","RS",-55.05132646, -28.67404903
+"281","Timbaúva","Bossoroca","Aceramico","RS",-54.97936159, -28.61191441
+"282","RS-PIR-010","Bossoroca","Aceramico","RS",-54.96910989, -28.60264754
+"283","RS-PIR-008","Bossoroca","Aceramico","RS",-54.95092864, -28.59221363
+"285","RS-PIR-005","Bossoroca","Aceramico","RS",-54.90727724, -28.57814741
+"286","Sitio Barranco","Caxias do Sul","Aceramico","RS",-51.03063284, -29.12639844
+"288","RS-MSG-102 AREIAL I","Chuí","Aceramico","RS",-53.39933658, -33.74131516
+"292","RS CA 04 - Agropecuaria Tapera","Encruzilhada do Sul","Aceramico","RS",-52.60598054, -30.89599679
+"293","RS CA 01 - Elso dos Santos Leite - km 44","Encruzilhada do Sul","Aceramico","RS",-52.57685589, -30.87214335
+"294","RS CA 05 - Hilda Prestes","Encruzilhada do Sul","Aceramico","RS",-52.57255354, -30.83053045
+"295","Sitio do Vinhedo","Fagundes Varela","Aceramico","RS",-51.79035238, -28.93052093
+"296","NIENTE","Giruá","Aceramico","RS",-54.36690056, -28.16349367
+"297","Elemar Mundt","Ibarama","Aceramico","RS",-53.24880412, -29.42467028
+"298","Euclides Leal","Ibarama","Aceramico","RS",-53.22464242, -29.37423795
+"299","Casa de Maquinas","Ijuí","Aceramico","RS",-53.88194662, -28.30290994
+"301","PICA-PAU","Itacurubi","Aceramico","RS",-55.13030314, -28.74502496
+"303","RS-I-71: Barbosa","Itaqui","Aceramico","RS",-56.7275, -29.37027778
+"304","RS-IJ-67:Pessegueiro","Itaqui","Aceramico","RS",-56.39722222, -28.9975
+"305","RS-IBI-008","Itaqui","Aceramico","RS",-55.9966108, -29.15449642
+"306","RS-IBI-005","Itaqui","Aceramico","RS",-55.97233474, -29.1536265
+"308","RS-BIC-030","Maçambara","Aceramico","RS",-55.78766929, -29.07874764
+"310","RS-BIC-028","Maçambara","Aceramico","RS",-55.76949627, -29.07781511
+"311","RS-BIC-027","Maçambara","Aceramico","RS",-55.69414471, -29.04659065
+"312","Alcides Drescher","Nova Palma","Aceramico","RS",-53.2840833, -29.43132317
+"313","RS-IBI-078","Quaraí","Aceramico","RS",-55.93721178, -30.08688322
+"314","RS-IBI-058","Quaraí","Aceramico","RS",-55.93693058, -30.12478946
+"315","RS-IBI-077","Quaraí","Aceramico","RS",-55.93574186, -30.10398929
+"316","RS-IBI-056","Quaraí","Aceramico","RS",-55.93513585, -30.28198331
+"317","RS-IBI-071","Quaraí","Aceramico","RS",-55.93432143, -30.27268252
+"318","RS-IBI-076","Quaraí","Aceramico","RS",-55.93088886, -30.15467181
+"319","RS-IBI-075","Quaraí","Aceramico","RS",-55.92972244, -30.17421644
+"320","RS-IBI-068","Quaraí","Aceramico","RS",-55.92850133, -30.38050053
+"322","RS-IBI-070","Quaraí","Aceramico","RS",-55.92679221, -30.30634158
+"323","RS-IBI-074","Quaraí","Aceramico","RS",-55.92674171, -30.21348967
+"324","RS-IBI-073","Quaraí","Aceramico","RS",-55.92576334, -30.25283315
+"325","RS-IBI-054","Quaraí","Aceramico","RS",-55.92445192, -30.41098401
+"326","RS-IBI-057","Quaraí","Aceramico","RS",-55.92063419, -30.23046689
+"327","RS-IBI-055","Quaraí","Aceramico","RS",-55.91555327, -30.27299764
+"328","RS-IBI-084","Quaraí","Aceramico","RS",-55.91377045, -30.40630275
+"329","RS-IBI-083","Quaraí","Aceramico","RS",-55.89018205, -30.36387561
+"330","RS-IBI-082","Quaraí","Aceramico","RS",-55.88494004, -30.3058382
+"331","RS-IBI-037","Quaraí","Aceramico","RS",-55.86420502, -30.23801173
+"332","RS-IBI-034","Quaraí","Aceramico","RS",-55.86229126, -30.22280873
+"334","RS-IBI-067","Quaraí","Aceramico","RS",-55.86021242, -30.17418134
+"335","RS-IBI-032","Quaraí","Aceramico","RS",-55.85688293, -30.19450028
+"336","RS-IBI-066","Quaraí","Aceramico","RS",-55.85177856, -30.16350521
+"337","RS-SAM-004","Rosário do Sul","Aceramico","RS",-55.02439549, -30.38561851
+"338","RS-SAM-006","Rosário do Sul","Aceramico","RS",-54.96301394, -30.34189656
+"339","RS-SAM-008","Rosário do Sul","Aceramico","RS",-54.88730373, -30.31393809
+"340","RS-SAM-009","Rosário do Sul","Aceramico","RS",-54.86304619, -30.29859602
+"341","RS-SAM-007","Rosário do Sul","Aceramico","RS",-54.80325421, -30.2764425
+"342","Linha Salto 3","Santa Rosa, Paraguay","Aceramico","RS",-54.59462092, -27.84698212
+"343","Torre 50","Santa Rosa, Paraguay","Aceramico","RS",-54.59158449, -27.83127012
+"344","Torre 51","Santa Rosa, Paraguay","Aceramico","RS",-54.56938033, -27.82975287
+"347","Almeida 1","Santa Rosa, Paraguay","Aceramico","RS",-54.56112011, -27.89737271
+"348","Camargo 1","Santa Rosa, Paraguay","Aceramico","RS",-54.56073303, -27.86254683
+"349","Cascatao Santo Cristo 2","Santa Rosa, Paraguay","Aceramico","RS",-54.55958863, -27.83976196
+"352","Torre 48","Santa Rosa, Paraguay","Aceramico","RS",-54.55312839, -27.83032277
+"353","Balneario Silva 1","Santa Rosa, Paraguay","Aceramico","RS",-54.54286711, -27.79803237
+"354","Hermann 1","Santa Rosa, Paraguay","Aceramico","RS",-54.53784535, -27.93850811
+"355","Silo 1","Santa Rosa, Paraguay","Aceramico","RS",-54.52737521, -27.78810144
+"356","Arlindo 1","Santa Rosa, Paraguay","Aceramico","RS",-54.52710931, -27.92813809
+"357","Gunilde 1","Santa Rosa, Paraguay","Aceramico","RS",-54.52255755, -27.85997133
+"358","Manchinha 1","Santa Rosa, Paraguay","Aceramico","RS",-54.51949925, -27.80163869
+"359","Torre 33","Santa Rosa, Paraguay","Aceramico","RS",-54.49514333, -27.82730625
+"360","RS-MSG-100 BARRANCA DA BARRA","Santa Vitória do Palmar","Aceramico","RS",-53.38264781, -33.74391062
+"362","RS-MSG-109 PRAIA III","Santa Vitória do Palmar","Aceramico","RS",-53.33237386, -33.71237589
+"365","RS-MSG-090 arroio da carqueja","Santa Vitória do Palmar","Aceramico","RS",-53.23494427, -33.60591396
+"366","RS-MSG-086 - BARRANCO DAS LASCAS","Santa Vitória do Palmar","Aceramico","RS",-53.20586536, -33.57481383
+"370","RS-QUA-002","Santana do Livramento","Aceramico","RS",-55.92622978, -30.45016852
+"371","RS-QUA-027","Santana do Livramento","Aceramico","RS",-55.92075275, -30.47463032
+"372","RS-QUA-026","Santana do Livramento","Aceramico","RS",-55.91518342, -30.48554725
+"374","RS-QUA-024","Santana do Livramento","Aceramico","RS",-55.91046945, -30.49906971
+"375","RS-QUA-023","Santana do Livramento","Aceramico","RS",-55.90250166, -30.51639039
+"376","RS-QUA-022","Santana do Livramento","Aceramico","RS",-55.89349745, -30.53752747
+"377","RS-QUA-019","Santana do Livramento","Aceramico","RS",-55.87846587, -30.57380673
+"379","RS-QUA-017","Santana do Livramento","Aceramico","RS",-55.87491064, -30.58368326
+"384","RS-QUA-010","Santana do Livramento","Aceramico","RS",-55.86930389, -30.59411933
+"386","RS-QUA-011","Santana do Livramento","Aceramico","RS",-55.85728758, -30.62440348
+"388","RS-QUA-008","Santana do Livramento","Aceramico","RS",-55.85269265, -30.6344957
+"389","RS-QUA-007","Santana do Livramento","Aceramico","RS",-55.84794741, -30.64750077
+"390","RS-QUA-005","Santana do Livramento","Aceramico","RS",-55.82669172, -30.69916448
+"392","RS-QUA-003","Santana do Livramento","Aceramico","RS",-55.79573852, -30.7609208
+"393","RS-IBI-095","Santana do Livramento","Aceramico","RS",-55.70036491, -30.77540149
+"399","RS-IBI-092","Santana do Livramento","Aceramico","RS",-55.6909118, -30.765887
+"401","RS-IBI-086","Santana do Livramento","Aceramico","RS",-55.68997472, -30.77798561
+"404","RS-IBI-093","Santana do Livramento","Aceramico","RS",-55.67832118, -30.77663127
+"405","RS-IBI-104","Santana do Livramento","Aceramico","RS",-55.67763852, -30.76695231
+"407","RS-IBI-106","Santana do Livramento","Aceramico","RS",-55.66323311, -30.76146337
+"413","RS-IBI-102","Santana do Livramento","Aceramico","RS",-55.6489893, -30.75948424
+"414","RS-IBI-017","Santana do Livramento","Aceramico","RS",-55.61021615, -30.74587495
+"416","RS-IBI-014","Santana do Livramento","Aceramico","RS",-55.6006963, -30.74974242
+"417","RS-IBI-016","Santana do Livramento","Aceramico","RS",-55.59276838, -30.74322378
+"422","RS-IBI-010","Santana do Livramento","Aceramico","RS",-55.57231207, -30.73783054
+"423","RS-IBI-011","Santana do Livramento","Aceramico","RS",-55.54625906, -30.72554172
+"424","RS-SAM-002","Santana do Livramento","Aceramico","RS",-55.39876856, -30.67808255
+"425","RS-IJU-006","Santo Ângelo","Aceramico","RS",-54.39300631, -28.33037301
+"426","RS-IJU-007","Santo Ângelo","Aceramico","RS",-54.38671413, -28.33833598
+"428","RS-IJU-002","Santo Ângelo","Aceramico","RS",-54.38008385, -28.33054033
+"429","RS-IJU-001","Santo Ângelo","Aceramico","RS",-54.33766985, -28.30882504
+"430","RS-S-264: Toca do Sino","Santo Antônio da Patrulha","Aceramico","RS",-50.56666667, -29.76666667
+"431","RS-S-328: Caipora","Santo Antônio da Patrulha","Aceramico","RS",-50.5, -29.46666667
+"432","Linha Rolando 2","Santo Cristo","Aceramico","RS",-54.60773101, -27.8301115
+"433","Linha Rolando 1","Santo Cristo","Aceramico","RS",-54.60578094, -27.79085446
+"434","NANDUVAi 3","São Borja","Aceramico","RS",-55.7041315, -28.98621279
+"437","RS-BIC-022","São Borja","Aceramico","RS",-55.59947932, -28.99533403
+"438","Arroio Arara","São Francisco de Assis","Aceramico","RS",-55.34333333, -29.59611111
+"439","Arroio Inhacunda 3","São Francisco de Assis","Aceramico","RS",-55.26388889, -29.57777778
+"440","Arroio Inhacunda 1","São Francisco de Assis","Aceramico","RS",-55.23472222, -29.59111111
+"441","Jaguari Mirim","São Francisco de Assis","Aceramico","RS",-55.08468418, -29.5336246
+"442","RS-PIR-001","São Luiz Gonzaga","Aceramico","RS",-54.70898644, -28.49040967
+"443","RS-IJU-024","São Miguel das Missões","Aceramico","RS",-54.55248472, -28.42822481
+"445","RS-IJU-018","São Miguel das Missões","Aceramico","RS",-54.53867167, -28.41649946
+"446","Pedro de Almeida","Sertão","Aceramico","RS",-52.12166017, -27.96653897
+"447","BICA","Uruguaiana","Aceramico","RS",-56.99024606, -29.76002768
+"448","RS-I-69: Laranjito","Uruguaiana","Aceramico","RS",-56.94333333, -29.57833333
+"449","VARIANTE 1","Uruguaiana","Aceramico","RS",-56.93566604, -29.73955284
+"450","VARIANTE 2","Uruguaiana","Aceramico","RS",-56.93485182, -29.75129391
+"451","RS-I-72: Palmito 1","Uruguaiana","Aceramico","RS",-56.90972222, -29.54638889
+"453","CASA DE PEDRA","Uruguaiana","Aceramico","RS",-56.9051658, -29.71019428
+"454","RS-I-73: Sanchuri 1","Uruguaiana","Aceramico","RS",-56.90055556, -29.53888889
+"455","MENEZES","Uruguaiana","Aceramico","RS",-56.88064029, -29.67760316
+"456","RS-I-67: Touro Passo 1","Uruguaiana","Aceramico","RS",-56.87222222, -29.67
+"457","RS-I-68: Ribeiro","Uruguaiana","Aceramico","RS",-56.85694444, -29.67611111
+"459","SERVO DE PEDRA","Uruguaiana","Aceramico","RS",-56.7628811, -29.62542439
+"460","Ernani Schmidt","Venâncio Aires","Aceramico","RS",-52.31281918, -29.49250579
+"461","Roni Kramer","Venâncio Aires","Aceramico","RS",-52.30241214, -29.47723105
+"462","Armandio da Silva","Venâncio Aires","Aceramico","RS",-52.30170471, -29.42990642
+"463","Arthur Schwin","Venâncio Aires","Aceramico","RS",-52.26151216, -29.53355763
+"464","Tereza da Costa","Venâncio Aires","Aceramico","RS",-52.19857405, -29.64484737
+"465","Alberto Vogel","Venâncio Aires","Aceramico","RS",-52.13153014, -29.68193014
+"466","Joao Olimpio dos Santos","Venâncio Aires","Aceramico","RS",-52.05583729, -29.63812848
+"467","Eduardo L. Guedes","Venâncio Aires","Aceramico","RS",-52.03467203, -29.69982292
+"468","Sitio Voese","Vera Cruz","Aceramico","RS",-52.62502099, -29.65259619
+"469","Joao Baumgarten","Vera Cruz","Aceramico","RS",-52.57066337, -29.68458036
+"472","Humaitá 2","Vitória das Missões","Aceramico","RS",-54.45242848, -28.36629364
+"473","Humaitá 3","Vitória das Missões","Aceramico","RS",-54.44201016, -28.36307612
+"475","Humaitá","Vitória das Missões","Aceramico","RS",-54.42095329, -28.35486633
+"476","RS-IJU-010","Vitória das Missões","Aceramico","RS",-54.40145129, -28.34408483
+"477","RS-S-359: Aterrado","Santo Antônio da Patrulha","Aceramico","RS",-50.5, -29.7333
+"478","Pessegueiro","Itaqui","Aceramico","RS",-56.39, -29.083056
+"479","Touro Passo I","Uruguaiana","Aceramico","RS",-57.075556, -29.789167
+"480","RS-I-70: Imbaa","Uruguaiana","Aceramico","RS",-56.96666667, -29.64333333
+"481","Laranjito","Uruguaiana","Aceramico","RS",-56.93, -29.613333
+"482","Palmito 2","Uruguaiana","Aceramico","RS",-56.865, -29.532222
+"483","Milton Almeida","Uruguaiana","Aceramico","RS",-56.663889, -29.718056
+"484","RS-IJ-68","São Borja","Aceramico","RS",-56.004939, -28.611719
+"485","RS-I-99","Uruguaiana","Aceramico","RS",-56.558939, -29.286989
+"486","Rio Grande do Sul (OSO-1","Maquiné","Aceramico","RS",-50.2875, -29.616667
+"488","Garivaldino","Montenegro","Aceramico","RS",-51.640667, -29.584389
+"489","Marimbondo","Santo Antônio da Patrulha","Aceramico","RS",-50.55445806, -29.76171449
+"490","Pilger","Paverama","Aceramico","RS",-51.727792, -29.512638
+"491","Monjolo","Triunfo","Aceramico","RS",-51.584969, -29.803822
+"492","ALMERI NICOLAU DUTRA","Alpestre","Aceramico","RS",-53.01465422, -27.15144946
+"494","Praia de seixos do Rio Morto II","Bom Jesus","Aceramico","RS",-50.38102493, -28.44655235
+"496","SiTIO DO DEPRIMIDO","Bom Princípio","Aceramico","RS",-51.354899, -29.439658
+"497","Sanga Felisbino","Braga","Aceramico","RS",-53.74655864, -27.54075479
+"499","U J w 03","Caibaté","Aceramico","RS",-54.62551878, -28.26486999
+"500","OFICINA LiTICA RST 471","Canguçu","Aceramico","RS",-52.79895008, -31.10136136
+"501","U J z  04","Catuípe","Aceramico","RS",-54.01832497, -28.13571886
+"502","U V g 01","Cerro Grande","Aceramico","RS",-53.15678281, -27.62962894
+"505","U V b 04","Cerro Grande","Aceramico","RS",-53.12771945, -27.6152512
+"506","Sao Bras 01","Chuvisca","Aceramico","RS",-51.92448684, -30.75587199
+"507","U U h  01","Erval Grande","Aceramico","RS",-52.56004778, -27.34036385
+"508","Praia 3","Faxinalzinho","Aceramico","RS",-52.72356005, -27.38699433
+"509","UUU 126","Garruchos","Aceramico","RS",-55.71082228, -28.24542599
+"510","Rio dos indios","GetÃºlio Vargas","Aceramico","RS",-52.14357797, -27.87085049
+"511","Arroio dos Ferreiros","Gravataí","Aceramico","RS",-50.97817819, -29.93658779
+"512","U J J 06","Guarani das Missões","Aceramico","RS",-54.55284775, -28.26479258
+"513","U U h  03","Itatiba do Sul","Aceramico","RS",-52.5054478, -27.31876725
+"514","U V c  02","Liberato Salzano","Aceramico","RS",-53.08383151, -27.58951215
+"515","U V k  02","Liberato Salzano","Aceramico","RS",-53.0641381, -27.56283227
+"516","DIQUE 1","Maximiliano de Almeida","Aceramico","RS",-51.77804795, -27.52942598
+"517","SiTIO DOS VETERINaRIOS","Maximiliano de Almeida","Aceramico","RS",-51.77672819, -27.56601804
+"519","Lajeado do Tigre","Miraguaí","Aceramico","RS",-53.77839373, -27.44916443
+"521","Bordinhao","Miraguaí","Aceramico","RS",-53.76695148, -27.46659852
+"522","Sanga agua Fria 2","Miraguaí","Aceramico","RS",-53.75992458, -27.49018391
+"523","RST124","Muçum","Aceramico","RS",-51.84132251, -29.14839202
+"524","JARDIM 01","Muitos Capões","Aceramico","RS",-51.4025219, -28.55639759
+"525","Praia 1","Nonoai","Aceramico","RS",-52.73528007, -27.33520385
+"527","Praia 4","Nonoai","Aceramico","RS",-52.71460791, -27.39134676
+"528","QUARAi - RST 377","Quaraí","Aceramico","RS",-56.50583333, -30.24725
+"530","GEORGINA CORREA","Rio dos Índios","Aceramico","RS",-52.85719087, -27.17156516
+"531","rs  msg 110 praia IV","Santa Vitória do Palmar","Aceramico","RS",-53.34973131, -33.71151477
+"532","U J c 05","Santo Ângelo","Aceramico","RS",-54.49715467, -28.27029195
+"533","U J J 08","Santo Ângelo","Aceramico","RS",-54.47734372, -28.27246261
+"534","U J J 09","Santo Ângelo","Aceramico","RS",-54.4548137, -28.2710972
+"536","U J b  02","Santo Ângelo","Aceramico","RS",-54.39392845, -28.27599333
+"538","U J t 01","Santo Ângelo","Aceramico","RS",-54.35200221, -28.27852458
+"539","La de Ovelha - ST18","São Borja","Aceramico","RS",-55.62005074, -28.89235274
+"541","U M t 02","São Luiz Gonzaga","Aceramico","RS",-55.00123932, -28.26811479
+"543","Sitio V8 - Oficina Litica","São Martinho da Serra","Aceramico","RS",-53.91673049, -29.55916967
+"544","Dalabrida","Tenente Portela","Aceramico","RS",-53.78897316, -27.41516175
+"545","U V t  02","Trindade do Sul","Aceramico","RS",-52.94073362, -27.49867546
+"546","SeRGIO LUIS BAARS","Ubiretama","Aceramico","RS",-54.68233333, -28.055
+"547","Sitio  da BR - 290","Uruguaiana","Aceramico","RS",-57.00154257, -29.81250018
+"548","URUGUAIANA RST 377","Uruguaiana","Aceramico","RS",-56.43305, -30.05701667
+"549","Sitio do Areal 1","(copiado","Aceramico","(copiado",-56.2230338, -30.45960065
+"550","Romildo Petermann A","(copiado","Aceramico","(copiado",-53.26681246, -29.43186195
+"552","RS-EG-02","(copiado","Aceramico","(copiado",-52.66418091, -27.30143645
+"553","Valdir Goettems","(copiado","Aceramico","(copiado",-52.31810008, -29.51000531
+"555","RS-SIN-004","(copiado","Aceramico","(copiado",-50.89897582, -29.68681492

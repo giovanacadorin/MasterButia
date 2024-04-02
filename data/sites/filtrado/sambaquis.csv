@@ -1,0 +1,165 @@
+"id","nome","Municipio","Classificação.autora","UF","decimallon","decimallat"
+"1","Itacoara","Joinville","Sambaqui","SC",-48.86158838, -26.40296055
+"2","Sambaqui Morro do Ouro","Joinville","Sambaqui","SC",-48.827155, -26.31437118
+"3","Sambaqui Forte Marechal Luz ","São Francisco do Sul","Sambaqui","SC",-48.53227547, -26.16548693
+"4","Sambaqui Ilhota 2","Ilhota","Sambaqui","SC",-48.82176827, -26.87088118
+"5","Sambaqui Balsinha I","Laguna","Sambaqui","SC",-48.801474, -28.359889
+"6","Pantano do Sul I","Florianópolis","Sambaqui","SC",-48.51, -27.78
+"7","Praia das Laranjeiras I","Balneario CamboriÃº","Sambaqui","SC",-48.593737, -26.996715
+"8","SC-ARA-050","Araranguá","Sambaqui","SC",-49.36374278, -28.93405991
+"9","Morro Agudo","Araranguá","Sambaqui","SC",-49.35539706, -28.9220825
+"11","Barra do Ararangua","Araranguá","Sambaqui","SC",-49.34928177, -28.92998493
+"12","Fazenda dos Búfalos","Balneário Barra do Sul","Sambaqui","SC",-48.64721126, -26.46444077
+"13","Costeira","Balneário Barra do Sul","Sambaqui","SC",-48.63736933, -26.45686001
+"14","Sobral 1","Balneário Barra do Sul","Sambaqui","SC",-48.611185, -26.46735305
+"16","Lagoa de Fora II","Balneário Gaivota","Sambaqui","SC",-49.61149155, -29.12766705
+"17","Picarras 1","Balneário Piçarras","Sambaqui","SC",-48.68455729, -26.76014421
+"18","Rio Itapocu","Barra Velha","Sambaqui","SC",-48.72048266, -26.60170753
+"19","Areias de Baixo II","Biguaçu","Sambaqui","SC",-48.605867, -27.400035
+"20","Sambaqui da Rua 13","Bombinhas","Sambaqui","SC",-48.50661439, -27.14431149
+"21","Ponta dos Limões I","Florianópolis","Sambaqui","SC",-48.54481321, -27.61648507
+"22","Ponta do Sambaqui","Florianópolis","Sambaqui","SC",-48.53848094, -27.49085271
+"23","Carianos II","Florianópolis","Sambaqui","SC",-48.53372783, -27.66547119
+"24","Ponta do Lessa I","Florianópolis","Sambaqui","SC",-48.526963, -27.57237027
+"25","Saco Grande I","Florianópolis","Sambaqui","SC",-48.51279694, -27.55399003
+"26","Jurerê IV","Florianópolis","Sambaqui","SC",-48.50633659, -27.45850101
+"28","Ponta da Armacao I","Florianópolis","Sambaqui","SC",-48.49995487, -27.74985191
+"29","Campo de Jurerê I","Florianópolis","Sambaqui","SC",-48.49664317, -27.45372528
+"30","Rio Tavares IV","Florianópolis","Sambaqui","SC",-48.4876965, -27.65457574
+"31","Ratones I","Florianópolis","Sambaqui","SC",-48.48298344, -27.49755608
+"33","Ratones V (ocorrência A","Florianópolis","Sambaqui","SC",-48.47005571, -27.50403452
+"35","Ratones IV","Florianópolis","Sambaqui","SC",-48.46816788, -27.49102528
+"37","Canasvieiras I","Florianópolis","Sambaqui","SC",-48.46306022, -27.44282224
+"38","Vargem Pequena I","Florianópolis","Sambaqui","SC",-48.45806001, -27.47914733
+"39","Vargem do Bom Jesus II","Florianópolis","Sambaqui","SC",-48.43594243, -27.4447527
+"42","Sao Joao do Rio Vermelho I","Florianópolis","Sambaqui","SC",-48.4242194, -27.51133143
+"43","Residencial Pedra Branca II","Garopaba","Sambaqui","SC",-48.64837, -28.046638
+"44","SC-DUN-002","Garopaba","Sambaqui","SC",-48.635145, -28.102533
+"45","Encosta da Lagoa","Garopaba","Sambaqui","SC",-48.62900244, -28.04959836
+"46","Capao de Garopaba","Garopaba","Sambaqui","SC",-48.62842706, -28.08227828
+"47","Nova Bremen","Ibirama","Sambaqui","SC",-49.584022, -27.046629
+"48","Sambaqui da Lagoa dos Freitas II","Içara","Sambaqui","SC",-49.219351, -28.806643
+"49","Sambaqui Ilha dos Pereira","Imaruí","Sambaqui","SC",-48.73882415, -28.27090372
+"50","Itaiópolis I","Itaiópolis","Sambaqui","SC",-49.81057655, -26.49655473
+"51","Sambaqui Volta Velha I","Itapoá","Sambaqui","SC",-48.65256066, -26.09711221
+"52","Jaguaruna V","Itapoá","Sambaqui","SC",-48.62783546, -26.15778925
+"53","Rio Inferninho","Itapoá","Sambaqui","SC",-48.6227298, -26.14491682
+"57","Jaguaruna VI","Itapoá","Sambaqui","SC",-48.61717215, -26.18188417
+"58","Morro Grande I (atualizacao CNSA SC00666","Jaguaruna","Sambaqui","SC",-49.084822, -28.697285
+"60","Sambaqui da Amizade","Jaguaruna","Sambaqui","SC",-49.00337422, -28.56143827
+"62","Jaboticabeiras V","Jaguaruna","Sambaqui","SC",-48.97576178, -28.58100055
+"64","Garopaba do Sul I","Jaguaruna","Sambaqui","SC",-48.8929, -28.625531
+"65","Ribeirao do Cubatao","Joinville","Sambaqui","SC",-48.80614857, -26.20178325
+"66","Sambaqui Cabecuda 01","Laguna","Sambaqui","SC",-48.83023124, -28.38557463
+"68","Estreito","Laguna","Sambaqui","SC",-48.75922999, -28.37423278
+"69","Ponta do Maruim","Palhoça","Sambaqui","SC",-48.65722222, -27.62944444
+"70","Massiambu-02","Palhoça","Sambaqui","SC",-48.64030525, -27.86682408
+"72","Perequê II","Porto Belo","Sambaqui","SC",-48.60612, -27.1606
+"73","Sambaqui Ilha Joao da Cunha","Porto Belo","Sambaqui","SC",-48.53995905, -27.13654125
+"74","Sambaqui do Portinho II","São Francisco do Sul","Sambaqui","SC",-48.61431031, -26.24266211
+"76","Ribeira VIII","São Francisco do Sul","Sambaqui","SC",-48.70991787, -26.30665277
+"79","Praia do Pereira","São Francisco do Sul","Sambaqui","SC",-48.67901461, -26.28563305
+"80","Laranjeiras VI","São Francisco do Sul","Sambaqui","SC",-48.67002786, -26.27643534
+"83","Ilha Araújo de Dentro","São Francisco do Sul","Sambaqui","SC",-48.66165913, -26.270433
+"84","Sambaqui Morretinha","São Francisco do Sul","Sambaqui","SC",-48.659604, -26.355757
+"85","Porto do Rei II","São Francisco do Sul","Sambaqui","SC",-48.61515, -26.398025
+"86","Tapera IX","São Francisco do Sul","Sambaqui","SC",-48.61493765, -26.28239796
+"90","Sambaqui Praia do Ervino II","São Francisco do Sul","Sambaqui","SC",-48.59765894, -26.41615174
+"92","Sambaqui","São Francisco do Sul","Sambaqui","SC",-48.58424581, -26.2238019
+"93","Sambaqui Praia Grande S2","São Francisco do Sul","Sambaqui","SC",-48.578576, -26.373929
+"94","Praia Grande III","São Francisco do Sul","Sambaqui","SC",-48.572259, -26.366034
+"95","Sambaqui da Ilha da Casca","São José do Cerrito","Sambaqui","SC",-48.632295, -27.644201
+"96","Sambaqui da Ponta do Cubiculo","Treze de Maio","Sambaqui","SC",-49.06265265, -28.56323857
+"98","Sambaqui das Abelhas","Tubarão","Sambaqui","SC",-49.05199392, -28.54260213
+"99","Sambaqui da Ponta do Simao","Tubarão","Sambaqui","SC",-49.04627467, -28.53078911
+"100","SC-formigao-01","Tubarão","Sambaqui","SC",-49.04277627, -28.49723457
+"101","Monte Castelo II","Tubarão","Sambaqui","SC",-49.027963, -28.514621
+"102","SC TUB 32","Tubarão","Sambaqui","SC",-49.027105, -28.503946
+"103","Congonhas I","Tubarão","Sambaqui","SC",-49.008501, -28.524727
+"104","Congonhas IV","Tubarão","Sambaqui","SC",-48.98035873, -28.5083396
+"105","Sambaqui Rio Pinheiros II","Balneário Barra do Sul","Sambaqui","SC",-48.63538242, -26.42309801
+"106","Sambaqui Conquista B","Araquari","Sambaqui","SC",-48.67198375, -26.41181323
+"107","Sambaqui Linguado B","Balneário Barra do Sul","Sambaqui","SC",-48.669513, -26.360574
+"109","Sambaqui Rio Comprido I","Joinville","Sambaqui","SC",-48.80717366, -26.27617809
+"110","Figueirinha 5","Jaguaruna","Sambaqui","SC",-48.98819208, -28.66359661
+"111","Figueirinha 3","Jaguaruna","Sambaqui","SC",-48.9738861, -28.66325692
+"116","Sambaqui Gaspar","Gaspar","Sambaqui","SC",-48.916667, -26.966667
+"120","Sambaqui Tavares III","Florianópolis","Sambaqui","SC",-48.5, -27.66
+"122","Sambaqui Samambaia","Imaruí","Sambaqui","SC",-48.86888889, -28.3175
+"123","Sambaqui Garopaba","Jaguaruna","Sambaqui","SC",-48.88472222, -28.61805556
+"124","Sambaqui Palmital","Joinville","Sambaqui","SC",-48.80222222, -26.13416667
+"125","Sambaqui Ponta das Almas","Florianópolis","Sambaqui","SC",-48.4593447, -27.59526699
+"126","Sambaqui Espinheiros I","Joinville","Sambaqui","SC",-48.843889, -26.301389
+"127","Encantada 1 (Emideo","Jaguaruna","Sambaqui","SC",-48.91567338, -28.624045
+"128","Sambaqui Barra da Lagoa I","Florianópolis","Sambaqui","SC",-48.42, -27.57
+"129","Sambaqui Praia Grande ","São Francisco do Sul","Sambaqui","SC",-48.42, -27.53
+"130","Sambaqui Caieira","Laguna","Sambaqui","SC",-48.7675, -28.45
+"131","Sambaqui Carnica I","Laguna","Sambaqui","SC",-48.80222222, -28.53444444
+"134","Sambaqui Ilhota","Ilhota","Sambaqui","SC",-48.799256, -26.873637
+"135","Sambaqui Cabecudas","Laguna","Sambaqui","SC",-48.8293593, -28.428339
+"136","Areias Pequenhas","Araquari","Sambaqui","SC",-48.68886374, -26.36491395
+"137","Sambaqui Pernambuco","Balneário Barra do Sul","Sambaqui","SC",-48.66802778, -26.38126294
+"139","Sambaqui Rio Bacuruiuma I","Joinville","Sambaqui","SC",-48.8033353, -26.14533956
+"140","Sambaqui Lagoa do Saguacu","Joinville","Sambaqui","SC",-48.79548427, -26.30720883
+"141","Sambaqui ilha dos Espinheiros II","Joinville","Sambaqui","SC",-48.77894972, -26.29153836
+"142","Sambaqui Bupeva VII","São Francisco do Sul","Sambaqui","SC",-48.60793851, -26.44253139
+"144","Sambqaui Rua Guaira","Joinville","Sambaqui","SC",-48.80853235, -26.25181198
+"146","Sambaqui Cubatao I","Joinville","Sambaqui","SC",-48.77206156, -26.22229729
+"147","Sambaqui Tiburtius","Joinville","Sambaqui","SC",-48.79813405, -26.16776986
+"149","Sambaqui Cubatao III","Joinville","Sambaqui","SC",-48.7818647, -26.20453346
+"151","Galheta IV","Laguna","Sambaqui","SC",-48.7888, -28.5551
+"152","Arroio da Cruz I","Jaguaruna","Sambaqui","SC",-49.0815, -28.7213
+"153","Sambaqui Capivari I","Capivari de Baixo","Sambaqui","SC",-48.961111, -28.452587
+"154","Sambaqui Canto da Lagoa II","Florianópolis","Sambaqui","SC",-49.11, -28.407
+"155","Sambaqui Canto da Lagoa I","Florianópolis","Sambaqui","SC",-48.48, -27.63
+"156","Ilhotinha","Gravatal","Sambaqui","SC",-48.96453303, -28.396531
+"157","Sambaqui Morro Azul","Jaguaruna","Sambaqui","SC",-49.05564331, -28.610332
+"158","Jaguaruna 1","Jaguaruna","Sambaqui","SC",-49.02151902, -28.603326
+"159","Porto Viera 1","Jaguaruna","Sambaqui","SC",-49.00133967, -28.583105
+"160","Jabuticabeira","Jaguaruna","Sambaqui","SC",-48.98266567, -28.561524
+"161","Jabuticabeira II","Jaguaruna","Sambaqui","SC",-48.96030359, -28.578976
+"163","Santa Marta 1","Laguna","Sambaqui","SC",-48.83061686, -28.591422
+"165","Galheta 3","Laguna","Sambaqui","SC",-48.79642441, -28.544683
+"166","Lagoa dos Bichos I","Laguna","Sambaqui","SC",-48.79037848, -28.536693
+"172","Ribeirao Pequeno","Ribeirao Pequeno","Sambaqui","SC",-48.89167232, -28.513319
+"173","Rio Caipora","São Gabriel","Sambaqui","SC",-49.0988309, -28.559512
+"174","Lajeado 1","Tubarão","Sambaqui","SC",-49.07480507, -28.543045
+"175","Cubiculo I","Tubarão","Sambaqui","SC",-49.0628319, -28.551777
+"178","Sambaqui Congonhas","Tubarão","Sambaqui","SC",-49.00813624, -28.513697
+"183","Mato Alto 2","Tubarão","Sambaqui","SC",-48.97065944, -28.518193
+"185","Morrote","Tubarão","Sambaqui","SC",-48.96244642, -28.5362
+"186","Sambaqui Enseada I","São Francisco do Sul","Sambaqui","SC",-48.49979216, -26.23390818
+"188","Sambaqui Cubataozinho","Joinville","Sambaqui","SC",-48.78244529, -26.22245792
+"190","Sambaqui Ponta das Palmas","Joinville","Sambaqui","SC",-48.76156683, -26.20284699
+"193","Sambaqui Pereque de Praia Grande","São Francisco do Sul","Sambaqui","SC",-48.6066307, -26.40345127
+"201","Sambaqui Praia Grande V","São Francisco do Sul","Sambaqui","SC",-48.56490441, -26.34696684
+"202","Sambaqui Praia Grande VI","São Francisco do Sul","Sambaqui","SC",-48.56290346, -26.33060757
+"203","Sambaqui Praia Grande VIII","São Francisco do Sul","Sambaqui","SC",-48.56231049, -26.31780079
+"207","Sambaqui Lagoa do Acarai I","São Francisco do Sul","Sambaqui","SC",-48.54667638, -26.28940489
+"211","Sambaqui Lagoa do Acarai V (S11","São Francisco do Sul","Sambaqui","SC",-48.54137927, -26.28139075
+"216","Santa Marta 5","Laguna","Sambaqui","SC",-48.83679667, -28.582186
+"218","Santa Marta 3","Laguna","Sambaqui","SC",-48.82275466, -28.584017
+"219","Sambaqui Costeira","Balneário Barra do Sul","Sambaqui","SC",-48.63090127, -26.4388169
+"220","Sambaqui Espinheiros II","Joinville","Sambaqui","SC",-48.79277994, -26.28398099
+"222","Sambaqui Porto do Rio Vermelho I","Florianópolis","Sambaqui","SC",-48.42, -27.52
+"224","Sambaqui Sereia do Mar","Arroio do Sal","Sambaqui","RS",-49.90921107, -29.57763655
+"225","Sambaqui do Camping","Capão da Canoa","Sambaqui","RS",-49.95205549, -29.63155931
+"226","Sambaqui Itapeva","Torres","Sambaqui","RS",-49.75973789, -29.38414462
+"227","Sambaqui da Dorva","Três Cachoeiras","Sambaqui","RS",-49.8791484, -29.424919
+"231","Camboim 2","Arroio do Sal","Sambaqui","RS",-49.87884431, -29.51993093
+"233","Rondinha","Arroio do Sal","Sambaqui","RS",-49.86744044, -29.5258302
+"234","Jardim Olivia 2","Arroio do Sal","Sambaqui","RS",-49.86239093, -29.51129022
+"236","Arroio Seco 15","Arroio do Sal","Sambaqui","RS",-49.83352597, -29.46349462
+"243","Arroio Seco 2","Arroio do Sal","Sambaqui","RS",-49.82345316, -29.46051443
+"245","Torres Sul 1","Arroio do Sal","Sambaqui","RS",-49.82053271, -29.44376645
+"248","Sitio arqueológico Vento Frio","Capão da Canoa","Sambaqui","RS",-50.04272509, -29.65374096
+"249","RS - LC - 95","Palmares do Sul","Sambaqui","RS",-50.35583333, -30.4185
+"251","RS - LC - 91","Palmares do Sul","Sambaqui","RS",-50.35166667, -30.39733333
+"252","RS - LC - 87","Palmares do Sul","Sambaqui","RS",-50.34916667, -30.3615
+"254","RS-LC-14 Capao da Marca A","Tavares","Sambaqui","RS",-51.1678958, -31.33076285
+"256","RS-LC-17 Farol da Marca B","Tavares","Sambaqui","RS",-51.16353814, -31.31671605
+"258","RS-LC-20 Campo da Honra B","Tavares","Sambaqui","RS",-51.16057892, -31.30341244
+"259","RS - LN - 012","Torres","Sambaqui","RS",-49.74916667, -29.36866667
+"260","Balneario Atlantico","Arroio do Sal","Sambaqui","RS",-49.84380431, -29.48101941
+"263","Sambaqui do Recreio","Torres","Sambaqui","RS",-49.7862024, -29.4115967
+"264","SC-ARA-063","(copiado","Sambaqui","SC",-49.41968997, -28.91657172
